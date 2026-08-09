@@ -82,10 +82,4 @@ Note: `week3_probing.py` and `week3b_breakdown.py` download and run two open mul
 
 Full methodology, discussion, and limitations are in `paper/yoruba_tone_paper_draft.docx`.
 
-## Citation
 
-If you use this code or dataset, please cite: *[add once finalized/published]*
-
-## License
-
-*[choose a license — MIT is a common permissive default for research code; see https://choosealicense.com]*
