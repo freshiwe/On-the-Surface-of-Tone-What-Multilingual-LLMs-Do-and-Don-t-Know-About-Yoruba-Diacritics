@@ -1,0 +1,10 @@
+# Data collection (src/build_probing_pool.py, src/build_tone_pairs.py)
+pandas>=2.0.0
+requests>=2.31.0
+
+# Modeling and probing (src/week3_probing.py, src/week3b_breakdown.py, src/week3c_symmetry_check.py)
+torch>=2.0.0
+transformers>=4.40.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+matplotlib>=3.7.0

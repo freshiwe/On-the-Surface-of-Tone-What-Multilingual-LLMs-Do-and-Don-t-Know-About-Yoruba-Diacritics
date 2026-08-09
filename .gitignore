@@ -1,0 +1,24 @@
+# Large, regenerable, or third-party data — do not commit
+embedding_cache/
+menyo-20k_MT/
+*.npz
+*.npy
+
+# Raw/intermediate downloads (keep only data/processed/*.csv)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+*.ipynb_checkpoints

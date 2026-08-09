@@ -1,0 +1,1601 @@
+pair_id,sentence,label,corruption_type,phenomenon,source
+tone_0000,Ó tún dúpẹ́ lówọ́ àwọn ọmọ orílẹ̀-èdè Nàìjííríà fún àdúrà àti àtìlẹyìn wọn.,correct,none,tone,menyo20k
+tone_0000,O tun dupẹ lowọ awọn ọmọ orilẹ-ede Naijiiria fun adura ati atilẹyin wọn.,incorrect,strip_all,tone,menyo20k
+tone_0000,Ó tún dúpẹ́ lówọ́ àwọn ọmọ orílẹ̀-èdè Nàìjííríà fún àdúrá àti àtìlẹyìn wọn.,incorrect,single_flip,tone,menyo20k
+tone_0000,Ó tún dúpẹ lówọ́ àwọn ọmọ orílẹ̀-èdè Nàìjííríà fún àdúrà àti àtìlẹyìn wọn.,incorrect,single_delete,tone,menyo20k
+tone_0001,Ìjàm̀bá Àwọn Ológun Mauritania 28 tí wọ́n pa ní ọjọ́ Òmìnira tí a kò sọ,correct,none,tone,menyo20k
+tone_0001,Ijamba Awọn Ologun Mauritania 28 ti wọn pa ni ọjọ Ominira ti a ko sọ,incorrect,strip_all,tone,menyo20k
+tone_0001,Íjàm̀bá Àwọn Ológun Mauritania 28 tí wọ́n pa ní ọjọ́ Òmìnira tí a kò sọ,incorrect,single_flip,tone,menyo20k
+tone_0001,Ìjàm̀bá Àwọn Ológun Mauritania 28 tí wọ́n pa ní ọjọ́ Òminira tí a kò sọ,incorrect,single_delete,tone,menyo20k
+tone_0002,Ìgbà ara ń bẹ lára là ń bù ú tà.,correct,none,tone,menyo20k
+tone_0002,Igba ara n bẹ lara la n bu u ta.,incorrect,strip_all,tone,menyo20k
+tone_0002,Ìgbà ara ń bẹ lára lá ń bù ú tà.,incorrect,single_flip,tone,menyo20k
+tone_0002,Ìgbà ara ń bẹ lara là ń bù ú tà.,incorrect,single_delete,tone,menyo20k
+tone_0003,Má ì tí ì lọ,correct,none,tone,menyo20k
+tone_0003,Ma i ti i lọ,incorrect,strip_all,tone,menyo20k
+tone_0003,Má í tí ì lọ,incorrect,single_flip,tone,menyo20k
+tone_0003,Má i tí ì lọ,incorrect,single_delete,tone,menyo20k
+tone_0004,"Bí àjànàkú ò bá rí ohun gbémì, kì í ṣe inú gbẹndu sọ́dẹ.",correct,none,tone,menyo20k
+tone_0004,"Bi ajanaku o ba ri ohun gbemi, ki i ṣe inu gbẹndu sọdẹ.",incorrect,strip_all,tone,menyo20k
+tone_0004,"Bí àjànàkú ò bá rí ohun gbémì, kì ì ṣe inú gbẹndu sọ́dẹ.",incorrect,single_flip,tone,menyo20k
+tone_0004,"Bí ajànàkú ò bá rí ohun gbémì, kì í ṣe inú gbẹndu sọ́dẹ.",incorrect,single_delete,tone,menyo20k
+tone_0005,"Ẹlẹ́dẹ̀ ń pàfọ̀, ó rò pé òún ń ṣoge.",correct,none,tone,menyo20k
+tone_0005,"Ẹlẹdẹ n pafọ, o ro pe oun n ṣoge.",incorrect,strip_all,tone,menyo20k
+tone_0005,"Ẹlẹ́dẹ̀ ń pàfọ̀, ó rò pé òún ǹ ṣoge.",incorrect,single_flip,tone,menyo20k
+tone_0005,"Ẹlẹ́dẹ̀ ń pàfọ̀, ó rò pé oún ń ṣoge.",incorrect,single_delete,tone,menyo20k
+tone_0006,--- Ọmọ Didier Drogba dara pọ̀ mọ́ ikọ̀ agbábọ́ọ̀lù Guingamp.,correct,none,tone,menyo20k
+tone_0006,--- Ọmọ Didier Drogba dara pọ mọ ikọ agbabọọlu Guingamp.,incorrect,strip_all,tone,menyo20k
+tone_0006,--- Ọmọ Didier Drogba dara pọ́ mọ́ ikọ̀ agbábọ́ọ̀lù Guingamp.,incorrect,single_flip,tone,menyo20k
+tone_0006,--- Ọmọ Didier Drogba dara pọ̀ mọ́ ikọ̀ agbábọọ̀lù Guingamp.,incorrect,single_delete,tone,menyo20k
+tone_0007,Àkànṣe lọfà ìmàdò; jagan oró ò ran èse.,correct,none,tone,menyo20k
+tone_0007,Akanṣe lọfa imado; jagan oro o ran ese.,incorrect,strip_all,tone,menyo20k
+tone_0007,Àkànṣe lọfà ìmàdò; jagan orò ò ran èse.,incorrect,single_flip,tone,menyo20k
+tone_0007,Akànṣe lọfà ìmàdò; jagan oró ò ran èse.,incorrect,single_delete,tone,menyo20k
+tone_0008,Ṣé èmi lò ń bá wí?,correct,none,tone,menyo20k
+tone_0008,Ṣe emi lo n ba wi?,incorrect,strip_all,tone,menyo20k
+tone_0008,Ṣè èmi lò ń bá wí?,incorrect,single_flip,tone,menyo20k
+tone_0008,Ṣe èmi lò ń bá wí?,incorrect,single_delete,tone,menyo20k
+tone_0009,"Bí òní ti rí, ọ̀la ò rí bẹ́ẹ̀, ni babaláwoó fi ń dÍfá lọ́rọọrún.",correct,none,tone,menyo20k
+tone_0009,"Bi oni ti ri, ọla o ri bẹẹ, ni babalawoo fi n dIfa lọrọọrun.",incorrect,strip_all,tone,menyo20k
+tone_0009,"Bí òní ti rí, ọ̀la ò rì bẹ́ẹ̀, ni babaláwoó fi ń dÍfá lọ́rọọrún.",incorrect,single_flip,tone,menyo20k
+tone_0009,"Bí òní ti rí, ọ̀la ò rí bẹẹ̀, ni babaláwoó fi ń dÍfá lọ́rọọrún.",incorrect,single_delete,tone,menyo20k
+tone_0010,Oṣù February ni ilé ẹjọ́ rán Arákùnrin Christensen lẹ́wọ̀n.,correct,none,tone,menyo20k
+tone_0010,Oṣu February ni ile ẹjọ ran Arakunrin Christensen lẹwọn.,incorrect,strip_all,tone,menyo20k
+tone_0010,Oṣú February ni ilé ẹjọ́ rán Arákùnrin Christensen lẹ́wọ̀n.,incorrect,single_flip,tone,menyo20k
+tone_0010,Oṣù February ni ilé ẹjọ́ ran Arákùnrin Christensen lẹ́wọ̀n.,incorrect,single_delete,tone,menyo20k
+tone_0011,Oníròyìn Orí ẹ̀rọ-alátagbà Luis Carlos Diaz di àwátì ní Venezuela,correct,none,tone,menyo20k
+tone_0011,Oniroyin Ori ẹrọ-alatagba Luis Carlos Diaz di awati ni Venezuela,incorrect,strip_all,tone,menyo20k
+tone_0011,Oníròyìn Orí ẹ̀rọ-alátagbà Luis Carlos Diaz di àwátì nì Venezuela,incorrect,single_flip,tone,menyo20k
+tone_0011,Oníròyìn Orí ẹ̀rọ-alátagbà Luis Carlos Diaz di àwatì ní Venezuela,incorrect,single_delete,tone,menyo20k
+tone_0012,"Rárá, ipò àìlera kan ni, àlàáfíà máa tó ẹ",correct,none,tone,menyo20k
+tone_0012,"Rara, ipo ailera kan ni, alaafia maa to ẹ",incorrect,strip_all,tone,menyo20k
+tone_0012,"Rárá, ipò àìlera kan ni, àlááfíà máa tó ẹ",incorrect,single_flip,tone,menyo20k
+tone_0012,"Rárá, ipò aìlera kan ni, àlàáfíà máa tó ẹ",incorrect,single_delete,tone,menyo20k
+tone_0013,Àì-mọwọ́-ọ́-wẹ̀ ni àì-bágbà-jẹ; ọmọ tó mọwọ́ọ́ wẹ̀ á bágbà jẹ.,correct,none,tone,menyo20k
+tone_0013,Ai-mọwọ-ọ-wẹ ni ai-bagba-jẹ; ọmọ to mọwọọ wẹ a bagba jẹ.,incorrect,strip_all,tone,menyo20k
+tone_0013,Àì-mọwọ́-ọ́-wẹ̀ ni àì-bágbà-jẹ; ọmọ tó mọwọ́ọ́ wẹ̀ á bàgbà jẹ.,incorrect,single_flip,tone,menyo20k
+tone_0013,Àì-mọwọ́-ọ́-wẹ̀ ni àì-bágba-jẹ; ọmọ tó mọwọ́ọ́ wẹ̀ á bágbà jẹ.,incorrect,single_delete,tone,menyo20k
+tone_0014,"Níparí, ṣèrántí wípé ibi-ìkọ̀kọ̀ lè yí padà.",correct,none,tone,menyo20k
+tone_0014,"Nipari, ṣeranti wipe ibi-ikọkọ le yi pada.",incorrect,strip_all,tone,menyo20k
+tone_0014,"Níparí, ṣèrántí wípé ibi-ìkọ̀kọ̀ lè yí padá.",incorrect,single_flip,tone,menyo20k
+tone_0014,"Niparí, ṣèrántí wípé ibi-ìkọ̀kọ̀ lè yí padà.",incorrect,single_delete,tone,menyo20k
+tone_0015,Ìyẹn dá mi lójú hán-ún hán-ún.”,correct,none,tone,menyo20k
+tone_0015,Iyẹn da mi loju han-un han-un.”,incorrect,strip_all,tone,menyo20k
+tone_0015,Ìyẹn dá mi lòjú hán-ún hán-ún.”,incorrect,single_flip,tone,menyo20k
+tone_0015,Ìyẹn dá mi lójú hán-ún han-ún.”,incorrect,single_delete,tone,menyo20k
+tone_0016,Ẹni tó ránṣẹ́ sí oròó bẹ̀wẹ̀ fún àìsùn.,correct,none,tone,menyo20k
+tone_0016,Ẹni to ranṣẹ si oroo bẹwẹ fun aisun.,incorrect,strip_all,tone,menyo20k
+tone_0016,Ẹni tó ránṣẹ́ sí oròò bẹ̀wẹ̀ fún àìsùn.,incorrect,single_flip,tone,menyo20k
+tone_0016,Ẹni tó ránṣẹ́ sí oroó bẹ̀wẹ̀ fún àìsùn.,incorrect,single_delete,tone,menyo20k
+tone_0017,"Ní báyìí, Mancini yóò kúrò nínú ikọ̀ ọ̀hún láìgba owó gbàmábìínú kankan.",correct,none,tone,menyo20k
+tone_0017,"Ni bayii, Mancini yoo kuro ninu ikọ ọhun laigba owo gbamabiinu kankan.",incorrect,strip_all,tone,menyo20k
+tone_0017,"Ní báyìí, Mancini yòò kúrò nínú ikọ̀ ọ̀hún láìgba owó gbàmábìínú kankan.",incorrect,single_flip,tone,menyo20k
+tone_0017,"Ní báyìí, Mancini yóò kurò nínú ikọ̀ ọ̀hún láìgba owó gbàmábìínú kankan.",incorrect,single_delete,tone,menyo20k
+tone_0018,--- S̩ís̩í àwo̩n ilé-è̩kó̩ kò tíì farahàn - Mínísítà,correct,none,tone,menyo20k
+tone_0018,--- S̩is̩i awo̩n ile-e̩ko̩ ko tii farahan - Minisita,incorrect,strip_all,tone,menyo20k
+tone_0018,--- S̩ís̩í àwo̩n ilé-è̩kó̩ kò tíì farahàn - Mínísìtà,incorrect,single_flip,tone,menyo20k
+tone_0018,--- S̩ís̩í àwo̩n ilé-è̩ko̩ kò tíì farahàn - Mínísítà,incorrect,single_delete,tone,menyo20k
+tone_0019,Gbólóhùn kan Agán tó awoó ṣe.,correct,none,tone,menyo20k
+tone_0019,Gbolohun kan Agan to awoo ṣe.,incorrect,strip_all,tone,menyo20k
+tone_0019,Gbòlóhùn kan Agán tó awoó ṣe.,incorrect,single_flip,tone,menyo20k
+tone_0019,Gbolóhùn kan Agán tó awoó ṣe.,incorrect,single_delete,tone,menyo20k
+tone_0020,"Bí ẹ bá lọ sórí ẹ̀rọ-ayélukára nísìyìí, e ó rí ọ̀pọ̀lọpọ̀ afitóni aṣinilọ́nà.",correct,none,tone,menyo20k
+tone_0020,"Bi ẹ ba lọ sori ẹrọ-ayelukara nisiyii, e o ri ọpọlọpọ afitoni aṣinilọna.",incorrect,strip_all,tone,menyo20k
+tone_0020,"Bí ẹ bá lọ sórí ẹ̀rọ-ayélukára nísìyìí, e ó rì ọ̀pọ̀lọpọ̀ afitóni aṣinilọ́nà.",incorrect,single_flip,tone,menyo20k
+tone_0020,"Bí ẹ bá lọ sóri ẹ̀rọ-ayélukára nísìyìí, e ó rí ọ̀pọ̀lọpọ̀ afitóni aṣinilọ́nà.",incorrect,single_delete,tone,menyo20k
+tone_0021,"Ojú ti kókó, ojú ti eéwo; ojú ti aáràgbá ìdí pẹ̀lú.",correct,none,tone,menyo20k
+tone_0021,"Oju ti koko, oju ti eewo; oju ti aaragba idi pẹlu.",incorrect,strip_all,tone,menyo20k
+tone_0021,"Ojú ti kókó, ojú ti eéwo; ojù ti aáràgbá ìdí pẹ̀lú.",incorrect,single_flip,tone,menyo20k
+tone_0021,"Ojú ti kókó, ojú ti eéwo; oju ti aáràgbá ìdí pẹ̀lú.",incorrect,single_delete,tone,menyo20k
+tone_0022,Ọlọ́run ṣeun pé ẹ wà níbí,correct,none,tone,menyo20k
+tone_0022,Ọlọrun ṣeun pe ẹ wa nibi,incorrect,strip_all,tone,menyo20k
+tone_0022,Ọlọ́run ṣeun pé ẹ wà níbì,incorrect,single_flip,tone,menyo20k
+tone_0022,Ọlọ́run ṣeun pé ẹ wa níbí,incorrect,single_delete,tone,menyo20k
+tone_0023,"Omar Robert Hamilton, olùkùu Alaa, to àwọn ète ìpolongo náà lẹ́sẹẹsẹ lóríi Twitter:",correct,none,tone,menyo20k
+tone_0023,"Omar Robert Hamilton, olukuu Alaa, to awọn ete ipolongo naa lẹsẹẹsẹ lorii Twitter:",incorrect,strip_all,tone,menyo20k
+tone_0023,"Omar Robert Hamilton, olúkùu Alaa, to àwọn ète ìpolongo náà lẹ́sẹẹsẹ lóríi Twitter:",incorrect,single_flip,tone,menyo20k
+tone_0023,"Omar Robert Hamilton, olùkùu Alaa, to àwọn ète ìpolongo náà lẹsẹẹsẹ lóríi Twitter:",incorrect,single_delete,tone,menyo20k
+tone_0024,"Láti báa yín sọ̀rọ̀ tààrà, àwọn òòṣa ti Silicon Valley.",correct,none,tone,menyo20k
+tone_0024,"Lati baa yin sọrọ taara, awọn ooṣa ti Silicon Valley.",incorrect,strip_all,tone,menyo20k
+tone_0024,"Láti báa yín sọ̀rọ̀ tààrà, áwọn òòṣa ti Silicon Valley.",incorrect,single_flip,tone,menyo20k
+tone_0024,"Láti baa yín sọ̀rọ̀ tààrà, àwọn òòṣa ti Silicon Valley.",incorrect,single_delete,tone,menyo20k
+tone_0025,"Ibi Tá A Ti Ṣeé: Marlins Park ní Miami, Florida, Lórílẹ̀-èdè Amẹ́ríkà",correct,none,tone,menyo20k
+tone_0025,"Ibi Ta A Ti Ṣee: Marlins Park ni Miami, Florida, Lorilẹ-ede Amẹrika",incorrect,strip_all,tone,menyo20k
+tone_0025,"Ibi Tá A Ti Ṣeé: Marlins Park ní Miami, Florida, Lórílẹ̀-édè Amẹ́ríkà",incorrect,single_flip,tone,menyo20k
+tone_0025,"Ibi Tá A Ti Ṣee: Marlins Park ní Miami, Florida, Lórílẹ̀-èdè Amẹ́ríkà",incorrect,single_delete,tone,menyo20k
+tone_0026,"Ọkọ̀ ń jò, ọkọ̀ ń jò! Ìgbà tó bá rì, kò parí ná?",correct,none,tone,menyo20k
+tone_0026,"Ọkọ n jo, ọkọ n jo! Igba to ba ri, ko pari na?",incorrect,strip_all,tone,menyo20k
+tone_0026,"Ọkọ̀ ń jò, ọkọ̀ ń jò! Ìgbà tò bá rì, kò parí ná?",incorrect,single_flip,tone,menyo20k
+tone_0026,"Ọkọ̀ ń jò, ọkọ̀ n jò! Ìgbà tó bá rì, kò parí ná?",incorrect,single_delete,tone,menyo20k
+tone_0027,"Rárá, ẹ tẹ́tí sí èyí.",correct,none,tone,menyo20k
+tone_0027,"Rara, ẹ tẹti si eyi.",incorrect,strip_all,tone,menyo20k
+tone_0027,"Rárá, ẹ tẹ́tí sí èyì.",incorrect,single_flip,tone,menyo20k
+tone_0027,"Rárá, ẹ tẹ́tí sí eyí.",incorrect,single_delete,tone,menyo20k
+tone_0028,A kì í peni lákọ ẹran ká ṣorí bòró.,correct,none,tone,menyo20k
+tone_0028,A ki i peni lakọ ẹran ka ṣori boro.,incorrect,strip_all,tone,menyo20k
+tone_0028,A kì í peni lákọ ẹran ká ṣorì bòró.,incorrect,single_flip,tone,menyo20k
+tone_0028,A kì í peni lákọ ẹran ká ṣorí bòro.,incorrect,single_delete,tone,menyo20k
+tone_0029,Ọ̀kánjúwà ò ṣéé fi wá nǹkan.,correct,none,tone,menyo20k
+tone_0029,Ọkanjuwa o ṣee fi wa nnkan.,incorrect,strip_all,tone,menyo20k
+tone_0029,Ọ̀kánjúwà ò ṣèé fi wá nǹkan.,incorrect,single_flip,tone,menyo20k
+tone_0029,Ọ̀kánjúwa ò ṣéé fi wá nǹkan.,incorrect,single_delete,tone,menyo20k
+tone_0030,"Ọmọdé ni ẹ́, àmọ́ ọ̀rọ̀ tó o sọ yìí mọ́gbọ́n dání gan-an.”",correct,none,tone,menyo20k
+tone_0030,"Ọmọde ni ẹ, amọ ọrọ to o sọ yii mọgbọn dani gan-an.”",incorrect,strip_all,tone,menyo20k
+tone_0030,"Ọmọdé ni ẹ́, àmọ́ ọ̀rọ̀ tó o sọ yìí mọ́gbọ́n dàní gan-an.”",incorrect,single_flip,tone,menyo20k
+tone_0030,"Ọmọdé ni ẹ, àmọ́ ọ̀rọ̀ tó o sọ yìí mọ́gbọ́n dání gan-an.”",incorrect,single_delete,tone,menyo20k
+tone_0031,Wọ́n Dájọ́ Ẹ̀wọ̀n Ọdún Mẹ́fà Àtààbọ̀ fún Arákùnrin Gennady Shpakovskiy Lórílẹ̀-Èdè Rọ́ṣíà,correct,none,tone,menyo20k
+tone_0031,Wọn Dajọ Ẹwọn Ọdun Mẹfa Ataabọ fun Arakunrin Gennady Shpakovskiy Lorilẹ-Ede Rọṣia,incorrect,strip_all,tone,menyo20k
+tone_0031,Wọ́n Dàjọ́ Ẹ̀wọ̀n Ọdún Mẹ́fà Àtààbọ̀ fún Arákùnrin Gennady Shpakovskiy Lórílẹ̀-Èdè Rọ́ṣíà,incorrect,single_flip,tone,menyo20k
+tone_0031,Wọ́n Dájọ́ Ẹ̀wọ̀n Ọdún Mẹ́fà Àtààbọ̀ fún Arákùnrin Gennady Shpakovskiy Lórílẹ̀-Èdè Rọ́ṣià,incorrect,single_delete,tone,menyo20k
+tone_0032,Àgbà ṣoore má wo bẹ̀.,correct,none,tone,menyo20k
+tone_0032,Agba ṣoore ma wo bẹ.,incorrect,strip_all,tone,menyo20k
+tone_0032,Àgbá ṣoore má wo bẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0032,Àgbà ṣoore ma wo bẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0033,Dákẹ́ rọ́rọ́ àti tí-ń-ṣekú-pani tí a kò lè rí sójú.,correct,none,tone,menyo20k
+tone_0033,Dakẹ rọrọ ati ti-n-ṣeku-pani ti a ko le ri soju.,incorrect,strip_all,tone,menyo20k
+tone_0033,Dákẹ̀ rọ́rọ́ àti tí-ń-ṣekú-pani tí a kò lè rí sójú.,incorrect,single_flip,tone,menyo20k
+tone_0033,Dákẹ́ rọ́rọ́ àti tí-ń-ṣekú-pani tí a kò lè rí sóju.,incorrect,single_delete,tone,menyo20k
+tone_0034,Kòì tíì sí ojúlé kankan,correct,none,tone,menyo20k
+tone_0034,Koi tii si ojule kankan,incorrect,strip_all,tone,menyo20k
+tone_0034,Kòí tíì sí ojúlé kankan,incorrect,single_flip,tone,menyo20k
+tone_0034,Kòì tíì sí ojúle kankan,incorrect,single_delete,tone,menyo20k
+tone_0035,AG: A nílò láti so gbogbo ìgbìyànjú papọ̀.,correct,none,tone,menyo20k
+tone_0035,AG: A nilo lati so gbogbo igbiyanju papọ.,incorrect,strip_all,tone,menyo20k
+tone_0035,AG: A níló láti so gbogbo ìgbìyànjú papọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0035,AG: A nílò láti so gbogbo ìgbìyànju papọ̀.,incorrect,single_delete,tone,menyo20k
+tone_0036,Ṣé mo lè ya àwòrán yín,correct,none,tone,menyo20k
+tone_0036,Ṣe mo le ya aworan yin,incorrect,strip_all,tone,menyo20k
+tone_0036,Ṣé mo lè ya áwòrán yín,incorrect,single_flip,tone,menyo20k
+tone_0036,Ṣé mo lè ya àworán yín,incorrect,single_delete,tone,menyo20k
+tone_0037,Ẹni tí ó fò sókèé bẹ́ ijó lórí.,correct,none,tone,menyo20k
+tone_0037,Ẹni ti o fo sokee bẹ ijo lori.,incorrect,strip_all,tone,menyo20k
+tone_0037,Ẹni tí ó fò sókèè bẹ́ ijó lórí.,incorrect,single_flip,tone,menyo20k
+tone_0037,Ẹni tí ó fo sókèé bẹ́ ijó lórí.,incorrect,single_delete,tone,menyo20k
+tone_0038,"Ìpinnu yẹn, yóò gba ìdájọ́ ọmọ ènìyàn, ó dẹ̀ wọ́n.",correct,none,tone,menyo20k
+tone_0038,"Ipinnu yẹn, yoo gba idajọ ọmọ eniyan, o dẹ wọn.",incorrect,strip_all,tone,menyo20k
+tone_0038,"Ìpinnu yẹn, yóò gba ìdájọ̀ ọmọ ènìyàn, ó dẹ̀ wọ́n.",incorrect,single_flip,tone,menyo20k
+tone_0038,"Ìpinnu yẹn, yóò gba ìdájọ ọmọ ènìyàn, ó dẹ̀ wọ́n.",incorrect,single_delete,tone,menyo20k
+tone_0039,Ṣé ó dá ọ lójú pé o fẹ́ ṣe àtúnṣe sí ààtò ìṣiṣẹ́ rẹ?,correct,none,tone,menyo20k
+tone_0039,Ṣe o da ọ loju pe o fẹ ṣe atunṣe si aato iṣiṣẹ rẹ?,incorrect,strip_all,tone,menyo20k
+tone_0039,Ṣé ó dá ọ lòjú pé o fẹ́ ṣe àtúnṣe sí ààtò ìṣiṣẹ́ rẹ?,incorrect,single_flip,tone,menyo20k
+tone_0039,Ṣé ó dá ọ lójú pé o fẹ́ ṣe àtúnṣe sí aàtò ìṣiṣẹ́ rẹ?,incorrect,single_delete,tone,menyo20k
+tone_0040,A padà síbi ìdèna àkóràn ìyá sí ọmọ.,correct,none,tone,menyo20k
+tone_0040,A pada sibi idena akoran iya si ọmọ.,incorrect,strip_all,tone,menyo20k
+tone_0040,A padà síbi ìdèna ákóràn ìyá sí ọmọ.,incorrect,single_flip,tone,menyo20k
+tone_0040,A padà sibi ìdèna àkóràn ìyá sí ọmọ.,incorrect,single_delete,tone,menyo20k
+tone_0041,"Ní báyìí, lónì èyí ò mọ́pọ̀lọ dáni, nítorí wọ́n ń ṣe ìpèse dáadáa gbogbogbò àgbáyé.",correct,none,tone,menyo20k
+tone_0041,"Ni bayii, loni eyi o mọpọlọ dani, nitori wọn n ṣe ipese daadaa gbogbogbo agbaye.",incorrect,strip_all,tone,menyo20k
+tone_0041,"Ní báyìí, lónì èyí ò mọ́pọ̀lọ dáni, nítorí wọ́n ń ṣe ìpèse dáadàa gbogbogbò àgbáyé.",incorrect,single_flip,tone,menyo20k
+tone_0041,"Ní báyìí, lónì èyí ò mọ́pọ̀lọ dáni, nítorí wọ́n ń ṣe ìpèse dáadáa gbogbogbo àgbáyé.",incorrect,single_delete,tone,menyo20k
+tone_0042,Ó wá bá àwọn agbègbè méjì tó kábàámọ̀ nínú ìṣẹ̀lẹ̀ náà kẹ́dùn.,correct,none,tone,menyo20k
+tone_0042,O wa ba awọn agbegbe meji to kabaamọ ninu iṣẹlẹ naa kẹdun.,incorrect,strip_all,tone,menyo20k
+tone_0042,Ó wá bá àwọn agbègbé méjì tó kábàámọ̀ nínú ìṣẹ̀lẹ̀ náà kẹ́dùn.,incorrect,single_flip,tone,menyo20k
+tone_0042,Ó wá bá àwọn agbègbè méjì tó kábàámọ̀ nínú ìṣẹ̀lẹ náà kẹ́dùn.,incorrect,single_delete,tone,menyo20k
+tone_0043,--- Ó gbóná fẹli-fẹli:Ìjàm̀bá iná ṣẹlẹ̀ nílé-iṣẹ́ ìsirò -owó,correct,none,tone,menyo20k
+tone_0043,--- O gbona fẹli-fẹli:Ijamba ina ṣẹlẹ nile-iṣẹ isiro -owo,incorrect,strip_all,tone,menyo20k
+tone_0043,--- Ó gbóná fẹli-fẹli:Ìjàm̀bá iná ṣẹlẹ̀ nílé-iṣẹ̀ ìsirò -owó,incorrect,single_flip,tone,menyo20k
+tone_0043,--- Ó gbóná fẹli-fẹli:Ijàm̀bá iná ṣẹlẹ̀ nílé-iṣẹ́ ìsirò -owó,incorrect,single_delete,tone,menyo20k
+tone_0044,"Pípẹ́ ni yó pẹ̀ẹ́, akólòlò á pe baba.",correct,none,tone,menyo20k
+tone_0044,"Pipẹ ni yo pẹẹ, akololo a pe baba.",incorrect,strip_all,tone,menyo20k
+tone_0044,"Pípẹ́ ni yò pẹ̀ẹ́, akólòlò á pe baba.",incorrect,single_flip,tone,menyo20k
+tone_0044,"Pípẹ́ ni yó pẹ̀ẹ́, akólòlo á pe baba.",incorrect,single_delete,tone,menyo20k
+tone_0045,Ti pa yàrá ìkẹ́kọ̀ọ́ rẹ́,correct,none,tone,menyo20k
+tone_0045,Ti pa yara ikẹkọọ rẹ,incorrect,strip_all,tone,menyo20k
+tone_0045,Ti pa yàrá ìkẹ̀kọ̀ọ́ rẹ́,incorrect,single_flip,tone,menyo20k
+tone_0045,Ti pa yàrá ikẹ́kọ̀ọ́ rẹ́,incorrect,single_delete,tone,menyo20k
+tone_0046,2.Dídáààbò araà rẹ lóríi ẹ̀rọ-alátagbà,correct,none,tone,menyo20k
+tone_0046,2.Didaaabo araa rẹ lorii ẹrọ-alatagba,incorrect,strip_all,tone,menyo20k
+tone_0046,2.Dídáààbò araà rẹ lóríi ẹ̀rọ-alátagbá,incorrect,single_flip,tone,menyo20k
+tone_0046,2.Dídáààbò araà rẹ lóríi ẹrọ-alátagbà,incorrect,single_delete,tone,menyo20k
+tone_0047,"Síbẹ̀, ìfọ̀rọ̀wánilẹ́nuwò tí Dakolo ti fẹ̀sùn kan Fátóyìnbó dá awuyewuye sílẹ̀ lórí ayélukára bí ajere.",correct,none,tone,menyo20k
+tone_0047,"Sibẹ, ifọrọwanilẹnuwo ti Dakolo ti fẹsun kan Fatoyinbo da awuyewuye silẹ lori ayelukara bi ajere.",incorrect,strip_all,tone,menyo20k
+tone_0047,"Síbẹ̀, ìfọ̀rọ̀wánilẹ́nuwó tí Dakolo ti fẹ̀sùn kan Fátóyìnbó dá awuyewuye sílẹ̀ lórí ayélukára bí ajere.",incorrect,single_flip,tone,menyo20k
+tone_0047,"Síbẹ̀, ìfọ̀rọ̀wánilẹ́nuwò tí Dakolo ti fẹ̀sùn kan Fátóyìnbó dá awuyewuye sílẹ̀ lórí ayélukara bí ajere.",incorrect,single_delete,tone,menyo20k
+tone_0048,"Ní sùúrù Fẹ́mi, kí ni ìṣòro ẹ?",correct,none,tone,menyo20k
+tone_0048,"Ni suuru Fẹmi, ki ni iṣoro ẹ?",incorrect,strip_all,tone,menyo20k
+tone_0048,"Ní sùúrù Fẹ́mi, kì ni ìṣòro ẹ?",incorrect,single_flip,tone,menyo20k
+tone_0048,"Ni sùúrù Fẹ́mi, kí ni ìṣòro ẹ?",incorrect,single_delete,tone,menyo20k
+tone_0049,"Àwọn ohun míràn tún ni aṣọ ìbọ̀wọ́, gíláásì ìbòjú, àwọn ohun ìbùsùn abbl.",correct,none,tone,menyo20k
+tone_0049,"Awọn ohun miran tun ni aṣọ ibọwọ, gilaasi iboju, awọn ohun ibusun abbl.",incorrect,strip_all,tone,menyo20k
+tone_0049,"Àwọn ohun míràn tún ni aṣọ ìbọ̀wọ́, gìláásì ìbòjú, àwọn ohun ìbùsùn abbl.",incorrect,single_flip,tone,menyo20k
+tone_0049,"Àwọn ohun miràn tún ni aṣọ ìbọ̀wọ́, gíláásì ìbòjú, àwọn ohun ìbùsùn abbl.",incorrect,single_delete,tone,menyo20k
+tone_0050,"""Orúkọ tí a pe ọtí-líle náà ni """"8 wine 64.""""""",correct,none,tone,menyo20k
+tone_0050,"""Orukọ ti a pe ọti-lile naa ni """"8 wine 64.""""""",incorrect,strip_all,tone,menyo20k
+tone_0050,"""Orúkọ tí a pe ọtì-líle náà ni """"8 wine 64.""""""",incorrect,single_flip,tone,menyo20k
+tone_0050,"""Orúkọ tí a pe ọtí-lile náà ni """"8 wine 64.""""""",incorrect,single_delete,tone,menyo20k
+tone_0051,Ṣùgbọ́n tí a bá jáwọ́ mínú àwọn ìfitóniléti tí a ṣàwárí pẹ̀lú ìṣojúlọ́yìn ńkọ́?,correct,none,tone,menyo20k
+tone_0051,Ṣugbọn ti a ba jawọ minu awọn ifitonileti ti a ṣawari pẹlu iṣojulọyin nkọ?,incorrect,strip_all,tone,menyo20k
+tone_0051,Ṣùgbọ́n tí a bá jáwọ́ mínú áwọn ìfitóniléti tí a ṣàwárí pẹ̀lú ìṣojúlọ́yìn ńkọ́?,incorrect,single_flip,tone,menyo20k
+tone_0051,Ṣùgbọ́n ti a bá jáwọ́ mínú àwọn ìfitóniléti tí a ṣàwárí pẹ̀lú ìṣojúlọ́yìn ńkọ́?,incorrect,single_delete,tone,menyo20k
+tone_0052,Tigi tọ̀pẹ̀ ní ń ṣàánú àfòmọ́.,correct,none,tone,menyo20k
+tone_0052,Tigi tọpẹ ni n ṣaanu afomọ.,incorrect,strip_all,tone,menyo20k
+tone_0052,Tigi tọ̀pẹ̀ ní ǹ ṣàánú àfòmọ́.,incorrect,single_flip,tone,menyo20k
+tone_0052,Tigi tọ̀pẹ̀ ní ń ṣàánú àfòmọ.,incorrect,single_delete,tone,menyo20k
+tone_0053,Àwọn obìnrin wọ̀nyẹn jẹ́ ajà-fẹ́tọ̀ àlááfíà àti ìparí ìjà.,correct,none,tone,menyo20k
+tone_0053,Awọn obinrin wọnyẹn jẹ aja-fẹtọ alaafia ati ipari ija.,incorrect,strip_all,tone,menyo20k
+tone_0053,Àwọn obìnrin wọ̀nyẹn jẹ́ ajà-fẹ́tọ̀ àlááfìà àti ìparí ìjà.,incorrect,single_flip,tone,menyo20k
+tone_0053,Àwọn obìnrin wọ̀nyẹn jẹ́ ajà-fẹ́tọ àlááfíà àti ìparí ìjà.,incorrect,single_delete,tone,menyo20k
+tone_0054,Jíjá-pà tì ọmú ni ti ìyá Àlàmú.,correct,none,tone,menyo20k
+tone_0054,Jija-pa ti ọmu ni ti iya Alamu.,incorrect,strip_all,tone,menyo20k
+tone_0054,Jíjá-pà tì ọmú ni ti ìyá Álàmú.,incorrect,single_flip,tone,menyo20k
+tone_0054,Jíjá-pà tì ọmú ni ti ìya Àlàmú.,incorrect,single_delete,tone,menyo20k
+tone_0055,"Sowore ni olùdásílẹ̀ àti atẹ̀wéjáde SaharaReporters (SR), ilé-iṣẹ́ oníròyìn aṣèwádìí orí-ayélujára.",correct,none,tone,menyo20k
+tone_0055,"Sowore ni oludasilẹ ati atẹwejade SaharaReporters (SR), ile-iṣẹ oniroyin aṣewadii ori-ayelujara.",incorrect,strip_all,tone,menyo20k
+tone_0055,"Sowore ni olùdásílẹ̀ àti atẹ̀wéjáde SaharaReporters (SR), ilé-iṣẹ́ oníròyìn aṣèwàdìí orí-ayélujára.",incorrect,single_flip,tone,menyo20k
+tone_0055,"Sowore ni olùdásílẹ̀ ati atẹ̀wéjáde SaharaReporters (SR), ilé-iṣẹ́ oníròyìn aṣèwádìí orí-ayélujára.",incorrect,single_delete,tone,menyo20k
+tone_0056,Àṣẹ̀ṣẹ̀yọ ọ̀gọmọ̀ ó ní òun ó kan ọ̀run; àwọn aṣáájúu rẹ̀ ṣe bẹ́ẹ̀ rí?,correct,none,tone,menyo20k
+tone_0056,Aṣẹṣẹyọ ọgọmọ o ni oun o kan ọrun; awọn aṣaajuu rẹ ṣe bẹẹ ri?,incorrect,strip_all,tone,menyo20k
+tone_0056,Àṣẹ̀ṣẹ̀yọ ọ̀gọmọ̀ ó ní òun ò kan ọ̀run; àwọn aṣáájúu rẹ̀ ṣe bẹ́ẹ̀ rí?,incorrect,single_flip,tone,menyo20k
+tone_0056,Àṣẹ̀ṣẹ̀yọ ọ̀gọmọ ó ní òun ó kan ọ̀run; àwọn aṣáájúu rẹ̀ ṣe bẹ́ẹ̀ rí?,incorrect,single_delete,tone,menyo20k
+tone_0057,2. Ta ni mo fẹ́ pa á mọ́ fún?,correct,none,tone,menyo20k
+tone_0057,2. Ta ni mo fẹ pa a mọ fun?,incorrect,strip_all,tone,menyo20k
+tone_0057,2. Ta ni mo fẹ́ pa à mọ́ fún?,incorrect,single_flip,tone,menyo20k
+tone_0057,2. Ta ni mo fẹ́ pa á mọ fún?,incorrect,single_delete,tone,menyo20k
+tone_0058,Àwòrán Gbọ̀ngàn Ìjọba kan ṣáájú àti lẹ́yìn tí wọ́n tún un ṣe.,correct,none,tone,menyo20k
+tone_0058,Aworan Gbọngan Ijọba kan ṣaaju ati lẹyin ti wọn tun un ṣe.,incorrect,strip_all,tone,menyo20k
+tone_0058,Àwòrán Gbọ̀ngàn Ìjọba kan ṣáájú àti lẹ́yín tí wọ́n tún un ṣe.,incorrect,single_flip,tone,menyo20k
+tone_0058,Àwòrán Gbọ̀ngàn Ìjọba kan ṣáájú ati lẹ́yìn tí wọ́n tún un ṣe.,incorrect,single_delete,tone,menyo20k
+tone_0059,"Bí ìlàrí bá fẹ́ tẹ́, a ní kí lọba ó ṣe?",correct,none,tone,menyo20k
+tone_0059,"Bi ilari ba fẹ tẹ, a ni ki lọba o ṣe?",incorrect,strip_all,tone,menyo20k
+tone_0059,"Bí ìlàrí bá fẹ́ tẹ̀, a ní kí lọba ó ṣe?",incorrect,single_flip,tone,menyo20k
+tone_0059,"Bí ìlàrí bá fẹ́ tẹ́, a ní kí lọba o ṣe?",incorrect,single_delete,tone,menyo20k
+tone_0060,A kì í fi iná sórí òrùlé sùn.,correct,none,tone,menyo20k
+tone_0060,A ki i fi ina sori orule sun.,incorrect,strip_all,tone,menyo20k
+tone_0060,A kì í fi iná sórí òrúlé sùn.,incorrect,single_flip,tone,menyo20k
+tone_0060,A kì í fi iná sórí orùlé sùn.,incorrect,single_delete,tone,menyo20k
+tone_0061,"Ka àtẹ̀jáde yìí ní Français, Español, English",correct,none,tone,menyo20k
+tone_0061,"Ka atẹjade yii ni Français, Español, English",incorrect,strip_all,tone,menyo20k
+tone_0061,"Ka àtẹ́jáde yìí ní Français, Español, English",incorrect,single_flip,tone,menyo20k
+tone_0061,"Ka àtẹjáde yìí ní Français, Español, English",incorrect,single_delete,tone,menyo20k
+tone_0062,Atòjọ fáílì ìwé dúró lórí tábílì rẹ̀.,correct,none,tone,menyo20k
+tone_0062,Atojọ faili iwe duro lori tabili rẹ.,incorrect,strip_all,tone,menyo20k
+tone_0062,Atòjọ fáílì ìwé dúró lòrí tábílì rẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0062,Atòjọ fáílì ìwé dúro lórí tábílì rẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0063,Ẹgbẹ́ ẹni kì í wọ́n láyé ká wá a lọ sọ́run.,correct,none,tone,menyo20k
+tone_0063,Ẹgbẹ ẹni ki i wọn laye ka wa a lọ sọrun.,incorrect,strip_all,tone,menyo20k
+tone_0063,Ẹgbẹ́ ẹni kí í wọ́n láyé ká wá a lọ sọ́run.,incorrect,single_flip,tone,menyo20k
+tone_0063,Ẹgbẹ ẹni kì í wọ́n láyé ká wá a lọ sọ́run.,incorrect,single_delete,tone,menyo20k
+tone_0064,"Ibi tí à ńlọ là ńwò, a kì í wo ibi tí a ti ṣubú.",correct,none,tone,menyo20k
+tone_0064,"Ibi ti a nlọ la nwo, a ki i wo ibi ti a ti ṣubu.",incorrect,strip_all,tone,menyo20k
+tone_0064,"Ibi tí á ńlọ là ńwò, a kì í wo ibi tí a ti ṣubú.",incorrect,single_flip,tone,menyo20k
+tone_0064,"Ibi tí à nlọ là ńwò, a kì í wo ibi tí a ti ṣubú.",incorrect,single_delete,tone,menyo20k
+tone_0065,"Àwọn kan tẹ̀lée padà sílé, wọ́n sì ya àwòrán nínú ilée wọn.",correct,none,tone,menyo20k
+tone_0065,"Awọn kan tẹlee pada sile, wọn si ya aworan ninu ilee wọn.",incorrect,strip_all,tone,menyo20k
+tone_0065,"Àwọn kan tẹ̀lée padà sílé, wọ́n sì ya àwòràn nínú ilée wọn.",incorrect,single_flip,tone,menyo20k
+tone_0065,"Àwọn kan tẹ̀lee padà sílé, wọ́n sì ya àwòrán nínú ilée wọn.",incorrect,single_delete,tone,menyo20k
+tone_0066,--- Rafael Nadal dúró lókè téńtè síbẹ̀ lórí àtẹ ATP,correct,none,tone,menyo20k
+tone_0066,--- Rafael Nadal duro loke tente sibẹ lori atẹ ATP,incorrect,strip_all,tone,menyo20k
+tone_0066,--- Rafael Nadal dúró lókè téńtè síbẹ̀ lórì àtẹ ATP,incorrect,single_flip,tone,menyo20k
+tone_0066,--- Rafael Nadal dúró lókè téńte síbẹ̀ lórí àtẹ ATP,incorrect,single_delete,tone,menyo20k
+tone_0067,"Màjèṣín dóbò àkọ́kọ́, ó sáré yọ okó síta, ó ní Olúwaá ṣeun.",correct,none,tone,menyo20k
+tone_0067,"Majeṣin dobo akọkọ, o sare yọ oko sita, o ni Oluwaa ṣeun.",incorrect,strip_all,tone,menyo20k
+tone_0067,"Màjèṣìn dóbò àkọ́kọ́, ó sáré yọ okó síta, ó ní Olúwaá ṣeun.",incorrect,single_flip,tone,menyo20k
+tone_0067,"Màjèṣín dóbò àkọ́kọ́, ó sáré yọ okó sita, ó ní Olúwaá ṣeun.",incorrect,single_delete,tone,menyo20k
+tone_0068,"Kání pé wọ́n sọ fún Sènábù pé Àlàmú nìkan ló ya wèrè, ìbá dáa.",correct,none,tone,menyo20k
+tone_0068,"Kani pe wọn sọ fun Senabu pe Alamu nikan lo ya were, iba daa.",incorrect,strip_all,tone,menyo20k
+tone_0068,"Kání pé wọ́n sọ fún Sènábù pé Àlàmú níkan ló ya wèrè, ìbá dáa.",incorrect,single_flip,tone,menyo20k
+tone_0068,"Kání pé wọ́n sọ fún Sènábù pé Àlàmú nìkan ló ya werè, ìbá dáa.",incorrect,single_delete,tone,menyo20k
+tone_0069,Máà gbíyè lógún; ti ọwọ́ ẹni ní ń tóni.,correct,none,tone,menyo20k
+tone_0069,Maa gbiye logun; ti ọwọ ẹni ni n toni.,incorrect,strip_all,tone,menyo20k
+tone_0069,Máà gbíyè lógún; ti ọwọ́ ẹni ní ǹ tóni.,incorrect,single_flip,tone,menyo20k
+tone_0069,Máà gbíyè logún; ti ọwọ́ ẹni ní ń tóni.,incorrect,single_delete,tone,menyo20k
+tone_0070,Akórira ò ní nǹkan; ọ̀dùn ò sunwọ̀ fún ṣòkòtò.,correct,none,tone,menyo20k
+tone_0070,Akorira o ni nnkan; ọdun o sunwọ fun ṣokoto.,incorrect,strip_all,tone,menyo20k
+tone_0070,Akórira ò ní nǹkan; ọ̀dùn ò sunwọ̀ fùn ṣòkòtò.,incorrect,single_flip,tone,menyo20k
+tone_0070,Akorira ò ní nǹkan; ọ̀dùn ò sunwọ̀ fún ṣòkòtò.,incorrect,single_delete,tone,menyo20k
+tone_0071,Bí mo ṣe pàdánù Nǹkan Ńlá náà láti ọwọ́ Lawrence Lessig.,correct,none,tone,menyo20k
+tone_0071,Bi mo ṣe padanu Nnkan Nla naa lati ọwọ Lawrence Lessig.,incorrect,strip_all,tone,menyo20k
+tone_0071,Bí mo ṣe pàdánù Nǹkan Ńlá náà láti ọwọ̀ Lawrence Lessig.,incorrect,single_flip,tone,menyo20k
+tone_0071,Bí mo ṣe padánù Nǹkan Ńlá náà láti ọwọ́ Lawrence Lessig.,incorrect,single_delete,tone,menyo20k
+tone_0072,Orúkọ ohun èlò kò le ju àádọ́ta (50) ẹyọ ọ̀rọ̀,correct,none,tone,menyo20k
+tone_0072,Orukọ ohun elo ko le ju aadọta (50) ẹyọ ọrọ,incorrect,strip_all,tone,menyo20k
+tone_0072,Orúkọ ohun èlò kò le ju àádọ́ta (50) ẹyọ ọ̀rọ́,incorrect,single_flip,tone,menyo20k
+tone_0072,Orúkọ ohun èlò kò le ju aádọ́ta (50) ẹyọ ọ̀rọ̀,incorrect,single_delete,tone,menyo20k
+tone_0073,Èrò kì í mọ ibùsọ̀ kọ́rùn ó wọ̀ ọ́.,correct,none,tone,menyo20k
+tone_0073,Ero ki i mọ ibusọ kọrun o wọ ọ.,incorrect,strip_all,tone,menyo20k
+tone_0073,Èrò kì í mọ ibùsọ̀ kọ́rùn ó wọ̀ ọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0073,Èrò kì í mọ ibùsọ kọ́rùn ó wọ̀ ọ́.,incorrect,single_delete,tone,menyo20k
+tone_0074,Má bàá mi ṣeré tí kèrègbèé fi gba okùn lọ́rùn.,correct,none,tone,menyo20k
+tone_0074,Ma baa mi ṣere ti keregbee fi gba okun lọrun.,incorrect,strip_all,tone,menyo20k
+tone_0074,Má báá mi ṣeré tí kèrègbèé fi gba okùn lọ́rùn.,incorrect,single_flip,tone,menyo20k
+tone_0074,Má bàá mi ṣeré ti kèrègbèé fi gba okùn lọ́rùn.,incorrect,single_delete,tone,menyo20k
+tone_0075,Champions League ÌPELE IKỌ̀ MẸ́RÌNDÍNLÓGÚN February 1320:45 Basel ?,correct,none,tone,menyo20k
+tone_0075,Champions League IPELE IKỌ MẸRINDINLOGUN February 1320:45 Basel ?,incorrect,strip_all,tone,menyo20k
+tone_0075,Champions League ÌPELE IKỌ̀ MẸ́RÍNDÍNLÓGÚN February 1320:45 Basel ?,incorrect,single_flip,tone,menyo20k
+tone_0075,Champions League ÌPELE IKỌ MẸ́RÌNDÍNLÓGÚN February 1320:45 Basel ?,incorrect,single_delete,tone,menyo20k
+tone_0076,"Òwò tí a fowó rà, owó la fi ń pa.",correct,none,tone,menyo20k
+tone_0076,"Owo ti a fowo ra, owo la fi n pa.",incorrect,strip_all,tone,menyo20k
+tone_0076,"Òwò tí a fowò rà, owó la fi ń pa.",incorrect,single_flip,tone,menyo20k
+tone_0076,"Owò tí a fowó rà, owó la fi ń pa.",incorrect,single_delete,tone,menyo20k
+tone_0077,Ṣìgìdì ò lẹ́nu fọhùn; irọ́ ń purọ́ fúnrọ́.,correct,none,tone,menyo20k
+tone_0077,Ṣigidi o lẹnu fọhun; irọ n purọ funrọ.,incorrect,strip_all,tone,menyo20k
+tone_0077,Ṣìgìdì ò lẹ̀nu fọhùn; irọ́ ń purọ́ fúnrọ́.,incorrect,single_flip,tone,menyo20k
+tone_0077,Ṣìgìdì ò lẹ́nu fọhùn; irọ́ ń purọ fúnrọ́.,incorrect,single_delete,tone,menyo20k
+tone_0078,Ní gbogbo ìgbàláàyè ó sì lè ṣe àbójútó àwọn ìgbàláàyè ẹ̀rọ àwọn òǹṣàmúlò mìíràn,correct,none,tone,menyo20k
+tone_0078,Ni gbogbo igbalaaye o si le ṣe abojuto awọn igbalaaye ẹrọ awọn onṣamulo miiran,incorrect,strip_all,tone,menyo20k
+tone_0078,Ní gbogbo ìgbàláàyè ó sì lè ṣe àbójútó àwọn ìgbàláàyè ẹ̀rọ àwọn òǹṣàmùlò mìíràn,incorrect,single_flip,tone,menyo20k
+tone_0078,Ní gbogbo ìgbàláàye ó sì lè ṣe àbójútó àwọn ìgbàláàyè ẹ̀rọ àwọn òǹṣàmúlò mìíràn,incorrect,single_delete,tone,menyo20k
+tone_0079,--- ASUU le bẹ̀rẹ̀ ìyansẹ́nlódì láìpẹ́.,correct,none,tone,menyo20k
+tone_0079,--- ASUU le bẹrẹ iyansẹnlodi laipẹ.,incorrect,strip_all,tone,menyo20k
+tone_0079,--- ASUU le bẹ̀rẹ̀ ìyansẹ́nlódì láìpẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0079,--- ASUU le bẹ̀rẹ ìyansẹ́nlódì láìpẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0080,"Nínú ìkòkò kẹrin, England, Paraguay, Haiti àti orílẹ̀-èdè Netherland ni wọn yóò jọ máa figagbága.",correct,none,tone,menyo20k
+tone_0080,"Ninu ikoko kẹrin, England, Paraguay, Haiti ati orilẹ-ede Netherland ni wọn yoo jọ maa figagbaga.",incorrect,strip_all,tone,menyo20k
+tone_0080,"Nínú ìkòkò kẹrin, England, Paraguay, Haiti àti orílẹ̀-èdè Netherland ni wọn yóò jọ máa figagbàga.",incorrect,single_flip,tone,menyo20k
+tone_0080,"Nínú ìkòkò kẹrin, England, Paraguay, Haiti àti orílẹ̀-èdè Netherland ni wọn yoò jọ máa figagbága.",incorrect,single_delete,tone,menyo20k
+tone_0081,Kò sí àwọn ohun àmúlò Kolibri tí ó sopọ̀ mọ́ apèsè,correct,none,tone,menyo20k
+tone_0081,Ko si awọn ohun amulo Kolibri ti o sopọ mọ apese,incorrect,strip_all,tone,menyo20k
+tone_0081,Kò sí àwọn ohun àmùlò Kolibri tí ó sopọ̀ mọ́ apèsè,incorrect,single_flip,tone,menyo20k
+tone_0081,Kò sí àwọn ohun àmúlò Kolibri tí ó sopọ̀ mọ́ apesè,incorrect,single_delete,tone,menyo20k
+tone_0082,--- Ìfigagbága Ìdíje UEFA CHAMPIONS LEAGUE.,correct,none,tone,menyo20k
+tone_0082,--- Ifigagbaga Idije UEFA CHAMPIONS LEAGUE.,incorrect,strip_all,tone,menyo20k
+tone_0082,--- Ìfigagbàga Ìdíje UEFA CHAMPIONS LEAGUE.,incorrect,single_flip,tone,menyo20k
+tone_0082,--- Ìfigagbaga Ìdíje UEFA CHAMPIONS LEAGUE.,incorrect,single_delete,tone,menyo20k
+tone_0083,Ó ń wò ó láìsọ̀rọ̀.,correct,none,tone,menyo20k
+tone_0083,O n wo o laisọrọ.,incorrect,strip_all,tone,menyo20k
+tone_0083,Ó ń wò ó láísọ̀rọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0083,Ó ń wo ó láìsọ̀rọ̀.,incorrect,single_delete,tone,menyo20k
+tone_0084,"Mo lò tó ìṣẹ́jú mẹ́ta, ó pé ìṣẹ́jú mẹ́ta",correct,none,tone,menyo20k
+tone_0084,"Mo lo to iṣẹju mẹta, o pe iṣẹju mẹta",incorrect,strip_all,tone,menyo20k
+tone_0084,"Mo lò tó ìṣẹ́jú mẹ́ta, ó pé íṣẹ́jú mẹ́ta",incorrect,single_flip,tone,menyo20k
+tone_0084,"Mo lò tó ìṣẹ́jú mẹ́ta, ó pé iṣẹ́jú mẹ́ta",incorrect,single_delete,tone,menyo20k
+tone_0085,Ìfẹsẹ̀múlẹ̀ tí ó ń lọ,correct,none,tone,menyo20k
+tone_0085,Ifẹsẹmulẹ ti o n lọ,incorrect,strip_all,tone,menyo20k
+tone_0085,Ífẹsẹ̀múlẹ̀ tí ó ń lọ,incorrect,single_flip,tone,menyo20k
+tone_0085,Ìfẹsẹ̀múlẹ̀ ti ó ń lọ,incorrect,single_delete,tone,menyo20k
+tone_0086,--- Morocco yóò ṣagbátẹrù ìdíje bọ́ọ̀lù àgbááyé lọ́dún 2026 - Blatter.,correct,none,tone,menyo20k
+tone_0086,--- Morocco yoo ṣagbatẹru idije bọọlu agbaaye lọdun 2026 - Blatter.,incorrect,strip_all,tone,menyo20k
+tone_0086,--- Morocco yóò ṣagbátẹrù ìdìje bọ́ọ̀lù àgbááyé lọ́dún 2026 - Blatter.,incorrect,single_flip,tone,menyo20k
+tone_0086,--- Morocco yóò ṣagbátẹrù ìdíje bọ́ọlù àgbááyé lọ́dún 2026 - Blatter.,incorrect,single_delete,tone,menyo20k
+tone_0087,Odídẹrẹ́ kì í kú sóko ìwájẹ.,correct,none,tone,menyo20k
+tone_0087,Odidẹrẹ ki i ku soko iwajẹ.,incorrect,strip_all,tone,menyo20k
+tone_0087,Odìdẹrẹ́ kì í kú sóko ìwájẹ.,incorrect,single_flip,tone,menyo20k
+tone_0087,Odídẹrẹ kì í kú sóko ìwájẹ.,incorrect,single_delete,tone,menyo20k
+tone_0088,Kò sì tíì sí irú ìdókòwò tó lè gbé wa débẹ̀.,correct,none,tone,menyo20k
+tone_0088,Ko si tii si iru idokowo to le gbe wa debẹ.,incorrect,strip_all,tone,menyo20k
+tone_0088,Kò sì tíì sí irú ìdókòwò tó lè gbé wa débẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0088,Kò sì tíì sí iru ìdókòwò tó lè gbé wa débẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0089,Àtúntò àwòrán-an látọwọ́ọ Georgia Popplewell.,correct,none,tone,menyo20k
+tone_0089,Atunto aworan-an latọwọọ Georgia Popplewell.,incorrect,strip_all,tone,menyo20k
+tone_0089,Àtúntò àwórán-an látọwọ́ọ Georgia Popplewell.,incorrect,single_flip,tone,menyo20k
+tone_0089,Àtúntò awòrán-an látọwọ́ọ Georgia Popplewell.,incorrect,single_delete,tone,menyo20k
+tone_0090,Ìjẹǹjẹ àná dùn méhoro; ehoroó rebi ìjẹ àná kò dẹ̀yìn bọ̀.,correct,none,tone,menyo20k
+tone_0090,Ijẹnjẹ ana dun mehoro; ehoroo rebi ijẹ ana ko dẹyin bọ.,incorrect,strip_all,tone,menyo20k
+tone_0090,Íjẹǹjẹ àná dùn méhoro; ehoroó rebi ìjẹ àná kò dẹ̀yìn bọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0090,Ìjẹǹjẹ àna dùn méhoro; ehoroó rebi ìjẹ àná kò dẹ̀yìn bọ̀.,incorrect,single_delete,tone,menyo20k
+tone_0091,Ta ní jẹ́ jẹ ọṣẹ kó fògìrì fọṣọ?,correct,none,tone,menyo20k
+tone_0091,Ta ni jẹ jẹ ọṣẹ ko fogiri fọṣọ?,incorrect,strip_all,tone,menyo20k
+tone_0091,Ta ní jẹ́ jẹ ọṣẹ kó fògírì fọṣọ?,incorrect,single_flip,tone,menyo20k
+tone_0091,Ta ni jẹ́ jẹ ọṣẹ kó fògìrì fọṣọ?,incorrect,single_delete,tone,menyo20k
+tone_0092,Ohun tó fọ́ni lójú ló ń júwe ọ̀nà fúnni.,correct,none,tone,menyo20k
+tone_0092,Ohun to fọni loju lo n juwe ọna funni.,incorrect,strip_all,tone,menyo20k
+tone_0092,Ohun tó fọ̀ni lójú ló ń júwe ọ̀nà fúnni.,incorrect,single_flip,tone,menyo20k
+tone_0092,Ohun tó fọ́ni lójú ló ń júwe ọnà fúnni.,incorrect,single_delete,tone,menyo20k
+tone_0093,--- Ààrẹ Buhari padà sí Nàíjíríà lẹ́yìn ìpàdé àpérò àlàáfíà lórílẹ̀ èdè Egypt.,correct,none,tone,menyo20k
+tone_0093,--- Aarẹ Buhari pada si Naijiria lẹyin ipade apero alaafia lorilẹ ede Egypt.,incorrect,strip_all,tone,menyo20k
+tone_0093,--- Ààrẹ Buhari padà sí Nàíjíríà lẹ́yìn ìpàdé àpérò àlàáfíà lórílẹ̀ èdé Egypt.,incorrect,single_flip,tone,menyo20k
+tone_0093,--- Ààrẹ Buhari pada sí Nàíjíríà lẹ́yìn ìpàdé àpérò àlàáfíà lórílẹ̀ èdè Egypt.,incorrect,single_delete,tone,menyo20k
+tone_0094,Ẹni à ń gbé gẹ̀gẹ̀ ni yó ba araa rẹ̀ jẹ́.,correct,none,tone,menyo20k
+tone_0094,Ẹni a n gbe gẹgẹ ni yo ba araa rẹ jẹ.,incorrect,strip_all,tone,menyo20k
+tone_0094,Ẹni à ń gbè gẹ̀gẹ̀ ni yó ba araa rẹ̀ jẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0094,Ẹni à ń gbe gẹ̀gẹ̀ ni yó ba araa rẹ̀ jẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0095,"Ó lé ní ogójì [40] èèyàn tó fara pa, àwọn méjì ló sì kú.",correct,none,tone,menyo20k
+tone_0095,"O le ni ogoji [40] eeyan to fara pa, awọn meji lo si ku.",incorrect,strip_all,tone,menyo20k
+tone_0095,"Ó lé ní ogójì [40] èèyàn tó fara pa, àwọn mèjì ló sì kú.",incorrect,single_flip,tone,menyo20k
+tone_0095,"Ó lé ní ogójì [40] èèyan tó fara pa, àwọn méjì ló sì kú.",incorrect,single_delete,tone,menyo20k
+tone_0096,"Yàtọ̀ síyẹn, ilé àwọn arákùnrin wa tó bà jẹ́ lé ní àádọ́ta (50).",correct,none,tone,menyo20k
+tone_0096,"Yatọ siyẹn, ile awọn arakunrin wa to ba jẹ le ni aadọta (50).",incorrect,strip_all,tone,menyo20k
+tone_0096,"Yàtọ̀ síyẹn, ilé àwọn arákùnrin wa tó bá jẹ́ lé ní àádọ́ta (50).",incorrect,single_flip,tone,menyo20k
+tone_0096,"Yàtọ̀ siyẹn, ilé àwọn arákùnrin wa tó bà jẹ́ lé ní àádọ́ta (50).",incorrect,single_delete,tone,menyo20k
+tone_0097,Ó jẹ́ ìṣòro kan tí ó ti wà níbẹ̀ lẹ́nu ọ̀nà níwájú wa.,correct,none,tone,menyo20k
+tone_0097,O jẹ iṣoro kan ti o ti wa nibẹ lẹnu ọna niwaju wa.,incorrect,strip_all,tone,menyo20k
+tone_0097,Ó jẹ́ ìṣòro kan tì ó ti wà níbẹ̀ lẹ́nu ọ̀nà níwájú wa.,incorrect,single_flip,tone,menyo20k
+tone_0097,Ó jẹ́ ìṣòro kan tí ó ti wà níbẹ lẹ́nu ọ̀nà níwájú wa.,incorrect,single_delete,tone,menyo20k
+tone_0098,---Ilé ìgbìmọ̀ aṣòfin fòǹtẹ̀ lu adarí ilé-iṣẹ́ ọkọ̀ òfuurufú tuntun.,correct,none,tone,menyo20k
+tone_0098,---Ile igbimọ aṣofin fontẹ lu adari ile-iṣẹ ọkọ ofuurufu tuntun.,incorrect,strip_all,tone,menyo20k
+tone_0098,---Ilé ìgbìmọ̀ aṣòfin fòǹtẹ̀ lu adarí ilé-iṣẹ́ ọkọ̀ òfuurufù tuntun.,incorrect,single_flip,tone,menyo20k
+tone_0098,---Ilé ìgbìmọ̀ aṣòfin fòǹtẹ̀ lu adarí ile-iṣẹ́ ọkọ̀ òfuurufú tuntun.,incorrect,single_delete,tone,menyo20k
+tone_0099,"Ṣòkòtò tí ń ṣiṣẹ́ àrán, oko ní ń gbé.",correct,none,tone,menyo20k
+tone_0099,"Ṣokoto ti n ṣiṣẹ aran, oko ni n gbe.",incorrect,strip_all,tone,menyo20k
+tone_0099,"Ṣòkòtò tí ń ṣiṣẹ́ árán, oko ní ń gbé.",incorrect,single_flip,tone,menyo20k
+tone_0099,"Ṣòkòtò ti ń ṣiṣẹ́ àrán, oko ní ń gbé.",incorrect,single_delete,tone,menyo20k
+tone_0100,Ọ̀gẹ̀gẹ́ ò lẹ́wà; lásán ló fara wéṣu.,correct,none,tone,menyo20k
+tone_0100,Ọgẹgẹ o lẹwa; lasan lo fara weṣu.,incorrect,strip_all,tone,menyo20k
+tone_0100,Ọ̀gẹ̀gẹ́ ò lẹ́wà; lásán lò fara wéṣu.,incorrect,single_flip,tone,menyo20k
+tone_0100,Ọ̀gẹ̀gẹ́ o lẹ́wà; lásán ló fara wéṣu.,incorrect,single_delete,tone,menyo20k
+tone_0101,A sì ń pè yín láti darapọ̀ mọ́ wa níwáju ogun yìí.,correct,none,tone,menyo20k
+tone_0101,A si n pe yin lati darapọ mọ wa niwaju ogun yii.,incorrect,strip_all,tone,menyo20k
+tone_0101,A sì ń pè yín làti darapọ̀ mọ́ wa níwáju ogun yìí.,incorrect,single_flip,tone,menyo20k
+tone_0101,A sì ń pè yín láti darapọ̀ mọ wa níwáju ogun yìí.,incorrect,single_delete,tone,menyo20k
+tone_0102,--- Èsì ìdíje NPFL tí ó wáyé lópin ọ̀sẹ̀.,correct,none,tone,menyo20k
+tone_0102,--- Esi idije NPFL ti o waye lopin ọsẹ.,incorrect,strip_all,tone,menyo20k
+tone_0102,--- Èsì ìdíje NPFL tí ó wáyé lópin ọ̀sẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0102,--- Èsì ìdíje NPFL tí ó wáyé lópin ọ̀sẹ.,incorrect,single_delete,tone,menyo20k
+tone_0103,Kí o gba ẹ̀da iṣẹ́-àìrídìmú sílẹ̀ sórí ẹ̀rọ-ayárabíàṣáà rẹ; tàbí,correct,none,tone,menyo20k
+tone_0103,Ki o gba ẹda iṣẹ-airidimu silẹ sori ẹrọ-ayarabiaṣaa rẹ; tabi,incorrect,strip_all,tone,menyo20k
+tone_0103,Kí o gba ẹ̀da iṣẹ́-àìrídìmú sílẹ̀ sórì ẹ̀rọ-ayárabíàṣáà rẹ; tàbí,incorrect,single_flip,tone,menyo20k
+tone_0103,Kí o gba ẹ̀da iṣẹ́-àìrídìmú sílẹ̀ sórí ẹ̀rọ-ayárabiàṣáà rẹ; tàbí,incorrect,single_delete,tone,menyo20k
+tone_0104,"Màmá, ẹ padà sábúlé! Ẹ lọ sinmi lábúlé! Èmi á padà sí ìgboro.",correct,none,tone,menyo20k
+tone_0104,"Mama, ẹ pada sabule! Ẹ lọ sinmi labule! Emi a pada si igboro.",incorrect,strip_all,tone,menyo20k
+tone_0104,"Màmá, ẹ padà sábúlé! Ẹ lọ sinmi lábúlè! Èmi á padà sí ìgboro.",incorrect,single_flip,tone,menyo20k
+tone_0104,"Màmá, ẹ padà sábúlé! Ẹ lọ sinmi lábulé! Èmi á padà sí ìgboro.",incorrect,single_delete,tone,menyo20k
+tone_0105,Àkúnya Omi Ṣọṣẹ́ Lórílẹ̀-Èdè Japan,correct,none,tone,menyo20k
+tone_0105,Akunya Omi Ṣọṣẹ Lorilẹ-Ede Japan,incorrect,strip_all,tone,menyo20k
+tone_0105,Àkùnya Omi Ṣọṣẹ́ Lórílẹ̀-Èdè Japan,incorrect,single_flip,tone,menyo20k
+tone_0105,Àkúnya Omi Ṣọṣẹ́ Lorílẹ̀-Èdè Japan,incorrect,single_delete,tone,menyo20k
+tone_0106,"Àmọ́, ìdílé méjì ni omi gbalé wọn.",correct,none,tone,menyo20k
+tone_0106,"Amọ, idile meji ni omi gbale wọn.",incorrect,strip_all,tone,menyo20k
+tone_0106,"Àmọ́, ìdìlé méjì ni omi gbalé wọn.",incorrect,single_flip,tone,menyo20k
+tone_0106,"Àmọ, ìdílé méjì ni omi gbalé wọn.",incorrect,single_delete,tone,menyo20k
+tone_0107,Ayálégbé lásán ni nílé Àlàmú báyìí.,correct,none,tone,menyo20k
+tone_0107,Ayalegbe lasan ni nile Alamu bayii.,incorrect,strip_all,tone,menyo20k
+tone_0107,Ayálégbé lásán ni nìlé Àlàmú báyìí.,incorrect,single_flip,tone,menyo20k
+tone_0107,Ayalégbé lásán ni nílé Àlàmú báyìí.,incorrect,single_delete,tone,menyo20k
+tone_0108,"Ohùn àgbà: bí kò ta ìgún, a ta èbù.",correct,none,tone,menyo20k
+tone_0108,"Ohun agba: bi ko ta igun, a ta ebu.",incorrect,strip_all,tone,menyo20k
+tone_0108,"Ohùn àgbà: bí kò ta ìgún, a ta èbú.",incorrect,single_flip,tone,menyo20k
+tone_0108,"Ohùn àgbà: bi kò ta ìgún, a ta èbù.",incorrect,single_delete,tone,menyo20k
+tone_0109,"""--- ÀWỌN ÀWÒRÁN: Ikọ̀ Super Eagles ń yá òòrùn ilẹ̀ Seychelles""""""",correct,none,tone,menyo20k
+tone_0109,"""--- AWỌN AWORAN: Ikọ Super Eagles n ya oorun ilẹ Seychelles""""""",incorrect,strip_all,tone,menyo20k
+tone_0109,"""--- ÀWỌN ÀWÒRÁN: Ikọ̀ Super Eagles ń yá òòrún ilẹ̀ Seychelles""""""",incorrect,single_flip,tone,menyo20k
+tone_0109,"""--- ÀWỌN ÀWÒRAN: Ikọ̀ Super Eagles ń yá òòrùn ilẹ̀ Seychelles""""""",incorrect,single_delete,tone,menyo20k
+tone_0110,Hébérù 13:6 fi dá mi lójú pé: “Jèhófà ni olùrànlọ́wọ́ mi; mi ò ní bẹ̀rù.,correct,none,tone,menyo20k
+tone_0110,Heberu 13:6 fi da mi loju pe: “Jehofa ni oluranlọwọ mi; mi o ni bẹru.,incorrect,strip_all,tone,menyo20k
+tone_0110,Hèbérù 13:6 fi dá mi lójú pé: “Jèhófà ni olùrànlọ́wọ́ mi; mi ò ní bẹ̀rù.,incorrect,single_flip,tone,menyo20k
+tone_0110,Hébéru 13:6 fi dá mi lójú pé: “Jèhófà ni olùrànlọ́wọ́ mi; mi ò ní bẹ̀rù.,incorrect,single_delete,tone,menyo20k
+tone_0111,Irú ọkùnrin bí i tèmi lo nílò,correct,none,tone,menyo20k
+tone_0111,Iru ọkunrin bi i temi lo nilo,incorrect,strip_all,tone,menyo20k
+tone_0111,Irú ọkùnrin bí i tèmi lo níló,incorrect,single_flip,tone,menyo20k
+tone_0111,Irú ọkùnrin bí i tèmi lo nílo,incorrect,single_delete,tone,menyo20k
+tone_0112,Ọ̀jọ̀gbọ́n Yakasai ni olùdarí ayẹyẹ ọ̀hún.,correct,none,tone,menyo20k
+tone_0112,Ọjọgbọn Yakasai ni oludari ayẹyẹ ọhun.,incorrect,strip_all,tone,menyo20k
+tone_0112,Ọ́jọ̀gbọ́n Yakasai ni olùdarí ayẹyẹ ọ̀hún.,incorrect,single_flip,tone,menyo20k
+tone_0112,Ọ̀jọgbọ́n Yakasai ni olùdarí ayẹyẹ ọ̀hún.,incorrect,single_delete,tone,menyo20k
+tone_0113,Bákan náà ló rí fún OS X kí ó tó kan 10.11 tàbí El Capitan.,correct,none,tone,menyo20k
+tone_0113,Bakan naa lo ri fun OS X ki o to kan 10.11 tabi El Capitan.,incorrect,strip_all,tone,menyo20k
+tone_0113,Bákan nàà ló rí fún OS X kí ó tó kan 10.11 tàbí El Capitan.,incorrect,single_flip,tone,menyo20k
+tone_0113,Bakan náà ló rí fún OS X kí ó tó kan 10.11 tàbí El Capitan.,incorrect,single_delete,tone,menyo20k
+tone_0114,"Bí ojú onísó ò bá sunwọ̀n, a kì í lọ̀ ọ́.",correct,none,tone,menyo20k
+tone_0114,"Bi oju oniso o ba sunwọn, a ki i lọ ọ.",incorrect,strip_all,tone,menyo20k
+tone_0114,"Bí ojú onísó ò bà sunwọ̀n, a kì í lọ̀ ọ́.",incorrect,single_flip,tone,menyo20k
+tone_0114,"Bí oju onísó ò bá sunwọ̀n, a kì í lọ̀ ọ́.",incorrect,single_delete,tone,menyo20k
+tone_0115,Ṣàyẹ̀wò ìtẹ̀síwájú akẹ́kọ̀ọ́ àti ìṣesí yàrá ìkẹ́kọ̀ọ́,correct,none,tone,menyo20k
+tone_0115,Ṣayẹwo itẹsiwaju akẹkọọ ati iṣesi yara ikẹkọọ,incorrect,strip_all,tone,menyo20k
+tone_0115,Ṣàyẹ̀wò ìtẹ̀síwájú akẹ́kọ̀ọ́ àti ìṣesí yàrá íkẹ́kọ̀ọ́,incorrect,single_flip,tone,menyo20k
+tone_0115,Ṣàyẹ̀wò ìtẹ̀síwáju akẹ́kọ̀ọ́ àti ìṣesí yàrá ìkẹ́kọ̀ọ́,incorrect,single_delete,tone,menyo20k
+tone_0116,Èróngbà mi ni láti jẹ́ kí gbogbo àyè ó wúlò.,correct,none,tone,menyo20k
+tone_0116,Erongba mi ni lati jẹ ki gbogbo aye o wulo.,incorrect,strip_all,tone,menyo20k
+tone_0116,Èróngbà mi ni láti jẹ̀ kí gbogbo àyè ó wúlò.,incorrect,single_flip,tone,menyo20k
+tone_0116,Èróngbà mi ni láti jẹ́ kí gbogbo àyè ó wúlo.,incorrect,single_delete,tone,menyo20k
+tone_0117,"Ojú ọba ayé ló fọ́; tọ̀rún là kedere, ó ń wo aṣebi.",correct,none,tone,menyo20k
+tone_0117,"Oju ọba aye lo fọ; tọrun la kedere, o n wo aṣebi.",incorrect,strip_all,tone,menyo20k
+tone_0117,"Ojú ọba ayé ló fọ́; tọ̀rún là kedere, ò ń wo aṣebi.",incorrect,single_flip,tone,menyo20k
+tone_0117,"Ojú ọba ayé ló fọ; tọ̀rún là kedere, ó ń wo aṣebi.",incorrect,single_delete,tone,menyo20k
+tone_0118,Ọ̀wọ̀ọ kókó la fi ń wọ igi; ọ̀wọ̀ òrìṣà la fi ń wọ àfín.,correct,none,tone,menyo20k
+tone_0118,Ọwọọ koko la fi n wọ igi; ọwọ oriṣa la fi n wọ afin.,incorrect,strip_all,tone,menyo20k
+tone_0118,Ọ̀wọ̀ọ kókó la fi ń wọ igi; ọ̀wọ̀ òríṣà la fi ń wọ àfín.,incorrect,single_flip,tone,menyo20k
+tone_0118,Ọ̀wọ̀ọ kokó la fi ń wọ igi; ọ̀wọ̀ òrìṣà la fi ń wọ àfín.,incorrect,single_delete,tone,menyo20k
+tone_0119,"Nílé, Làbákẹ́ pariwo, Jáde! Jáde! Àlàmú!",correct,none,tone,menyo20k
+tone_0119,"Nile, Labakẹ pariwo, Jade! Jade! Alamu!",incorrect,strip_all,tone,menyo20k
+tone_0119,"Nílé, Làbákẹ́ pariwo, Jáde! Jáde! Àlàmù!",incorrect,single_flip,tone,menyo20k
+tone_0119,"Nílé, Làbákẹ́ pariwo, Jáde! Jáde! Àlàmu!",incorrect,single_delete,tone,menyo20k
+tone_0120,Wọ́n Fòfin De Àwọn Ẹlẹ́rìí Jèhófà ní “Donetsk People’s Republic”,correct,none,tone,menyo20k
+tone_0120,Wọn Fofin De Awọn Ẹlẹrii Jehofa ni “Donetsk People’s Republic”,incorrect,strip_all,tone,menyo20k
+tone_0120,Wọ́n Fòfin De Àwọn Ẹlẹ́rìí Jèhòfà ní “Donetsk People’s Republic”,incorrect,single_flip,tone,menyo20k
+tone_0120,Wọ́n Fòfin De Àwọn Ẹlẹrìí Jèhófà ní “Donetsk People’s Republic”,incorrect,single_delete,tone,menyo20k
+tone_0121,Ìkókó ọmọ tó tọwọ́ bọ eérú ni yó mọ bó gbóná.,correct,none,tone,menyo20k
+tone_0121,Ikoko ọmọ to tọwọ bọ eeru ni yo mọ bo gbona.,incorrect,strip_all,tone,menyo20k
+tone_0121,Ìkókó ọmọ tó tọwọ́ bọ eérú ni yò mọ bó gbóná.,incorrect,single_flip,tone,menyo20k
+tone_0121,Ìkókó ọmọ tó tọwọ́ bọ eéru ni yó mọ bó gbóná.,incorrect,single_delete,tone,menyo20k
+tone_0122,Èyí dẹ̀ ti mú èrè tó pọ̀ wá.,correct,none,tone,menyo20k
+tone_0122,Eyi dẹ ti mu ere to pọ wa.,incorrect,strip_all,tone,menyo20k
+tone_0122,Èyí dẹ̀ ti mù èrè tó pọ̀ wá.,incorrect,single_flip,tone,menyo20k
+tone_0122,Èyi dẹ̀ ti mú èrè tó pọ̀ wá.,incorrect,single_delete,tone,menyo20k
+tone_0123,Ọmọdé ò mọ ibi tí à ń pọn òun rè.,correct,none,tone,menyo20k
+tone_0123,Ọmọde o mọ ibi ti a n pọn oun re.,incorrect,strip_all,tone,menyo20k
+tone_0123,Ọmọdè ò mọ ibi tí à ń pọn òun rè.,incorrect,single_flip,tone,menyo20k
+tone_0123,Ọmọdé ò mọ ibi tí à ń pọn oun rè.,incorrect,single_delete,tone,menyo20k
+tone_0124,Ṣe ìṣípayá ojúṣe Àjọ CC Àgbáńlá-ayé,correct,none,tone,menyo20k
+tone_0124,Ṣe iṣipaya ojuṣe Ajọ CC Agbanla-aye,incorrect,strip_all,tone,menyo20k
+tone_0124,Ṣe ìṣípayá ojúṣe Àjọ CC Àgbàńlá-ayé,incorrect,single_flip,tone,menyo20k
+tone_0124,Ṣe ìṣípayá ojúṣe Àjọ CC Agbáńlá-ayé,incorrect,single_delete,tone,menyo20k
+tone_0125,Ọjọ́ eré là ń jiyàn ohun.,correct,none,tone,menyo20k
+tone_0125,Ọjọ ere la n jiyan ohun.,incorrect,strip_all,tone,menyo20k
+tone_0125,Ọjọ́ eré là ǹ jiyàn ohun.,incorrect,single_flip,tone,menyo20k
+tone_0125,Ọjọ́ eré là n jiyàn ohun.,incorrect,single_delete,tone,menyo20k
+tone_0126,"Láìsí àní-àní, irú ẹjọ́ bẹ́ẹ̀ rọrùn láti borí.",correct,none,tone,menyo20k
+tone_0126,"Laisi ani-ani, iru ẹjọ bẹẹ rọrun lati bori.",incorrect,strip_all,tone,menyo20k
+tone_0126,"Láìsí àní-àní, irù ẹjọ́ bẹ́ẹ̀ rọrùn láti borí.",incorrect,single_flip,tone,menyo20k
+tone_0126,"Láìsí àní-àní, irú ẹjọ́ bẹ́ẹ̀ rọrùn láti bori.",incorrect,single_delete,tone,menyo20k
+tone_0127,"Bí alágbáraá bá jẹ ọ́ níyà, fẹ̀rín sí i.",correct,none,tone,menyo20k
+tone_0127,"Bi alagbaraa ba jẹ ọ niya, fẹrin si i.",incorrect,strip_all,tone,menyo20k
+tone_0127,"Bì alágbáraá bá jẹ ọ́ níyà, fẹ̀rín sí i.",incorrect,single_flip,tone,menyo20k
+tone_0127,"Bí alágbáraá bá jẹ ọ́ níyà, fẹ̀rín si i.",incorrect,single_delete,tone,menyo20k
+tone_0128,Sọfún bàbá rẹ kí ó má jẹ́ kí obìnrin yẹn tàn-án.,correct,none,tone,menyo20k
+tone_0128,Sọfun baba rẹ ki o ma jẹ ki obinrin yẹn tan-an.,incorrect,strip_all,tone,menyo20k
+tone_0128,Sọfún bàbá rẹ kí ó má jẹ́ kí obìnrin yẹn tàn-àn.,incorrect,single_flip,tone,menyo20k
+tone_0128,Sọfún bàbá rẹ kí ó má jẹ́ kí obìnrin yẹn tàn-an.,incorrect,single_delete,tone,menyo20k
+tone_0129,"Lápapọ̀, ìgbésẹ̀ náà kì í pèse òyì-èédú.",correct,none,tone,menyo20k
+tone_0129,"Lapapọ, igbesẹ naa ki i pese oyi-eedu.",incorrect,strip_all,tone,menyo20k
+tone_0129,"Lápapọ́, ìgbésẹ̀ náà kì í pèse òyì-èédú.",incorrect,single_flip,tone,menyo20k
+tone_0129,"Lapapọ̀, ìgbésẹ̀ náà kì í pèse òyì-èédú.",incorrect,single_delete,tone,menyo20k
+tone_0130,"A ní àwọn agbagbára-iná-sára àfẹsẹ̀tẹ̀ kékeré náà, tí ẹ bá fẹ́.",correct,none,tone,menyo20k
+tone_0130,"A ni awọn agbagbara-ina-sara afẹsẹtẹ kekere naa, ti ẹ ba fẹ.",incorrect,strip_all,tone,menyo20k
+tone_0130,"A ní àwọn agbagbára-iná-sára àfẹsẹ́tẹ̀ kékeré náà, tí ẹ bá fẹ́.",incorrect,single_flip,tone,menyo20k
+tone_0130,"A ní àwọn agbagbára-iná-sára àfẹsẹ̀tẹ̀ kékeré náa, tí ẹ bá fẹ́.",incorrect,single_delete,tone,menyo20k
+tone_0131,"Ibà-ẹ̀fọn ti ọdún yìí jẹ́ tuntun, ó sì yára pa ènìyàn.",correct,none,tone,menyo20k
+tone_0131,"Iba-ẹfọn ti ọdun yii jẹ tuntun, o si yara pa eniyan.",incorrect,strip_all,tone,menyo20k
+tone_0131,"Ibà-ẹ̀fọn ti ọdún yìí jẹ̀ tuntun, ó sì yára pa ènìyàn.",incorrect,single_flip,tone,menyo20k
+tone_0131,"Ibà-ẹfọn ti ọdún yìí jẹ́ tuntun, ó sì yára pa ènìyàn.",incorrect,single_delete,tone,menyo20k
+tone_0132,Mo lọ mú aṣọ tuntun,correct,none,tone,menyo20k
+tone_0132,Mo lọ mu aṣọ tuntun,incorrect,strip_all,tone,menyo20k
+tone_0132,Mo lọ mù aṣọ tuntun,incorrect,single_flip,tone,menyo20k
+tone_0132,Mo lọ mu aṣọ tuntun,incorrect,single_delete,tone,menyo20k
+tone_0133,Kí ni o fẹ́ ṣe?,correct,none,tone,menyo20k
+tone_0133,Ki ni o fẹ ṣe?,incorrect,strip_all,tone,menyo20k
+tone_0133,Kì ni o fẹ́ ṣe?,incorrect,single_flip,tone,menyo20k
+tone_0133,Kí ni o fẹ ṣe?,incorrect,single_delete,tone,menyo20k
+tone_0134,Ta ni ìyẹn wá ń se ànfàní fún?,correct,none,tone,menyo20k
+tone_0134,Ta ni iyẹn wa n se anfani fun?,incorrect,strip_all,tone,menyo20k
+tone_0134,Ta ni ìyẹn wà ń se ànfàní fún?,incorrect,single_flip,tone,menyo20k
+tone_0134,Ta ni ìyẹn wá ń se anfàní fún?,incorrect,single_delete,tone,menyo20k
+tone_0135,Ọ̀dárayá tí ń fi ẹ̀gbẹ́ na igi.,correct,none,tone,menyo20k
+tone_0135,Ọdaraya ti n fi ẹgbẹ na igi.,incorrect,strip_all,tone,menyo20k
+tone_0135,Ọ̀dàrayá tí ń fi ẹ̀gbẹ́ na igi.,incorrect,single_flip,tone,menyo20k
+tone_0135,Ọ̀dáraya tí ń fi ẹ̀gbẹ́ na igi.,incorrect,single_delete,tone,menyo20k
+tone_0136,Ìkànnì tí ó wà lárọ̀ọ́wọ́tó lórí Ilé-ìṣiṣẹ́ Kolibiri,correct,none,tone,menyo20k
+tone_0136,Ikanni ti o wa larọọwọto lori Ile-iṣiṣẹ Kolibiri,incorrect,strip_all,tone,menyo20k
+tone_0136,Ìkànnì tí ó wà lárọ̀ọ́wọ́tó lórí Ilé-íṣiṣẹ́ Kolibiri,incorrect,single_flip,tone,menyo20k
+tone_0136,Ìkànnì tí ó wà lárọọ́wọ́tó lórí Ilé-ìṣiṣẹ́ Kolibiri,incorrect,single_delete,tone,menyo20k
+tone_0137,"Òní, ẹtú jìnfìn, ọ̀la, ẹtú jìnfìn; ẹtu nìkan lẹran tó wà nígbó?",correct,none,tone,menyo20k
+tone_0137,"Oni, ẹtu jinfin, ọla, ẹtu jinfin; ẹtu nikan lẹran to wa nigbo?",incorrect,strip_all,tone,menyo20k
+tone_0137,"Òní, ẹtú jìnfìn, ọ̀la, ẹtú jìnfìn; ẹtu nìkan lẹran tó wà nígbò?",incorrect,single_flip,tone,menyo20k
+tone_0137,"Òni, ẹtú jìnfìn, ọ̀la, ẹtú jìnfìn; ẹtu nìkan lẹran tó wà nígbó?",incorrect,single_delete,tone,menyo20k
+tone_0138,Èyí léwu nítorí ó fi àyè gba àwọn onípò àṣẹ láti lo agbára nílòkulò.,correct,none,tone,menyo20k
+tone_0138,Eyi lewu nitori o fi aye gba awọn onipo aṣẹ lati lo agbara nilokulo.,incorrect,strip_all,tone,menyo20k
+tone_0138,Èyí léwu nítorí ó fi àyè gba àwọn onípò àṣẹ láti lo agbára nìlòkulò.,incorrect,single_flip,tone,menyo20k
+tone_0138,Èyí léwu nitorí ó fi àyè gba àwọn onípò àṣẹ láti lo agbára nílòkulò.,incorrect,single_delete,tone,menyo20k
+tone_0139,"Bí mo bá wò yíká nísìyìí, mo máa ń rí gbogbo àyè gẹ́gẹ́ bi àǹfààní.",correct,none,tone,menyo20k
+tone_0139,"Bi mo ba wo yika nisiyii, mo maa n ri gbogbo aye gẹgẹ bi anfaani.",incorrect,strip_all,tone,menyo20k
+tone_0139,"Bí mo bà wò yíká nísìyìí, mo máa ń rí gbogbo àyè gẹ́gẹ́ bi àǹfààní.",incorrect,single_flip,tone,menyo20k
+tone_0139,"Bí mo bá wò yíká nísìyìí, mo máa ń rí gbogbo àyè gẹ́gẹ́ bi àǹfààni.",incorrect,single_delete,tone,menyo20k
+tone_0140,"Lọ́wọ́lọ́wọ́ yìí, àto òwo ilé-iṣẹ́ kùkúyè ni à ń takò.",correct,none,tone,menyo20k
+tone_0140,"Lọwọlọwọ yii, ato owo ile-iṣẹ kukuye ni a n tako.",incorrect,strip_all,tone,menyo20k
+tone_0140,"Lọ̀wọ́lọ́wọ́ yìí, àto òwo ilé-iṣẹ́ kùkúyè ni à ń takò.",incorrect,single_flip,tone,menyo20k
+tone_0140,"Lọ́wọ́lọwọ́ yìí, àto òwo ilé-iṣẹ́ kùkúyè ni à ń takò.",incorrect,single_delete,tone,menyo20k
+tone_0141,Àwọn ẹ̀mí àìrí kan ni ó yí ọgbà ìtọ́jú Èṣùníyì ká.,correct,none,tone,menyo20k
+tone_0141,Awọn ẹmi airi kan ni o yi ọgba itọju Eṣuniyi ka.,incorrect,strip_all,tone,menyo20k
+tone_0141,Àwọn ẹ̀mí àìrí kan ni ó yì ọgbà ìtọ́jú Èṣùníyì ká.,incorrect,single_flip,tone,menyo20k
+tone_0141,Àwọn ẹ̀mí àìri kan ni ó yí ọgbà ìtọ́jú Èṣùníyì ká.,incorrect,single_delete,tone,menyo20k
+tone_0142,A kì í fi ohun sọ́wọ́ búra.,correct,none,tone,menyo20k
+tone_0142,A ki i fi ohun sọwọ bura.,incorrect,strip_all,tone,menyo20k
+tone_0142,A kì í fi ohun sọ́wọ̀ búra.,incorrect,single_flip,tone,menyo20k
+tone_0142,A kì í fi ohun sọ́wọ búra.,incorrect,single_delete,tone,menyo20k
+tone_0143,"ní ààbò atakò aìíṣeémọ̀ bí oníṣọnà lè ní ìjàdù, àti",correct,none,tone,menyo20k
+tone_0143,"ni aabo atako aiiṣeemọ bi oniṣọna le ni ijadu, ati",incorrect,strip_all,tone,menyo20k
+tone_0143,"ní ààbò atakò aìíṣeémọ̀ bí oníṣọnà lè ní ìjádù, àti",incorrect,single_flip,tone,menyo20k
+tone_0143,"ní ààbò atakò aìiṣeémọ̀ bí oníṣọnà lè ní ìjàdù, àti",incorrect,single_delete,tone,menyo20k
+tone_0144,Àti àárọ̀ àná ló ti jáde,correct,none,tone,menyo20k
+tone_0144,Ati aarọ ana lo ti jade,incorrect,strip_all,tone,menyo20k
+tone_0144,Àti àárọ̀ àná lò ti jáde,incorrect,single_flip,tone,menyo20k
+tone_0144,Ati àárọ̀ àná ló ti jáde,incorrect,single_delete,tone,menyo20k
+tone_0145,"Àáyá yó níjọ́ kan, ó ní ká ká òun léhín ọ̀kánkán.",correct,none,tone,menyo20k
+tone_0145,"Aaya yo nijọ kan, o ni ka ka oun lehin ọkankan.",incorrect,strip_all,tone,menyo20k
+tone_0145,"Àáyá yó níjọ̀ kan, ó ní ká ká òun léhín ọ̀kánkán.",incorrect,single_flip,tone,menyo20k
+tone_0145,"Àáyá yó níjọ́ kan, ó ní ká ká òun léhin ọ̀kánkán.",incorrect,single_delete,tone,menyo20k
+tone_0146,"Wọ́n ríi pé, àṣẹ Ọlọfin ọ̀run ń gbé pẹ̀lú wọn.",correct,none,tone,menyo20k
+tone_0146,"Wọn rii pe, aṣẹ Ọlọfin ọrun n gbe pẹlu wọn.",incorrect,strip_all,tone,menyo20k
+tone_0146,"Wọ̀n ríi pé, àṣẹ Ọlọfin ọ̀run ń gbé pẹ̀lú wọn.",incorrect,single_flip,tone,menyo20k
+tone_0146,"Wọ́n ríi pé, àṣẹ Ọlọfin ọ̀run ń gbe pẹ̀lú wọn.",incorrect,single_delete,tone,menyo20k
+tone_0147,"Ta là bá rí báwí bí ẹní fọmọ fọ́kọ lóru, tí ò jẹ́ kílẹ̀ mọ́?",correct,none,tone,menyo20k
+tone_0147,"Ta la ba ri bawi bi ẹni fọmọ fọkọ loru, ti o jẹ kilẹ mọ?",incorrect,strip_all,tone,menyo20k
+tone_0147,"Ta là bá rí báwì bí ẹní fọmọ fọ́kọ lóru, tí ò jẹ́ kílẹ̀ mọ́?",incorrect,single_flip,tone,menyo20k
+tone_0147,"Ta là bá rí báwí bí ẹní fọmọ fọ́kọ lóru, tí ò jẹ́ kílẹ̀ mọ?",incorrect,single_delete,tone,menyo20k
+tone_0148,A gbọdọ̀ sọ ọjọ́ ìbíi rẹ̀ di Kérésìmesì China.,correct,none,tone,menyo20k
+tone_0148,A gbọdọ sọ ọjọ ibii rẹ di Keresimesi China.,incorrect,strip_all,tone,menyo20k
+tone_0148,A gbọdọ̀ sọ ọjọ́ ìbíi rẹ̀ di Kérésímesì China.,incorrect,single_flip,tone,menyo20k
+tone_0148,A gbọdọ̀ sọ ọjọ́ ìbíi rẹ di Kérésìmesì China.,incorrect,single_delete,tone,menyo20k
+tone_0149,"Ahún wọnú orù, ó ku àtiyọ.",correct,none,tone,menyo20k
+tone_0149,"Ahun wọnu oru, o ku atiyọ.",incorrect,strip_all,tone,menyo20k
+tone_0149,"Ahún wọnú orù, ò ku àtiyọ.",incorrect,single_flip,tone,menyo20k
+tone_0149,"Ahún wọnú orù, ó ku atiyọ.",incorrect,single_delete,tone,menyo20k
+tone_0150,"Láfikún, ìrújú wà nípa ti ìdànimọ̀ irúfẹ́ àléébù ara ènìyàn.",correct,none,tone,menyo20k
+tone_0150,"Lafikun, iruju wa nipa ti idanimọ irufẹ aleebu ara eniyan.",incorrect,strip_all,tone,menyo20k
+tone_0150,"Láfikún, ìrújú wà nípa ti ìdànimọ̀ irúfẹ́ àléébú ara ènìyàn.",incorrect,single_flip,tone,menyo20k
+tone_0150,"Láfikún, ìrúju wà nípa ti ìdànimọ̀ irúfẹ́ àléébù ara ènìyàn.",incorrect,single_delete,tone,menyo20k
+tone_0151,Ọmọdé ò moògùn ó ń pè é lẹ́gùn-ún.,correct,none,tone,menyo20k
+tone_0151,Ọmọde o moogun o n pe e lẹgun-un.,incorrect,strip_all,tone,menyo20k
+tone_0151,Ọmọdé ò moògún ó ń pè é lẹ́gùn-ún.,incorrect,single_flip,tone,menyo20k
+tone_0151,Ọmọdé ò moògùn o ń pè é lẹ́gùn-ún.,incorrect,single_delete,tone,menyo20k
+tone_0152,Dúró ná! Iléesẹ́ Sony ní ẹ̀ka ni Nàìjíríà?,correct,none,tone,menyo20k
+tone_0152,Duro na! Ileesẹ Sony ni ẹka ni Naijiria?,incorrect,strip_all,tone,menyo20k
+tone_0152,Dúró ná! Ilèesẹ́ Sony ní ẹ̀ka ni Nàìjíríà?,incorrect,single_flip,tone,menyo20k
+tone_0152,Duró ná! Iléesẹ́ Sony ní ẹ̀ka ni Nàìjíríà?,incorrect,single_delete,tone,menyo20k
+tone_0153,"Igi tó bá bá Ṣàngó lérí, gbígbẹ ní ń gbẹ.",correct,none,tone,menyo20k
+tone_0153,"Igi to ba ba Ṣango leri, gbigbẹ ni n gbẹ.",incorrect,strip_all,tone,menyo20k
+tone_0153,"Igi tó bá bá Ṣàngó lérí, gbígbẹ ní ǹ gbẹ.",incorrect,single_flip,tone,menyo20k
+tone_0153,"Igi tó bá bá Ṣàngó lérí, gbígbẹ ni ń gbẹ.",incorrect,single_delete,tone,menyo20k
+tone_0154,"Ìmàlé sọ̀rọ̀ òjó kù, ó ní Ọlọ́run jẹ́rìí òun.",correct,none,tone,menyo20k
+tone_0154,"Imale sọrọ ojo ku, o ni Ọlọrun jẹrii oun.",incorrect,strip_all,tone,menyo20k
+tone_0154,"Ímàlé sọ̀rọ̀ òjó kù, ó ní Ọlọ́run jẹ́rìí òun.",incorrect,single_flip,tone,menyo20k
+tone_0154,"Ìmàlé sọ̀rọ̀ òjó kù, ó ní Ọlọ́run jẹrìí òun.",incorrect,single_delete,tone,menyo20k
+tone_0155,Ẹni tí ó tọ odò tí kò dẹ̀yìn yò bàá Olúwẹri pàdé.,correct,none,tone,menyo20k
+tone_0155,Ẹni ti o tọ odo ti ko dẹyin yo baa Oluwẹri pade.,incorrect,strip_all,tone,menyo20k
+tone_0155,Ẹni tí ó tọ odò tí kò dẹ́yìn yò bàá Olúwẹri pàdé.,incorrect,single_flip,tone,menyo20k
+tone_0155,Ẹni ti ó tọ odò tí kò dẹ̀yìn yò bàá Olúwẹri pàdé.,incorrect,single_delete,tone,menyo20k
+tone_0156,--- ìdíje ìpegedé (AFCON) ọdún 2019: Ìpàgọ ikọ̀ Eagles di ṣíṣí lónìí.,correct,none,tone,menyo20k
+tone_0156,--- idije ipegede (AFCON) ọdun 2019: Ipagọ ikọ Eagles di ṣiṣi lonii.,incorrect,strip_all,tone,menyo20k
+tone_0156,--- ídíje ìpegedé (AFCON) ọdún 2019: Ìpàgọ ikọ̀ Eagles di ṣíṣí lónìí.,incorrect,single_flip,tone,menyo20k
+tone_0156,--- ìdíje ìpegedé (AFCON) ọdún 2019: Ìpàgọ ikọ̀ Eagles di ṣíṣi lónìí.,incorrect,single_delete,tone,menyo20k
+tone_0157,Ẹlẹ́dẹ̀ tó kú légbodò ló ní ká fòun jẹyán.,correct,none,tone,menyo20k
+tone_0157,Ẹlẹdẹ to ku legbodo lo ni ka foun jẹyan.,incorrect,strip_all,tone,menyo20k
+tone_0157,Ẹlẹ́dẹ̀ tó kú légbodò ló nì ká fòun jẹyán.,incorrect,single_flip,tone,menyo20k
+tone_0157,Ẹlẹ́dẹ̀ tó kú légbodò ló ní ka fòun jẹyán.,incorrect,single_delete,tone,menyo20k
+tone_0158,Àṣá wo ìgbín kọ̀rọ̀; ìkaraun-un rẹ̀ ò jẹ́ kó gbé e.,correct,none,tone,menyo20k
+tone_0158,Aṣa wo igbin kọrọ; ikaraun-un rẹ o jẹ ko gbe e.,incorrect,strip_all,tone,menyo20k
+tone_0158,Àṣá wo ìgbín kọ̀rọ̀; ìkaraun-un rẹ̀ ó jẹ́ kó gbé e.,incorrect,single_flip,tone,menyo20k
+tone_0158,Àṣá wo igbín kọ̀rọ̀; ìkaraun-un rẹ̀ ò jẹ́ kó gbé e.,incorrect,single_delete,tone,menyo20k
+tone_0159,Ojú àwòdì kọ́ ladìẹ ń re àpáta.,correct,none,tone,menyo20k
+tone_0159,Oju awodi kọ ladiẹ n re apata.,incorrect,strip_all,tone,menyo20k
+tone_0159,Ojù àwòdì kọ́ ladìẹ ń re àpáta.,incorrect,single_flip,tone,menyo20k
+tone_0159,Ojú àwòdì kọ́ ladìẹ ń re àpata.,incorrect,single_delete,tone,menyo20k
+tone_0160,Ohun tó bá wu ọmọọ́ jẹ kì í run ọmọ nínú.,correct,none,tone,menyo20k
+tone_0160,Ohun to ba wu ọmọọ jẹ ki i run ọmọ ninu.,incorrect,strip_all,tone,menyo20k
+tone_0160,Ohun tò bá wu ọmọọ́ jẹ kì í run ọmọ nínú.,incorrect,single_flip,tone,menyo20k
+tone_0160,Ohun tó bá wu ọmọọ́ jẹ kì í run ọmọ nínu.,incorrect,single_delete,tone,menyo20k
+tone_0161,“Já ilé ẹ̀ kí ń bá ẹ kọ́ ọ”; ìtẹ́ èèkàn kan ní ń fúnni.,correct,none,tone,menyo20k
+tone_0161,“Ja ile ẹ ki n ba ẹ kọ ọ”; itẹ eekan kan ni n funni.,incorrect,strip_all,tone,menyo20k
+tone_0161,“Já ilé ẹ́ kí ń bá ẹ kọ́ ọ”; ìtẹ́ èèkàn kan ní ń fúnni.,incorrect,single_flip,tone,menyo20k
+tone_0161,“Já ile ẹ̀ kí ń bá ẹ kọ́ ọ”; ìtẹ́ èèkàn kan ní ń fúnni.,incorrect,single_delete,tone,menyo20k
+tone_0162,Ilé Ẹjọ́ Orílẹ̀-Èdè Rọ́ṣíà Máa Dá Ẹjọ́ Arákùnrin Moskalenko Lọ́sẹ̀ Tó Ń Bọ̀,correct,none,tone,menyo20k
+tone_0162,Ile Ẹjọ Orilẹ-Ede Rọṣia Maa Da Ẹjọ Arakunrin Moskalenko Lọsẹ To N Bọ,incorrect,strip_all,tone,menyo20k
+tone_0162,Ilé Ẹjọ́ Orìlẹ̀-Èdè Rọ́ṣíà Máa Dá Ẹjọ́ Arákùnrin Moskalenko Lọ́sẹ̀ Tó Ń Bọ̀,incorrect,single_flip,tone,menyo20k
+tone_0162,Ilé Ẹjọ́ Orílẹ̀-Èdè Rọ́ṣià Máa Dá Ẹjọ́ Arákùnrin Moskalenko Lọ́sẹ̀ Tó Ń Bọ̀,incorrect,single_delete,tone,menyo20k
+tone_0163,Àgbà tí kò mọ ìwọ̀n araa rẹ̀ lodò ń gbé lọ́.,correct,none,tone,menyo20k
+tone_0163,Agba ti ko mọ iwọn araa rẹ lodo n gbe lọ.,incorrect,strip_all,tone,menyo20k
+tone_0163,Àgbà tí kò mọ ìwọ̀n araa rẹ́ lodò ń gbé lọ́.,incorrect,single_flip,tone,menyo20k
+tone_0163,Àgba tí kò mọ ìwọ̀n araa rẹ̀ lodò ń gbé lọ́.,incorrect,single_delete,tone,menyo20k
+tone_0164,"Bí ẹnìkán bá fojú di Orò, Orò a gbé e.",correct,none,tone,menyo20k
+tone_0164,"Bi ẹnikan ba foju di Oro, Oro a gbe e.",incorrect,strip_all,tone,menyo20k
+tone_0164,"Bí ẹnìkán bà fojú di Orò, Orò a gbé e.",incorrect,single_flip,tone,menyo20k
+tone_0164,"Bi ẹnìkán bá fojú di Orò, Orò a gbé e.",incorrect,single_delete,tone,menyo20k
+tone_0165,Ẹni tí ń sáré kiri nínúu pápá ń wá ọ̀nà àti jìn sí kòtò.,correct,none,tone,menyo20k
+tone_0165,Ẹni ti n sare kiri ninuu papa n wa ọna ati jin si koto.,incorrect,strip_all,tone,menyo20k
+tone_0165,Ẹni tí ń sàré kiri nínúu pápá ń wá ọ̀nà àti jìn sí kòtò.,incorrect,single_flip,tone,menyo20k
+tone_0165,Ẹni tí ń sáré kiri nínúu pápá ń wá ọ̀nà àti jin sí kòtò.,incorrect,single_delete,tone,menyo20k
+tone_0166,"Ìjàkùmọ̀ kì í rin ọ̀sán, ẹni a bíire kì í rin òru.",correct,none,tone,menyo20k
+tone_0166,"Ijakumọ ki i rin ọsan, ẹni a biire ki i rin oru.",incorrect,strip_all,tone,menyo20k
+tone_0166,"Ìjàkùmọ̀ kì í rin ọ̀sán, ẹni a bíire kì ì rin òru.",incorrect,single_flip,tone,menyo20k
+tone_0166,"Ìjàkùmọ̀ kì í rin ọ̀sán, ẹni a bíire ki í rin òru.",incorrect,single_delete,tone,menyo20k
+tone_0167,Oníṣu ní ń mọ ibi iṣú gbé ta sí.,correct,none,tone,menyo20k
+tone_0167,Oniṣu ni n mọ ibi iṣu gbe ta si.,incorrect,strip_all,tone,menyo20k
+tone_0167,Oníṣu ní ń mọ ibi iṣú gbè ta sí.,incorrect,single_flip,tone,menyo20k
+tone_0167,Oníṣu ní ń mọ ibi iṣú gbe ta sí.,incorrect,single_delete,tone,menyo20k
+tone_0168,Erékùṣù yìí ló tóbi jù lórílẹ̀-èdè Philippines.,correct,none,tone,menyo20k
+tone_0168,Erekuṣu yii lo tobi ju lorilẹ-ede Philippines.,incorrect,strip_all,tone,menyo20k
+tone_0168,Erékùṣù yìí lò tóbi jù lórílẹ̀-èdè Philippines.,incorrect,single_flip,tone,menyo20k
+tone_0168,Erékùṣù yìi ló tóbi jù lórílẹ̀-èdè Philippines.,incorrect,single_delete,tone,menyo20k
+tone_0169,Ọjọ́ mẹ́ẹ̀dógún sí i! Ó ń ka wákàtí! ìsẹ́jú!,correct,none,tone,menyo20k
+tone_0169,Ọjọ mẹẹdogun si i! O n ka wakati! isẹju!,incorrect,strip_all,tone,menyo20k
+tone_0169,Ọjọ́ mẹ́ẹ̀dògún sí i! Ó ń ka wákàtí! ìsẹ́jú!,incorrect,single_flip,tone,menyo20k
+tone_0169,Ọjọ́ mẹ́ẹ̀dógún sí i! Ó ń ka wákàti! ìsẹ́jú!,incorrect,single_delete,tone,menyo20k
+tone_0170,Ẹni a kò fẹ́ nilée rẹ̀ ń jìnna lójú ẹni.,correct,none,tone,menyo20k
+tone_0170,Ẹni a ko fẹ nilee rẹ n jinna loju ẹni.,incorrect,strip_all,tone,menyo20k
+tone_0170,Ẹni a kò fẹ́ nilée rẹ̀ ń jínna lójú ẹni.,incorrect,single_flip,tone,menyo20k
+tone_0170,Ẹni a kò fẹ́ nilée rẹ ń jìnna lójú ẹni.,incorrect,single_delete,tone,menyo20k
+tone_0171,Ẹ jẹ́ ká dọ́gbọ́n pé àjàkalẹ̀ àrùn káríayé wà.,correct,none,tone,menyo20k
+tone_0171,Ẹ jẹ ka dọgbọn pe ajakalẹ arun kariaye wa.,incorrect,strip_all,tone,menyo20k
+tone_0171,Ẹ jẹ́ ká dọ́gbọ́n pè àjàkalẹ̀ àrùn káríayé wà.,incorrect,single_flip,tone,menyo20k
+tone_0171,Ẹ jẹ́ ká dọ́gbọ́n pé àjakalẹ̀ àrùn káríayé wà.,incorrect,single_delete,tone,menyo20k
+tone_0172,Àwòrán orílẹ̀-èdè yìí fi ìpín kòkòro apa sójà ara ní ilẹ̀ àgbáyé hàn.,correct,none,tone,menyo20k
+tone_0172,Aworan orilẹ-ede yii fi ipin kokoro apa soja ara ni ilẹ agbaye han.,incorrect,strip_all,tone,menyo20k
+tone_0172,Àwòrán orílẹ́-èdè yìí fi ìpín kòkòro apa sójà ara ní ilẹ̀ àgbáyé hàn.,incorrect,single_flip,tone,menyo20k
+tone_0172,Àwòrán orílẹ̀-èdè yìí fi ìpín kòkòro apa sójà ara ní ilẹ̀ àgbáyé han.,incorrect,single_delete,tone,menyo20k
+tone_0173,Ẹ̀tàn kì í ṣe ọgbọ́n.,correct,none,tone,menyo20k
+tone_0173,Ẹtan ki i ṣe ọgbọn.,incorrect,strip_all,tone,menyo20k
+tone_0173,Ẹ̀tàn kí í ṣe ọgbọ́n.,incorrect,single_flip,tone,menyo20k
+tone_0173,Ẹ̀tàn kì i ṣe ọgbọ́n.,incorrect,single_delete,tone,menyo20k
+tone_0174,"AG: Ó dáa, kìí ṣe Donald Trump nìkan.",correct,none,tone,menyo20k
+tone_0174,"AG: O daa, kii ṣe Donald Trump nikan.",incorrect,strip_all,tone,menyo20k
+tone_0174,"AG: Ó dáa, kíí ṣe Donald Trump nìkan.",incorrect,single_flip,tone,menyo20k
+tone_0174,"AG: O dáa, kìí ṣe Donald Trump nìkan.",incorrect,single_delete,tone,menyo20k
+tone_0175,"Lápapọ̀, màá sọ wí pé ó ti rí bẹ́ẹ̀.",correct,none,tone,menyo20k
+tone_0175,"Lapapọ, maa sọ wi pe o ti ri bẹẹ.",incorrect,strip_all,tone,menyo20k
+tone_0175,"Làpapọ̀, màá sọ wí pé ó ti rí bẹ́ẹ̀.",incorrect,single_flip,tone,menyo20k
+tone_0175,"Lápapọ̀, màá sọ wí pé ó ti ri bẹ́ẹ̀.",incorrect,single_delete,tone,menyo20k
+tone_0176,Ó dá mi lójú pe o kò mọ̀ mí,correct,none,tone,menyo20k
+tone_0176,O da mi loju pe o ko mọ mi,incorrect,strip_all,tone,menyo20k
+tone_0176,Ó dá mi lójú pe o kó mọ̀ mí,incorrect,single_flip,tone,menyo20k
+tone_0176,Ó dá mi lójú pe o ko mọ̀ mí,incorrect,single_delete,tone,menyo20k
+tone_0177,O ó ti máa lo 2FA nínú ìgbé ayéè rẹ.,correct,none,tone,menyo20k
+tone_0177,O o ti maa lo 2FA ninu igbe ayee rẹ.,incorrect,strip_all,tone,menyo20k
+tone_0177,O ó ti màa lo 2FA nínú ìgbé ayéè rẹ.,incorrect,single_flip,tone,menyo20k
+tone_0177,O ó ti maa lo 2FA nínú ìgbé ayéè rẹ.,incorrect,single_delete,tone,menyo20k
+tone_0178,Wọ́n sì rán an lẹ́wọ̀n ọdún mẹ́fà.,correct,none,tone,menyo20k
+tone_0178,Wọn si ran an lẹwọn ọdun mẹfa.,incorrect,strip_all,tone,menyo20k
+tone_0178,Wọ́n sì rán an lẹ̀wọ̀n ọdún mẹ́fà.,incorrect,single_flip,tone,menyo20k
+tone_0178,Wọ́n sì rán an lẹ́wọn ọdún mẹ́fà.,incorrect,single_delete,tone,menyo20k
+tone_0179,Ó ń ṣe àfikún sí pàtàki ìmọ̀ọ́ṣe ìyanjú-ìṣòro wọn àti àjọṣepọ̀ wọn pẹ̀lú àwọn oníbàárà.,correct,none,tone,menyo20k
+tone_0179,O n ṣe afikun si pataki imọọṣe iyanju-iṣoro wọn ati ajọṣepọ wọn pẹlu awọn onibaara.,incorrect,strip_all,tone,menyo20k
+tone_0179,Ó ń ṣe àfikún sì pàtàki ìmọ̀ọ́ṣe ìyanjú-ìṣòro wọn àti àjọṣepọ̀ wọn pẹ̀lú àwọn oníbàárà.,incorrect,single_flip,tone,menyo20k
+tone_0179,Ó ń ṣe àfikún sí pàtàki ìmọ̀ọ́ṣe ìyanju-ìṣòro wọn àti àjọṣepọ̀ wọn pẹ̀lú àwọn oníbàárà.,incorrect,single_delete,tone,menyo20k
+tone_0180,dáàbò bo ọ̀rọ̀-ìfiwọléè rẹ pẹ̀lú ọ̀rọ̀-ìfiwọlé olúwa (tàbí gbólóhùn ìfiwọlé ọlọ́rọ̀ kan).,correct,none,tone,menyo20k
+tone_0180,daabo bo ọrọ-ifiwọlee rẹ pẹlu ọrọ-ifiwọle oluwa (tabi gbolohun ifiwọle ọlọrọ kan).,incorrect,strip_all,tone,menyo20k
+tone_0180,dáàbó bo ọ̀rọ̀-ìfiwọléè rẹ pẹ̀lú ọ̀rọ̀-ìfiwọlé olúwa (tàbí gbólóhùn ìfiwọlé ọlọ́rọ̀ kan).,incorrect,single_flip,tone,menyo20k
+tone_0180,dáàbò bo ọ̀rọ̀-ìfiwọlée rẹ pẹ̀lú ọ̀rọ̀-ìfiwọlé olúwa (tàbí gbólóhùn ìfiwọlé ọlọ́rọ̀ kan).,incorrect,single_delete,tone,menyo20k
+tone_0181,"Mo wà lórí aago, ṣé kò rí i ni?",correct,none,tone,menyo20k
+tone_0181,"Mo wa lori aago, ṣe ko ri i ni?",incorrect,strip_all,tone,menyo20k
+tone_0181,"Mo wà lórì aago, ṣé kò rí i ni?",incorrect,single_flip,tone,menyo20k
+tone_0181,"Mo wà lóri aago, ṣé kò rí i ni?",incorrect,single_delete,tone,menyo20k
+tone_0182,"Mkhitaryan gbá àmì-ayò àkọ́kọ́ wọlé fún Arsenal, tí Aaron Ramsey sì gbá àmì-ayò kejì wọlé.",correct,none,tone,menyo20k
+tone_0182,"Mkhitaryan gba ami-ayo akọkọ wọle fun Arsenal, ti Aaron Ramsey si gba ami-ayo keji wọle.",incorrect,strip_all,tone,menyo20k
+tone_0182,"Mkhitaryan gbá àmì-ayò àkọ̀kọ́ wọlé fún Arsenal, tí Aaron Ramsey sì gbá àmì-ayò kejì wọlé.",incorrect,single_flip,tone,menyo20k
+tone_0182,"Mkhitaryan gbá àmì-ayò àkọ́kọ́ wọlé fún Arsenal, tí Aaron Ramsey sì gbá àmì-ayo kejì wọlé.",incorrect,single_delete,tone,menyo20k
+tone_0183,"Ọjọ́ kan là ń bàjẹ́, ọjọ́ gbogbo lara ń tini.",correct,none,tone,menyo20k
+tone_0183,"Ọjọ kan la n bajẹ, ọjọ gbogbo lara n tini.",incorrect,strip_all,tone,menyo20k
+tone_0183,"Ọjọ́ kan là ń bàjẹ́, ọjọ́ gbogbo lara ǹ tini.",incorrect,single_flip,tone,menyo20k
+tone_0183,"Ọjọ́ kan là ń bàjẹ, ọjọ́ gbogbo lara ń tini.",incorrect,single_delete,tone,menyo20k
+tone_0184,Àwọn ìpínlẹ̀ mọ́kàndínlógún ní ààrùn COIVD-19 tí jẹyọ báyìí.,correct,none,tone,menyo20k
+tone_0184,Awọn ipinlẹ mọkandinlogun ni aarun COIVD-19 ti jẹyọ bayii.,incorrect,strip_all,tone,menyo20k
+tone_0184,Àwọn ìpínlẹ̀ mọ́kàndínlógún nì ààrùn COIVD-19 tí jẹyọ báyìí.,incorrect,single_flip,tone,menyo20k
+tone_0184,Àwọn ìpínlẹ̀ mọ́kàndínlógún ní ààrùn COIVD-19 tí jẹyọ báyìi.,incorrect,single_delete,tone,menyo20k
+tone_0185,Ò ní ìdí láti máa fọpẹ́ fún Elédúmàrè.,correct,none,tone,menyo20k
+tone_0185,O ni idi lati maa fọpẹ fun Eledumare.,incorrect,strip_all,tone,menyo20k
+tone_0185,Ó ní ìdí láti máa fọpẹ́ fún Elédúmàrè.,incorrect,single_flip,tone,menyo20k
+tone_0185,Ò ní ìdí láti máa fọpẹ́ fún Elédúmarè.,incorrect,single_delete,tone,menyo20k
+tone_0186,Yẹ àkọsílẹ̀ àkànṣe Global Voices wò lórí ipa COVID-19 lágbàáyé.,correct,none,tone,menyo20k
+tone_0186,Yẹ akọsilẹ akanṣe Global Voices wo lori ipa COVID-19 lagbaaye.,incorrect,strip_all,tone,menyo20k
+tone_0186,Yẹ àkọsílẹ̀ àkànṣe Global Voices wò lórí ipa COVID-19 làgbàáyé.,incorrect,single_flip,tone,menyo20k
+tone_0186,Yẹ àkọsílẹ̀ àkanṣe Global Voices wò lórí ipa COVID-19 lágbàáyé.,incorrect,single_delete,tone,menyo20k
+tone_0187,Ẹ̀rọ-alátagbà àti ìbò orílẹ̀-èdè Nàìjíríà,correct,none,tone,menyo20k
+tone_0187,Ẹrọ-alatagba ati ibo orilẹ-ede Naijiria,incorrect,strip_all,tone,menyo20k
+tone_0187,Ẹ̀rọ-alátagbà àti ìbò orílẹ̀-èdè Nàìjíríá,incorrect,single_flip,tone,menyo20k
+tone_0187,Ẹ̀rọ-alátagbà àti ìbò orílẹ̀-èdè Naìjíríà,incorrect,single_delete,tone,menyo20k
+tone_0188,Ewúrẹ́ kì í wọlé tọ ìkokò.,correct,none,tone,menyo20k
+tone_0188,Ewurẹ ki i wọle tọ ikoko.,incorrect,strip_all,tone,menyo20k
+tone_0188,Ewùrẹ́ kì í wọlé tọ ìkokò.,incorrect,single_flip,tone,menyo20k
+tone_0188,Ewúrẹ kì í wọlé tọ ìkokò.,incorrect,single_delete,tone,menyo20k
+tone_0189,Ẹni èèyàn ò kí kó yọ̀; ẹni Ọlọ́run ò kí kó ṣọ́ra.,correct,none,tone,menyo20k
+tone_0189,Ẹni eeyan o ki ko yọ; ẹni Ọlọrun o ki ko ṣọra.,incorrect,strip_all,tone,menyo20k
+tone_0189,Ẹni èèyàn ò kì kó yọ̀; ẹni Ọlọ́run ò kí kó ṣọ́ra.,incorrect,single_flip,tone,menyo20k
+tone_0189,Ẹni èeyàn ò kí kó yọ̀; ẹni Ọlọ́run ò kí kó ṣọ́ra.,incorrect,single_delete,tone,menyo20k
+tone_0190,Ọ̀dájú ọkùnrin lẹ̀ kọ̀ láti yọjú sí ibi kóòtù ìgbéyàwó lọ́jọ́ ìgbéyàwó rẹ̀!,correct,none,tone,menyo20k
+tone_0190,Ọdaju ọkunrin lẹ kọ lati yọju si ibi kootu igbeyawo lọjọ igbeyawo rẹ!,incorrect,strip_all,tone,menyo20k
+tone_0190,Ọ̀dájú ọkúnrin lẹ̀ kọ̀ láti yọjú sí ibi kóòtù ìgbéyàwó lọ́jọ́ ìgbéyàwó rẹ̀!,incorrect,single_flip,tone,menyo20k
+tone_0190,Ọ̀dájú ọkùnrin lẹ̀ kọ̀ láti yọjú sí ibi kóòtù ìgbéyàwó lọ́jọ ìgbéyàwó rẹ̀!,incorrect,single_delete,tone,menyo20k
+tone_0191,Òrìṣà kékeré ò ṣéé há ní párá.,correct,none,tone,menyo20k
+tone_0191,Oriṣa kekere o ṣee ha ni para.,incorrect,strip_all,tone,menyo20k
+tone_0191,Òrìṣá kékeré ò ṣéé há ní párá.,incorrect,single_flip,tone,menyo20k
+tone_0191,Òrìṣà kékere ò ṣéé há ní párá.,incorrect,single_delete,tone,menyo20k
+tone_0192,Ò ń múra ìjà ni?,correct,none,tone,menyo20k
+tone_0192,O n mura ija ni?,incorrect,strip_all,tone,menyo20k
+tone_0192,Ò ń mùra ìjà ni?,incorrect,single_flip,tone,menyo20k
+tone_0192,Ò ń múra ìja ni?,incorrect,single_delete,tone,menyo20k
+tone_0193,Kárí ayé làwọn oníròyìn ti ń tọ pinpin ibi tọ́rọ̀ náà dé.,correct,none,tone,menyo20k
+tone_0193,Kari aye lawọn oniroyin ti n tọ pinpin ibi tọrọ naa de.,incorrect,strip_all,tone,menyo20k
+tone_0193,Kárí ayé láwọn oníròyìn ti ń tọ pinpin ibi tọ́rọ̀ náà dé.,incorrect,single_flip,tone,menyo20k
+tone_0193,Kárí ayé làwọn oníròyìn ti ń tọ pinpin ibi tọ́rọ̀ náa dé.,incorrect,single_delete,tone,menyo20k
+tone_0194,"Ẹní du araa rẹ̀ lóyè Apènà: kó tó jẹ ẹran ọ̀fẹ́, ó dọ̀run.",correct,none,tone,menyo20k
+tone_0194,"Ẹni du araa rẹ loye Apena: ko to jẹ ẹran ọfẹ, o dọrun.",incorrect,strip_all,tone,menyo20k
+tone_0194,"Ẹní du araa rẹ̀ lóyè Apèná: kó tó jẹ ẹran ọ̀fẹ́, ó dọ̀run.",incorrect,single_flip,tone,menyo20k
+tone_0194,"Ẹní du araa rẹ̀ lóye Apènà: kó tó jẹ ẹran ọ̀fẹ́, ó dọ̀run.",incorrect,single_delete,tone,menyo20k
+tone_0195,Ẹ̀rù kì í ba orí kó sá wọnú.,correct,none,tone,menyo20k
+tone_0195,Ẹru ki i ba ori ko sa wọnu.,incorrect,strip_all,tone,menyo20k
+tone_0195,Ẹ̀rù kì í ba orì kó sá wọnú.,incorrect,single_flip,tone,menyo20k
+tone_0195,Ẹ̀rù kì í ba orí kó sá wọnu.,incorrect,single_delete,tone,menyo20k
+tone_0196,Èèwọ̀ ni tọwọ̀; a kì í figi ọwọ̀ dáná.,correct,none,tone,menyo20k
+tone_0196,Eewọ ni tọwọ; a ki i figi ọwọ dana.,incorrect,strip_all,tone,menyo20k
+tone_0196,Èèwọ̀ ni tọwọ̀; a kí í figi ọwọ̀ dáná.,incorrect,single_flip,tone,menyo20k
+tone_0196,Eèwọ̀ ni tọwọ̀; a kì í figi ọwọ̀ dáná.,incorrect,single_delete,tone,menyo20k
+tone_0197,"Àkèekèé ta Kindo lẹpọ̀n, ará ilée Labata ń rojú; kí ló kàn án níbẹ̀?",correct,none,tone,menyo20k
+tone_0197,"Akeekee ta Kindo lẹpọn, ara ilee Labata n roju; ki lo kan an nibẹ?",incorrect,strip_all,tone,menyo20k
+tone_0197,"Àkéekèé ta Kindo lẹpọ̀n, ará ilée Labata ń rojú; kí ló kàn án níbẹ̀?",incorrect,single_flip,tone,menyo20k
+tone_0197,"Àkèekèé ta Kindo lẹpọ̀n, ará ilée Labata ń rojú; kí lo kàn án níbẹ̀?",incorrect,single_delete,tone,menyo20k
+tone_0198,--- COVID-19: Àwọn ènìyàn mẹ́jọ (8) míràn tún jẹyọ lórílẹ̀ èdè Nàìjíríà,correct,none,tone,menyo20k
+tone_0198,--- COVID-19: Awọn eniyan mẹjọ (8) miran tun jẹyọ lorilẹ ede Naijiria,incorrect,strip_all,tone,menyo20k
+tone_0198,--- COVID-19: Àwọn ènìyàn mẹ́jọ (8) míràn tún jẹyọ lórílẹ̀ èdè Náìjíríà,incorrect,single_flip,tone,menyo20k
+tone_0198,--- COVID-19: Àwọn ènìyàn mẹ́jọ (8) míràn tún jẹyọ lorílẹ̀ èdè Nàìjíríà,incorrect,single_delete,tone,menyo20k
+tone_0199,Díẹ̀-díẹ̀ lẹyẹ ń mu ọsàn.,correct,none,tone,menyo20k
+tone_0199,Diẹ-diẹ lẹyẹ n mu ọsan.,incorrect,strip_all,tone,menyo20k
+tone_0199,Dìẹ̀-díẹ̀ lẹyẹ ń mu ọsàn.,incorrect,single_flip,tone,menyo20k
+tone_0199,Diẹ̀-díẹ̀ lẹyẹ ń mu ọsàn.,incorrect,single_delete,tone,menyo20k
+tone_0200,3. Sọ pé rárá fún ìṣàjọyọ̀ àjọ̀dún Òyìnbó nínú ọgbà ilé-ìwé.,correct,none,tone,menyo20k
+tone_0200,3. Sọ pe rara fun iṣajọyọ ajọdun Oyinbo ninu ọgba ile-iwe.,incorrect,strip_all,tone,menyo20k
+tone_0200,3. Sọ pé rárá fún ìṣàjọyọ̀ àjọ̀dún Óyìnbó nínú ọgbà ilé-ìwé.,incorrect,single_flip,tone,menyo20k
+tone_0200,3. Sọ pé rárá fún iṣàjọyọ̀ àjọ̀dún Òyìnbó nínú ọgbà ilé-ìwé.,incorrect,single_delete,tone,menyo20k
+tone_0201,Àmọ́ kí ẹnikẹ́ni máà rò wípé iṣẹ́ ọpọlọ nìkan ni ìrìnàjò sí Ìwọ́de Ojúnà.,correct,none,tone,menyo20k
+tone_0201,Amọ ki ẹnikẹni maa ro wipe iṣẹ ọpọlọ nikan ni irinajo si Iwọde Ojuna.,incorrect,strip_all,tone,menyo20k
+tone_0201,Àmọ́ kí ẹnikẹ́ni máà rò wípè iṣẹ́ ọpọlọ nìkan ni ìrìnàjò sí Ìwọ́de Ojúnà.,incorrect,single_flip,tone,menyo20k
+tone_0201,Àmọ́ kí ẹnikẹ́ni máa rò wípé iṣẹ́ ọpọlọ nìkan ni ìrìnàjò sí Ìwọ́de Ojúnà.,incorrect,single_delete,tone,menyo20k
+tone_0202,Àfi bí àpọ́n t'ó ń gbìdánwò láti dúró déédéé nípasẹ̀ wíwá olólùfẹ́.,correct,none,tone,menyo20k
+tone_0202,Afi bi apọn t'o n gbidanwo lati duro deedee nipasẹ wiwa ololufẹ.,incorrect,strip_all,tone,menyo20k
+tone_0202,Àfi bí àpọ́n t'ó ń gbìdánwò láti dúró déédèé nípasẹ̀ wíwá olólùfẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0202,Àfi bí àpọ́n t'ó ń gbìdánwò láti dúró déédéé nípasẹ wíwá olólùfẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0203,Ojú gba-n-gba là ńta awọ gbà-ǹ-gbà.,correct,none,tone,menyo20k
+tone_0203,Oju gba-n-gba la nta awọ gba-n-gba.,incorrect,strip_all,tone,menyo20k
+tone_0203,Ojú gba-n-gba là ńta awọ gbà-ǹ-gbá.,incorrect,single_flip,tone,menyo20k
+tone_0203,Ojú gba-n-gba là ńta awọ gba-ǹ-gbà.,incorrect,single_delete,tone,menyo20k
+tone_0204,Ìgbà tí ṣìgìdìí bá fẹ́ ṣe eré ẹ̀tẹ́ a ní kí wọ́n gbé òun sójò.,correct,none,tone,menyo20k
+tone_0204,Igba ti ṣigidii ba fẹ ṣe ere ẹtẹ a ni ki wọn gbe oun sojo.,incorrect,strip_all,tone,menyo20k
+tone_0204,Ìgbà tí ṣìgìdìí bá fẹ́ ṣe eré ẹ̀tẹ́ a ní kí wọ́n gbé òun sòjò.,incorrect,single_flip,tone,menyo20k
+tone_0204,Igbà tí ṣìgìdìí bá fẹ́ ṣe eré ẹ̀tẹ́ a ní kí wọ́n gbé òun sójò.,incorrect,single_delete,tone,menyo20k
+tone_0205,A kì í ṣòwò méjì kẹ́ran má jẹ ọ̀kan.,correct,none,tone,menyo20k
+tone_0205,A ki i ṣowo meji kẹran ma jẹ ọkan.,incorrect,strip_all,tone,menyo20k
+tone_0205,A kì ì ṣòwò méjì kẹ́ran má jẹ ọ̀kan.,incorrect,single_flip,tone,menyo20k
+tone_0205,A kì i ṣòwò méjì kẹ́ran má jẹ ọ̀kan.,incorrect,single_delete,tone,menyo20k
+tone_0206,Màá sọ wí pé à ń sún mọ́ ìpele ọdún tó kọjá.,correct,none,tone,menyo20k
+tone_0206,Maa sọ wi pe a n sun mọ ipele ọdun to kọja.,incorrect,strip_all,tone,menyo20k
+tone_0206,Màá sọ wí pé à ń sún mọ́ ìpele ọdún tó kọjà.,incorrect,single_flip,tone,menyo20k
+tone_0206,Màá sọ wi pé à ń sún mọ́ ìpele ọdún tó kọjá.,incorrect,single_delete,tone,menyo20k
+tone_0207,---Ìjọba Nàìjíríà yóò gbé àwọn oníbàrá ìrinnà ọkọ̀ òfuurufú Russia lọ sílé ẹjọ́.,correct,none,tone,menyo20k
+tone_0207,---Ijọba Naijiria yoo gbe awọn onibara irinna ọkọ ofuurufu Russia lọ sile ẹjọ.,incorrect,strip_all,tone,menyo20k
+tone_0207,---Ìjọba Nàìjíríà yóò gbé àwọn oníbàrá ìrinnà ọkọ̀ òfuurufù Russia lọ sílé ẹjọ́.,incorrect,single_flip,tone,menyo20k
+tone_0207,---Ìjọba Naìjíríà yóò gbé àwọn oníbàrá ìrinnà ọkọ̀ òfuurufú Russia lọ sílé ẹjọ́.,incorrect,single_delete,tone,menyo20k
+tone_0208,"Torí náà, mi ò bọkàn jẹ́.",correct,none,tone,menyo20k
+tone_0208,"Tori naa, mi o bọkan jẹ.",incorrect,strip_all,tone,menyo20k
+tone_0208,"Torí náá, mi ò bọkàn jẹ́.",incorrect,single_flip,tone,menyo20k
+tone_0208,"Torí náà, mi ò bọkan jẹ́.",incorrect,single_delete,tone,menyo20k
+tone_0209,"Òun, ìgbìmọ̀ náà yóòọ̀ kéde láìpé̩ ìlànà tí wọn yóò tẹ̀lé.",correct,none,tone,menyo20k
+tone_0209,"Oun, igbimọ naa yooọ kede laipe̩ ilana ti wọn yoo tẹle.",incorrect,strip_all,tone,menyo20k
+tone_0209,"Òun, ìgbìmọ̀ náà yóòọ̀ kéde láìpé̩ ìlànà tí wọn yòò tẹ̀lé.",incorrect,single_flip,tone,menyo20k
+tone_0209,"Òun, ìgbìmọ̀ naà yóòọ̀ kéde láìpé̩ ìlànà tí wọn yóò tẹ̀lé.",incorrect,single_delete,tone,menyo20k
+tone_0210,Àrókanlẹ̀ laṣọ ayaba; àwàkanlẹ̀ ni ti yàrà.,correct,none,tone,menyo20k
+tone_0210,Arokanlẹ laṣọ ayaba; awakanlẹ ni ti yara.,incorrect,strip_all,tone,menyo20k
+tone_0210,Àrókanlẹ̀ laṣọ ayaba; àwàkanlẹ̀ ni ti yárà.,incorrect,single_flip,tone,menyo20k
+tone_0210,Àrókanlẹ laṣọ ayaba; àwàkanlẹ̀ ni ti yàrà.,incorrect,single_delete,tone,menyo20k
+tone_0211,Wọ́n kì í fipá múni.”,correct,none,tone,menyo20k
+tone_0211,Wọn ki i fipa muni.”,incorrect,strip_all,tone,menyo20k
+tone_0211,Wọ̀n kì í fipá múni.”,incorrect,single_flip,tone,menyo20k
+tone_0211,Wọ́n kì i fipá múni.”,incorrect,single_delete,tone,menyo20k
+tone_0212,Ìtò èròjà iṣẹ́ ti ṣàfipamọ́,correct,none,tone,menyo20k
+tone_0212,Ito eroja iṣẹ ti ṣafipamọ,incorrect,strip_all,tone,menyo20k
+tone_0212,Ìtò èròjà iṣẹ̀ ti ṣàfipamọ́,incorrect,single_flip,tone,menyo20k
+tone_0212,Itò èròjà iṣẹ́ ti ṣàfipamọ́,incorrect,single_delete,tone,menyo20k
+tone_0213,"Ọmọ atiro tó ra bàtà fún bàbá ẹ̀, ọ̀rọ̀ ló fẹ́ gbọ́.",correct,none,tone,menyo20k
+tone_0213,"Ọmọ atiro to ra bata fun baba ẹ, ọrọ lo fẹ gbọ.",incorrect,strip_all,tone,menyo20k
+tone_0213,"Ọmọ atiro tó ra bàtà fún bàbà ẹ̀, ọ̀rọ̀ ló fẹ́ gbọ́.",incorrect,single_flip,tone,menyo20k
+tone_0213,"Ọmọ atiro tó ra bàtà fun bàbá ẹ̀, ọ̀rọ̀ ló fẹ́ gbọ́.",incorrect,single_delete,tone,menyo20k
+tone_0214,"Onígẹ̀gẹ́ fìlẹ̀kẹ̀ dọ́pọ̀; onílẹ̀kẹ̀ ìbá gbowo, ko rọ́rùn fìlẹ̀kẹ̀ so.",correct,none,tone,menyo20k
+tone_0214,"Onigẹgẹ filẹkẹ dọpọ; onilẹkẹ iba gbowo, ko rọrun filẹkẹ so.",incorrect,strip_all,tone,menyo20k
+tone_0214,"Onígẹ̀gẹ́ fìlẹ̀kẹ̀ dọ́pọ́; onílẹ̀kẹ̀ ìbá gbowo, ko rọ́rùn fìlẹ̀kẹ̀ so.",incorrect,single_flip,tone,menyo20k
+tone_0214,"Onígẹ̀gẹ́ filẹ̀kẹ̀ dọ́pọ̀; onílẹ̀kẹ̀ ìbá gbowo, ko rọ́rùn fìlẹ̀kẹ̀ so.",incorrect,single_delete,tone,menyo20k
+tone_0215,Àwọn oníròyìn rèé níwájú ìta Ilé Ẹjọ́ Tó Ń Rí Sọ́ràn Ẹ̀tọ́ Ọmọnìyàn.,correct,none,tone,menyo20k
+tone_0215,Awọn oniroyin ree niwaju ita Ile Ẹjọ To N Ri Sọran Ẹtọ Ọmọniyan.,incorrect,strip_all,tone,menyo20k
+tone_0215,Àwọn oníròyìn rèé níwájú ìta Ilé Ẹjọ̀ Tó Ń Rí Sọ́ràn Ẹ̀tọ́ Ọmọnìyàn.,incorrect,single_flip,tone,menyo20k
+tone_0215,Àwọn oníròyìn rèé níwájú ìta Ilé Ẹjọ́ Tó Ń Rí Sọ́ràn Ẹtọ́ Ọmọnìyàn.,incorrect,single_delete,tone,menyo20k
+tone_0216,Etí tó gbọ́ àlọ ni yó gbọ̀ọ́ àbọ̀.,correct,none,tone,menyo20k
+tone_0216,Eti to gbọ alọ ni yo gbọọ abọ.,incorrect,strip_all,tone,menyo20k
+tone_0216,Etí tó gbọ́ àlọ ni yó gbọ̀ọ̀ àbọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0216,Etí tó gbọ àlọ ni yó gbọ̀ọ́ àbọ̀.,incorrect,single_delete,tone,menyo20k
+tone_0217,Ilé àjogúnbá náà di àwópalẹ̀ pẹ̀lú bí Ilé-ẹjọ́ Gíga ṣe pa àṣẹ.,correct,none,tone,menyo20k
+tone_0217,Ile ajogunba naa di awopalẹ pẹlu bi Ile-ẹjọ Giga ṣe pa aṣẹ.,incorrect,strip_all,tone,menyo20k
+tone_0217,Ilé àjogúnbá náà di àwòpalẹ̀ pẹ̀lú bí Ilé-ẹjọ́ Gíga ṣe pa àṣẹ.,incorrect,single_flip,tone,menyo20k
+tone_0217,Ilé àjogúnbá náa di àwópalẹ̀ pẹ̀lú bí Ilé-ẹjọ́ Gíga ṣe pa àṣẹ.,incorrect,single_delete,tone,menyo20k
+tone_0218,"""""""Ẹm Ẹm Ẹm!,"""" ó kọ́kọ́ tún ọ̀nà òfun rẹ̀ ṣe. """"Ẹm....Ìwọ. Ìwọ sì wá níbí?""""""",correct,none,tone,menyo20k
+tone_0218,"""""""Ẹm Ẹm Ẹm!,"""" o kọkọ tun ọna ofun rẹ ṣe. """"Ẹm....Iwọ. Iwọ si wa nibi?""""""",incorrect,strip_all,tone,menyo20k
+tone_0218,"""""""Ẹm Ẹm Ẹm!,"""" ó kọ́kọ́ tún ọ̀nà òfun rẹ̀ ṣe. """"Ẹm....Ìwọ. Ìwọ sì wá nìbí?""""""",incorrect,single_flip,tone,menyo20k
+tone_0218,"""""""Ẹm Ẹm Ẹm!,"""" ó kọ́kọ́ tún ọ̀nà òfun rẹ̀ ṣe. """"Ẹm....Ìwọ. Ìwọ sì wá nibí?""""""",incorrect,single_delete,tone,menyo20k
+tone_0219,Bí àwọn ọ̀dọ́ ní ilẹ̀ Adúláwọ̀ ṣe ń ṣe àwárí ohùn wọn lóri ìkàni Twitter.,correct,none,tone,menyo20k
+tone_0219,Bi awọn ọdọ ni ilẹ Adulawọ ṣe n ṣe awari ohun wọn lori ikani Twitter.,incorrect,strip_all,tone,menyo20k
+tone_0219,Bí àwọn ọ̀dọ́ ní ilẹ́ Adúláwọ̀ ṣe ń ṣe àwárí ohùn wọn lóri ìkàni Twitter.,incorrect,single_flip,tone,menyo20k
+tone_0219,Bí àwọn ọ̀dọ́ ní ilẹ̀ Adúláwọ̀ ṣe ń ṣe àwárí ohun wọn lóri ìkàni Twitter.,incorrect,single_delete,tone,menyo20k
+tone_0220,Ṣé o ti ń sùn,correct,none,tone,menyo20k
+tone_0220,Ṣe o ti n sun,incorrect,strip_all,tone,menyo20k
+tone_0220,Ṣè o ti ń sùn,incorrect,single_flip,tone,menyo20k
+tone_0220,Ṣe o ti ń sùn,incorrect,single_delete,tone,menyo20k
+tone_0221,#SexForGrades: Ètò Alálàyé-afẹ̀ríhàn tú àṣìírí ìwà ìyọlẹ́nu ìbálòpọ̀ ní àwọn Ifásitìi Ìwọ-oòrùn Ilẹ̀-Adúláwọ̀,correct,none,tone,menyo20k
+tone_0221,#SexForGrades: Eto Alalaye-afẹrihan tu aṣiiri iwa iyọlẹnu ibalopọ ni awọn Ifasitii Iwọ-oorun Ilẹ-Adulawọ,incorrect,strip_all,tone,menyo20k
+tone_0221,#SexForGrades: Ètò Alálàyé-afẹ̀ríhàn tú àṣìírí ìwà ìyọlẹ́nu ìbálòpọ̀ nì àwọn Ifásitìi Ìwọ-oòrùn Ilẹ̀-Adúláwọ̀,incorrect,single_flip,tone,menyo20k
+tone_0221,#SexForGrades: Ètò Alálàyé-afẹ̀ríhàn tú àṣìírí ìwà ìyọlẹ́nu ìbálòpọ̀ ní àwọn Ifásitìi Ìwọ-oorùn Ilẹ̀-Adúláwọ̀,incorrect,single_delete,tone,menyo20k
+tone_0222,"Àwọn aṣáájú-ọ̀nà déédéé pọ̀ sí i, wọ́n ti lé ní ẹgbẹ̀rún lọ́nà ọgbọ̀n (30,000).",correct,none,tone,menyo20k
+tone_0222,"Awọn aṣaaju-ọna deedee pọ si i, wọn ti le ni ẹgbẹrun lọna ọgbọn (30,000).",incorrect,strip_all,tone,menyo20k
+tone_0222,"Àwọn aṣáájú-ọ̀nà déèdéé pọ̀ sí i, wọ́n ti lé ní ẹgbẹ̀rún lọ́nà ọgbọ̀n (30,000).",incorrect,single_flip,tone,menyo20k
+tone_0222,"Àwọn aṣáájú-ọ̀nà déédeé pọ̀ sí i, wọ́n ti lé ní ẹgbẹ̀rún lọ́nà ọgbọ̀n (30,000).",incorrect,single_delete,tone,menyo20k
+tone_0223,A kì í wà nínú ìṣẹ́ ká perin tọrẹ.,correct,none,tone,menyo20k
+tone_0223,A ki i wa ninu iṣẹ ka perin tọrẹ.,incorrect,strip_all,tone,menyo20k
+tone_0223,A kì í wá nínú ìṣẹ́ ká perin tọrẹ.,incorrect,single_flip,tone,menyo20k
+tone_0223,A kì i wà nínú ìṣẹ́ ká perin tọrẹ.,incorrect,single_delete,tone,menyo20k
+tone_0224,Mi ò tiẹ̀ mọ ọ̀rẹ́ ẹ,correct,none,tone,menyo20k
+tone_0224,Mi o tiẹ mọ ọrẹ ẹ,incorrect,strip_all,tone,menyo20k
+tone_0224,Mi ò tiẹ̀ mọ ọ̀rẹ̀ ẹ,incorrect,single_flip,tone,menyo20k
+tone_0224,Mi o tiẹ̀ mọ ọ̀rẹ́ ẹ,incorrect,single_delete,tone,menyo20k
+tone_0225,--- Mà á ríi pé mo dúró pé nínú ikọ̀ City - Kompany,correct,none,tone,menyo20k
+tone_0225,--- Ma a rii pe mo duro pe ninu ikọ City - Kompany,incorrect,strip_all,tone,menyo20k
+tone_0225,--- Mà á ríi pé mo dúró pé nìnú ikọ̀ City - Kompany,incorrect,single_flip,tone,menyo20k
+tone_0225,--- Mà á ríi pe mo dúró pé nínú ikọ̀ City - Kompany,incorrect,single_delete,tone,menyo20k
+tone_0226,Báwo ni mo ṣe máa bínú,correct,none,tone,menyo20k
+tone_0226,Bawo ni mo ṣe maa binu,incorrect,strip_all,tone,menyo20k
+tone_0226,Báwo ni mo ṣe màa bínú,incorrect,single_flip,tone,menyo20k
+tone_0226,Báwo ni mo ṣe máa bínu,incorrect,single_delete,tone,menyo20k
+tone_0227,Mr Mitsotakis tófi ẹ̀yìn akegbẹ́ jọnlẹ̀ pẹ̀lú àbájáde egbelemùkú ìbò.,correct,none,tone,menyo20k
+tone_0227,Mr Mitsotakis tofi ẹyin akegbẹ jọnlẹ pẹlu abajade egbelemuku ibo.,incorrect,strip_all,tone,menyo20k
+tone_0227,Mr Mitsotakis tófi ẹ̀yìn akegbẹ́ jọnlẹ̀ pẹ́lú àbájáde egbelemùkú ìbò.,incorrect,single_flip,tone,menyo20k
+tone_0227,Mr Mitsotakis tófi ẹ̀yìn akegbẹ́ jọnlẹ pẹ̀lú àbájáde egbelemùkú ìbò.,incorrect,single_delete,tone,menyo20k
+tone_0228,Idà ń wó ilé ara ẹ̀ ó ní òún ń ba àkọ̀ jẹ́.,correct,none,tone,menyo20k
+tone_0228,Ida n wo ile ara ẹ o ni oun n ba akọ jẹ.,incorrect,strip_all,tone,menyo20k
+tone_0228,Idà ń wó ilé ara ẹ̀ ó ní òún ń ba àkọ̀ jẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0228,Idà ń wó ile ara ẹ̀ ó ní òún ń ba àkọ̀ jẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0229,"""""""Èmi àtìyàwó mi....èmi àtìyàwó mi """" Òpònú ọmọ!""",correct,none,tone,menyo20k
+tone_0229,"""""""Emi atiyawo mi....emi atiyawo mi """" Oponu ọmọ!""",incorrect,strip_all,tone,menyo20k
+tone_0229,"""""""Èmi àtìyáwó mi....èmi àtìyàwó mi """" Òpònú ọmọ!""",incorrect,single_flip,tone,menyo20k
+tone_0229,"""""""Emi àtìyàwó mi....èmi àtìyàwó mi """" Òpònú ọmọ!""",incorrect,single_delete,tone,menyo20k
+tone_0230,"""Àwọn tí wọ́n bá lọ́wọ́ nínú rẹ̀ yóò di gbígbọ́n dànù kúrò nínú ìṣètò ìdánwò.""""""",correct,none,tone,menyo20k
+tone_0230,"""Awọn ti wọn ba lọwọ ninu rẹ yoo di gbigbọn danu kuro ninu iṣeto idanwo.""""""",incorrect,strip_all,tone,menyo20k
+tone_0230,"""Àwọn tí wọ́n bá lọ́wọ́ nínú rẹ̀ yóò di gbígbọ́n dànù kúrò nínú ìṣètó ìdánwò.""""""",incorrect,single_flip,tone,menyo20k
+tone_0230,"""Àwọn tí wọ́n bá lọ́wọ́ ninú rẹ̀ yóò di gbígbọ́n dànù kúrò nínú ìṣètò ìdánwò.""""""",incorrect,single_delete,tone,menyo20k
+tone_0231,Fi ọ̀ràn sínú pète ẹ̀rín; fi ebi sínú sunkún ayo.,correct,none,tone,menyo20k
+tone_0231,Fi ọran sinu pete ẹrin; fi ebi sinu sunkun ayo.,incorrect,strip_all,tone,menyo20k
+tone_0231,Fi ọ̀ràn sínú pète ẹ̀rìn; fi ebi sínú sunkún ayo.,incorrect,single_flip,tone,menyo20k
+tone_0231,Fi ọ̀ràn sínú pète ẹrín; fi ebi sínú sunkún ayo.,incorrect,single_delete,tone,menyo20k
+tone_0232,Àwọn akẹ́kọ̀ọ́ le rí ẹ̀kọ́ kà,correct,none,tone,menyo20k
+tone_0232,Awọn akẹkọọ le ri ẹkọ ka,incorrect,strip_all,tone,menyo20k
+tone_0232,Àwọn akẹ́kọ̀ọ́ le rì ẹ̀kọ́ kà,incorrect,single_flip,tone,menyo20k
+tone_0232,Àwọn akẹkọ̀ọ́ le rí ẹ̀kọ́ kà,incorrect,single_delete,tone,menyo20k
+tone_0233,"Èémí- àmísíta, ó súmọ́ bẹ́ẹ̀.",correct,none,tone,menyo20k
+tone_0233,"Eemi- amisita, o sumọ bẹẹ.",incorrect,strip_all,tone,menyo20k
+tone_0233,"Èémí- àmìsíta, ó súmọ́ bẹ́ẹ̀.",incorrect,single_flip,tone,menyo20k
+tone_0233,"Èémí- àmísita, ó súmọ́ bẹ́ẹ̀.",incorrect,single_delete,tone,menyo20k
+tone_0234,"Ọmọrí odó pani lọ́tọ̀, ká tó wí pé ká kùn ún lóògùn.",correct,none,tone,menyo20k
+tone_0234,"Ọmọri odo pani lọtọ, ka to wi pe ka kun un loogun.",incorrect,strip_all,tone,menyo20k
+tone_0234,"Ọmọrí odó pani lọ́tọ̀, ká tó wí pé ká kùn ùn lóògùn.",incorrect,single_flip,tone,menyo20k
+tone_0234,"Ọmọrí odó pani lọ́tọ̀, ká tó wí pé ka kùn ún lóògùn.",incorrect,single_delete,tone,menyo20k
+tone_0235,A kì í ti ojú ogun wẹ́fọ́n.,correct,none,tone,menyo20k
+tone_0235,A ki i ti oju ogun wẹfọn.,incorrect,strip_all,tone,menyo20k
+tone_0235,A kì í ti ojú ogun wẹ̀fọ́n.,incorrect,single_flip,tone,menyo20k
+tone_0235,A kì í ti ojú ogun wẹ́fọn.,incorrect,single_delete,tone,menyo20k
+tone_0236,"Ifẹ́ mi àti àtìlẹyìn mi fún ikọ̀ yìí, yóò wà títí ayérayé.",correct,none,tone,menyo20k
+tone_0236,"Ifẹ mi ati atilẹyin mi fun ikọ yii, yoo wa titi ayeraye.",incorrect,strip_all,tone,menyo20k
+tone_0236,"Ifẹ́ mi àti àtìlẹyìn mi fún ikọ̀ yìí, yóó wà títí ayérayé.",incorrect,single_flip,tone,menyo20k
+tone_0236,"Ifẹ mi àti àtìlẹyìn mi fún ikọ̀ yìí, yóò wà títí ayérayé.",incorrect,single_delete,tone,menyo20k
+tone_0237,"Mo jẹ́ri ìgboyà mi, ṣùgbọ́n mo béére àwọn ìbéèrè alágbára.",correct,none,tone,menyo20k
+tone_0237,"Mo jẹri igboya mi, ṣugbọn mo beere awọn ibeere alagbara.",incorrect,strip_all,tone,menyo20k
+tone_0237,"Mo jẹ́ri ígboyà mi, ṣùgbọ́n mo béére àwọn ìbéèrè alágbára.",incorrect,single_flip,tone,menyo20k
+tone_0237,"Mo jẹ́ri ìgboyà mi, ṣùgbọn mo béére àwọn ìbéèrè alágbára.",incorrect,single_delete,tone,menyo20k
+tone_0238,---Ààrẹ Buhari dé sí New York fún Ìpàdé Àpérò Àjọ UN.,correct,none,tone,menyo20k
+tone_0238,---Aarẹ Buhari de si New York fun Ipade Apero Ajọ UN.,incorrect,strip_all,tone,menyo20k
+tone_0238,---Ààrẹ Buhari dè sí New York fún Ìpàdé Àpérò Àjọ UN.,incorrect,single_flip,tone,menyo20k
+tone_0238,---Ààrẹ Buhari dé sí New York fún Ìpàdé Àperò Àjọ UN.,incorrect,single_delete,tone,menyo20k
+tone_0239,"Iná Ńlá Sọ Nílùú Manaus, ní Brazil",correct,none,tone,menyo20k
+tone_0239,"Ina Nla Sọ Niluu Manaus, ni Brazil",incorrect,strip_all,tone,menyo20k
+tone_0239,"Iná Ńlà Sọ Nílùú Manaus, ní Brazil",incorrect,single_flip,tone,menyo20k
+tone_0239,"Ina Ńlá Sọ Nílùú Manaus, ní Brazil",incorrect,single_delete,tone,menyo20k
+tone_0240,Ẹní máa ké ìbòsí á pa baba rẹ̀ jẹ.,correct,none,tone,menyo20k
+tone_0240,Ẹni maa ke ibosi a pa baba rẹ jẹ.,incorrect,strip_all,tone,menyo20k
+tone_0240,Ẹní màa ké ìbòsí á pa baba rẹ̀ jẹ.,incorrect,single_flip,tone,menyo20k
+tone_0240,Ẹní máa ké ìbòsí a pa baba rẹ̀ jẹ.,incorrect,single_delete,tone,menyo20k
+tone_0241,Ìjì Líle Tí Wọ́n Pè Ní Typhoon Bualoi Ṣọṣẹ́ Lórílẹ̀-Èdè Japan,correct,none,tone,menyo20k
+tone_0241,Iji Lile Ti Wọn Pe Ni Typhoon Bualoi Ṣọṣẹ Lorilẹ-Ede Japan,incorrect,strip_all,tone,menyo20k
+tone_0241,Ìjì Líle Tí Wọ́n Pé Ní Typhoon Bualoi Ṣọṣẹ́ Lórílẹ̀-Èdè Japan,incorrect,single_flip,tone,menyo20k
+tone_0241,Ìjì Líle Tí Wọ́n Pè Ní Typhoon Bualoi Ṣọṣẹ́ Lórílẹ̀-Edè Japan,incorrect,single_delete,tone,menyo20k
+tone_0242,--- Nadal fàgbà han Thiem láti gba ife-ẹ̀yẹ French Open.,correct,none,tone,menyo20k
+tone_0242,--- Nadal fagba han Thiem lati gba ife-ẹyẹ French Open.,incorrect,strip_all,tone,menyo20k
+tone_0242,--- Nadal fàgbà han Thiem làti gba ife-ẹ̀yẹ French Open.,incorrect,single_flip,tone,menyo20k
+tone_0242,--- Nadal fàgbà han Thiem láti gba ife-ẹyẹ French Open.,incorrect,single_delete,tone,menyo20k
+tone_0243,Ipò àtẹ tuntun mìíran yóò tún jáde lọ́jọ́ karùndínlógún oṣù kẹta .,correct,none,tone,menyo20k
+tone_0243,Ipo atẹ tuntun miiran yoo tun jade lọjọ karundinlogun oṣu kẹta .,incorrect,strip_all,tone,menyo20k
+tone_0243,Ipò àtẹ tuntun mìíran yóò tún jáde lọ́jọ̀ karùndínlógún oṣù kẹta .,incorrect,single_flip,tone,menyo20k
+tone_0243,Ipò àtẹ tuntun mìíran yóò tún jáde lọjọ́ karùndínlógún oṣù kẹta .,incorrect,single_delete,tone,menyo20k
+tone_0244,Arúgbó ṣoge rí; àkísà-á lògbà rí.,correct,none,tone,menyo20k
+tone_0244,Arugbo ṣoge ri; akisa-a logba ri.,incorrect,strip_all,tone,menyo20k
+tone_0244,Arúgbò ṣoge rí; àkísà-á lògbà rí.,incorrect,single_flip,tone,menyo20k
+tone_0244,Arúgbó ṣoge rí; àkísà-a lògbà rí.,incorrect,single_delete,tone,menyo20k
+tone_0245,Ó jọ bí ẹni pé a ti kan ǹkan.,correct,none,tone,menyo20k
+tone_0245,O jọ bi ẹni pe a ti kan nkan.,incorrect,strip_all,tone,menyo20k
+tone_0245,Ó jọ bì ẹni pé a ti kan ǹkan.,incorrect,single_flip,tone,menyo20k
+tone_0245,Ó jọ bí ẹni pe a ti kan ǹkan.,incorrect,single_delete,tone,menyo20k
+tone_0246,Àbí ṣé a lè lo oríṣiríṣi ìbòmú?,correct,none,tone,menyo20k
+tone_0246,Abi ṣe a le lo oriṣiriṣi ibomu?,incorrect,strip_all,tone,menyo20k
+tone_0246,Ábí ṣé a lè lo oríṣiríṣi ìbòmú?,incorrect,single_flip,tone,menyo20k
+tone_0246,Àbí ṣé a lè lo oríṣiríṣi ibòmú?,incorrect,single_delete,tone,menyo20k
+tone_0247,--- Ancelotti kọ̀ láti ṣiṣẹ́ gẹ́gẹ́ bí akọ́nimọ̀ọ́gbá ikọ̀ agbábọ́ọ̀lù orílẹ̀-èdè Italy.,correct,none,tone,menyo20k
+tone_0247,--- Ancelotti kọ lati ṣiṣẹ gẹgẹ bi akọnimọọgba ikọ agbabọọlu orilẹ-ede Italy.,incorrect,strip_all,tone,menyo20k
+tone_0247,--- Ancelotti kọ́ láti ṣiṣẹ́ gẹ́gẹ́ bí akọ́nimọ̀ọ́gbá ikọ̀ agbábọ́ọ̀lù orílẹ̀-èdè Italy.,incorrect,single_flip,tone,menyo20k
+tone_0247,--- Ancelotti kọ̀ láti ṣiṣẹ́ gẹ́gẹ́ bí akọ́nimọ̀ọ́gbá ikọ̀ agbábọ́ọ̀lù orílẹ-èdè Italy.,incorrect,single_delete,tone,menyo20k
+tone_0248,"Àlàmú yípo, ó ń wòye ìgbòkègbodò inú ìlú náà.",correct,none,tone,menyo20k
+tone_0248,"Alamu yipo, o n woye igbokegbodo inu ilu naa.",incorrect,strip_all,tone,menyo20k
+tone_0248,"Àlàmú yípo, ó ń wóye ìgbòkègbodò inú ìlú náà.",incorrect,single_flip,tone,menyo20k
+tone_0248,"Àlàmú yípo, ó ń wòye ìgbòkègbodò inu ìlú náà.",incorrect,single_delete,tone,menyo20k
+tone_0249,Àwọn Ẹlẹ́rìí ní Ecuador Ń Wàásù Fáwọn Èèyàn Láì Kúrò Nílé,correct,none,tone,menyo20k
+tone_0249,Awọn Ẹlẹrii ni Ecuador N Waasu Fawọn Eeyan Lai Kuro Nile,incorrect,strip_all,tone,menyo20k
+tone_0249,Àwọn Ẹlẹ́rìí ní Ecuador Ń Wàásù Fáwọn Èèyàn Làì Kúrò Nílé,incorrect,single_flip,tone,menyo20k
+tone_0249,Àwọn Ẹlẹ́rií ní Ecuador Ń Wàásù Fáwọn Èèyàn Láì Kúrò Nílé,incorrect,single_delete,tone,menyo20k
+tone_0250,"Nínú apèsè wọ̀nyí, ìtìlẹ́yìn wà fún HTTPS, tàbí ìyí-dátà-padà-sí-odù-ààbò ìpele-ìṣíkúrò.",correct,none,tone,menyo20k
+tone_0250,"Ninu apese wọnyi, itilẹyin wa fun HTTPS, tabi iyi-data-pada-si-odu-aabo ipele-iṣikuro.",incorrect,strip_all,tone,menyo20k
+tone_0250,"Nínú apèsè wọ̀nyí, ìtìlẹ́yìn wà fún HTTPS, tàbí ìyí-dátà-padà-sí-odù-áàbò ìpele-ìṣíkúrò.",incorrect,single_flip,tone,menyo20k
+tone_0250,"Nínú apèsè wọ̀nyí, ìtìlẹ́yìn wa fún HTTPS, tàbí ìyí-dátà-padà-sí-odù-ààbò ìpele-ìṣíkúrò.",incorrect,single_delete,tone,menyo20k
+tone_0251,E ó lọ́rọ̀ kíákíá tí ẹ bá kọ́kọ́ wà lálàáfíà.,correct,none,tone,menyo20k
+tone_0251,E o lọrọ kiakia ti ẹ ba kọkọ wa lalaafia.,incorrect,strip_all,tone,menyo20k
+tone_0251,E ó lọ́rọ̀ kíákíá tí ẹ bá kọ́kọ̀ wà lálàáfíà.,incorrect,single_flip,tone,menyo20k
+tone_0251,E ó lọ́rọ̀ kiákíá tí ẹ bá kọ́kọ́ wà lálàáfíà.,incorrect,single_delete,tone,menyo20k
+tone_0252,Ewu jẹ́ atọ́ka wípé ìdẹ́rùbà kan ṣì ohun-ìní kan yóò wáyé.,correct,none,tone,menyo20k
+tone_0252,Ewu jẹ atọka wipe idẹruba kan ṣi ohun-ini kan yoo waye.,incorrect,strip_all,tone,menyo20k
+tone_0252,Ewu jẹ́ atọ́ka wípé ìdẹ́rùbà kan ṣì ohun-ìní kan yòò wáyé.,incorrect,single_flip,tone,menyo20k
+tone_0252,Ewu jẹ́ atọ́ka wípé ìdẹ́rùbà kan ṣì ohun-ìní kan yóò wáye.,incorrect,single_delete,tone,menyo20k
+tone_0253,Àìtó Ìpolongo fún àwọn olùgbé ìlú,correct,none,tone,menyo20k
+tone_0253,Aito Ipolongo fun awọn olugbe ilu,incorrect,strip_all,tone,menyo20k
+tone_0253,Àìtó Ìpolongo fùn àwọn olùgbé ìlú,incorrect,single_flip,tone,menyo20k
+tone_0253,Àìtó Ìpolongo fún àwọn olùgbé ilú,incorrect,single_delete,tone,menyo20k
+tone_0254,"Iye owó ìsọdọ̀tun, bíbo oru, àkójọpọ̀ agbára àti imọ̀-ẹ̀rọ agbára inú-ilé gbogbo ti ń dínkù.",correct,none,tone,menyo20k
+tone_0254,"Iye owo isọdọtun, bibo oru, akojọpọ agbara ati imọ-ẹrọ agbara inu-ile gbogbo ti n dinku.",incorrect,strip_all,tone,menyo20k
+tone_0254,"Iye owó ìsọdọ̀tun, bíbo oru, àkójọpọ̀ agbára àti imọ́-ẹ̀rọ agbára inú-ilé gbogbo ti ń dínkù.",incorrect,single_flip,tone,menyo20k
+tone_0254,"Iye owó ìsọdọ̀tun, bíbo oru, àkójọpọ̀ agbára àti imọ̀-ẹ̀rọ agbára inú-ile gbogbo ti ń dínkù.",incorrect,single_delete,tone,menyo20k
+tone_0255,"Ẹni tó fi irun dúdú ṣeré, yó fi funfun sin ẹniẹlẹ́ni.",correct,none,tone,menyo20k
+tone_0255,"Ẹni to fi irun dudu ṣere, yo fi funfun sin ẹniẹlẹni.",incorrect,strip_all,tone,menyo20k
+tone_0255,"Ẹni tó fi irun dúdù ṣeré, yó fi funfun sin ẹniẹlẹ́ni.",incorrect,single_flip,tone,menyo20k
+tone_0255,"Ẹni tó fi irun dúdú ṣere, yó fi funfun sin ẹniẹlẹ́ni.",incorrect,single_delete,tone,menyo20k
+tone_0256,"Mo máa pa ẹ́, mo dẹ̀ máa fi ẹ́ sílẹ̀",correct,none,tone,menyo20k
+tone_0256,"Mo maa pa ẹ, mo dẹ maa fi ẹ silẹ",incorrect,strip_all,tone,menyo20k
+tone_0256,"Mo máa pa ẹ́, mo dẹ̀ máa fi ẹ́ sìlẹ̀",incorrect,single_flip,tone,menyo20k
+tone_0256,"Mo máa pa ẹ́, mo dẹ máa fi ẹ́ sílẹ̀",incorrect,single_delete,tone,menyo20k
+tone_0257,Ó hàn gbangba wí pé ìfọwọ́sowọ́pọ̀ ọlọ́pọ̀ ṣe pàkàkì.,correct,none,tone,menyo20k
+tone_0257,O han gbangba wi pe ifọwọsowọpọ ọlọpọ ṣe pakaki.,incorrect,strip_all,tone,menyo20k
+tone_0257,Ó hàn gbangba wí pé ìfọwọ́sowọ́pọ̀ ọlọ̀pọ̀ ṣe pàkàkì.,incorrect,single_flip,tone,menyo20k
+tone_0257,Ó hàn gbangba wi pé ìfọwọ́sowọ́pọ̀ ọlọ́pọ̀ ṣe pàkàkì.,incorrect,single_delete,tone,menyo20k
+tone_0258,"Torí bí mo ṣe rìn káàkiri, mi ò rí àṣíkiri tàbí ogúnléndé kankan.",correct,none,tone,menyo20k
+tone_0258,"Tori bi mo ṣe rin kaakiri, mi o ri aṣikiri tabi ogunlende kankan.",incorrect,strip_all,tone,menyo20k
+tone_0258,"Torí bí mo ṣe rìn kààkiri, mi ò rí àṣíkiri tàbí ogúnléndé kankan.",incorrect,single_flip,tone,menyo20k
+tone_0258,"Torí bí mo ṣe rìn káàkiri, mi ò ri àṣíkiri tàbí ogúnléndé kankan.",incorrect,single_delete,tone,menyo20k
+tone_0259,"Ní inú òfíì àti ọ̀láà, ọmọ páńdọ̀rọ̀ ń gbó.",correct,none,tone,menyo20k
+tone_0259,"Ni inu ofii ati ọlaa, ọmọ pandọrọ n gbo.",incorrect,strip_all,tone,menyo20k
+tone_0259,"Ní inú òfíì àti ọ̀láà, ọmọ páǹdọ̀rọ̀ ń gbó.",incorrect,single_flip,tone,menyo20k
+tone_0259,"Ní inú òfíì àti ọláà, ọmọ páńdọ̀rọ̀ ń gbó.",incorrect,single_delete,tone,menyo20k
+tone_0260,"Ó ju ẹ̀rín lọ. Ó dáa fún un làsìkòyìí pé, kí ó tètèkúrò.",correct,none,tone,menyo20k
+tone_0260,"O ju ẹrin lọ. O daa fun un lasikoyii pe, ki o tetekuro.",incorrect,strip_all,tone,menyo20k
+tone_0260,"Ó ju ẹ̀rín lọ. Ó dáa fùn un làsìkòyìí pé, kí ó tètèkúrò.",incorrect,single_flip,tone,menyo20k
+tone_0260,"Ó ju ẹ̀rín lọ. Ó dáa fún un làsìkòyií pé, kí ó tètèkúrò.",incorrect,single_delete,tone,menyo20k
+tone_0261,"""""""Ṣé o ò gbọ́ àṣẹ mi ni?""""""",correct,none,tone,menyo20k
+tone_0261,"""""""Ṣe o o gbọ aṣẹ mi ni?""""""",incorrect,strip_all,tone,menyo20k
+tone_0261,"""""""Ṣé o ò gbọ́ áṣẹ mi ni?""""""",incorrect,single_flip,tone,menyo20k
+tone_0261,"""""""Ṣe o ò gbọ́ àṣẹ mi ni?""""""",incorrect,single_delete,tone,menyo20k
+tone_0262,"Èmi ni ìyàwó, iṣẹ́ mi ni láti ṣèyọnu",correct,none,tone,menyo20k
+tone_0262,"Emi ni iyawo, iṣẹ mi ni lati ṣeyọnu",incorrect,strip_all,tone,menyo20k
+tone_0262,"Èmi ni ìyáwó, iṣẹ́ mi ni láti ṣèyọnu",incorrect,single_flip,tone,menyo20k
+tone_0262,"Èmi ni ìyawó, iṣẹ́ mi ni láti ṣèyọnu",incorrect,single_delete,tone,menyo20k
+tone_0263,Kíni ìdí fún gbogbo àfihàn ìdùnnú àti ìyírí yìí?,correct,none,tone,menyo20k
+tone_0263,Kini idi fun gbogbo afihan idunnu ati iyiri yii?,incorrect,strip_all,tone,menyo20k
+tone_0263,Kíni ìdí fùn gbogbo àfihàn ìdùnnú àti ìyírí yìí?,incorrect,single_flip,tone,menyo20k
+tone_0263,Kíni ìdí fún gbogbo àfihàn idùnnú àti ìyírí yìí?,incorrect,single_delete,tone,menyo20k
+tone_0264,Làbákẹ́ fi ọwọ́ di ihò imú rẹ̀.,correct,none,tone,menyo20k
+tone_0264,Labakẹ fi ọwọ di iho imu rẹ.,incorrect,strip_all,tone,menyo20k
+tone_0264,Làbákẹ́ fi ọwọ́ di ihò imú rẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0264,Làbákẹ́ fi ọwọ́ di iho imú rẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0265,"Fẹ́mi, o ò kí ń ṣe Ọ̀dẹ̀, o dẹ̀ ń hùwà bí ọ̀dẹ̀",correct,none,tone,menyo20k
+tone_0265,"Fẹmi, o o ki n ṣe Ọdẹ, o dẹ n huwa bi ọdẹ",incorrect,strip_all,tone,menyo20k
+tone_0265,"Fẹ́mi, o ò kí ń ṣe Ọ̀dẹ̀, o dẹ̀ ń hùwá bí ọ̀dẹ̀",incorrect,single_flip,tone,menyo20k
+tone_0265,"Fẹ́mi, o ò kí ń ṣe Ọ̀dẹ̀, o dẹ̀ ń hùwà bi ọ̀dẹ̀",incorrect,single_delete,tone,menyo20k
+tone_0266,"Àwòrán-an Emma Lewis, a lò ó pẹ̀lú àṣẹ.",correct,none,tone,menyo20k
+tone_0266,"Aworan-an Emma Lewis, a lo o pẹlu aṣẹ.",incorrect,strip_all,tone,menyo20k
+tone_0266,"Àwòrán-an Emma Lewis, a lò ó pẹ́lú àṣẹ.",incorrect,single_flip,tone,menyo20k
+tone_0266,"Àwòrán-an Emma Lewis, a lò ó pẹ̀lú aṣẹ.",incorrect,single_delete,tone,menyo20k
+tone_0267,Àsìkò yìí ni agbára di ìṣòro.,correct,none,tone,menyo20k
+tone_0267,Asiko yii ni agbara di iṣoro.,incorrect,strip_all,tone,menyo20k
+tone_0267,Àsìkò yìí ni agbára di ìṣóro.,incorrect,single_flip,tone,menyo20k
+tone_0267,Àsìkò yìí ni agbára di ìṣoro.,incorrect,single_delete,tone,menyo20k
+tone_0268,A ò tíì gbọ́ pé ẹnikẹ́ni fara pa tàbí kú.,correct,none,tone,menyo20k
+tone_0268,A o tii gbọ pe ẹnikẹni fara pa tabi ku.,incorrect,strip_all,tone,menyo20k
+tone_0268,A ò tíì gbọ̀ pé ẹnikẹ́ni fara pa tàbí kú.,incorrect,single_flip,tone,menyo20k
+tone_0268,A ò tíì gbọ́ pé ẹnikẹ́ni fara pa tàbí ku.,incorrect,single_delete,tone,menyo20k
+tone_0269,Zhao Yunlin ni ó tú ìmọ̀ọ rẹ̀ sí èdèe Gẹ̀ẹ́sì.,correct,none,tone,menyo20k
+tone_0269,Zhao Yunlin ni o tu imọọ rẹ si edee Gẹẹsi.,incorrect,strip_all,tone,menyo20k
+tone_0269,Zhao Yunlin ni ó tú ìmọ̀ọ rẹ̀ sí èdée Gẹ̀ẹ́sì.,incorrect,single_flip,tone,menyo20k
+tone_0269,Zhao Yunlin ni ó tú imọ̀ọ rẹ̀ sí èdèe Gẹ̀ẹ́sì.,incorrect,single_delete,tone,menyo20k
+tone_0270,Ajá mọ ìgbẹ́; ẹlẹ́dẹ̀ẹ́ mọ àfọ̀; tòlótòló mọ ẹni tí yó yìnbọn ìdí sí.,correct,none,tone,menyo20k
+tone_0270,Aja mọ igbẹ; ẹlẹdẹẹ mọ afọ; tolotolo mọ ẹni ti yo yinbọn idi si.,incorrect,strip_all,tone,menyo20k
+tone_0270,Ajá mọ ìgbẹ̀; ẹlẹ́dẹ̀ẹ́ mọ àfọ̀; tòlótòló mọ ẹni tí yó yìnbọn ìdí sí.,incorrect,single_flip,tone,menyo20k
+tone_0270,Ajá mọ ìgbẹ́; ẹlẹ́dẹ̀ẹ́ mọ àfọ̀; tòlotòló mọ ẹni tí yó yìnbọn ìdí sí.,incorrect,single_delete,tone,menyo20k
+tone_0271,Ṣé kí n tẹ̀lé yín,correct,none,tone,menyo20k
+tone_0271,Ṣe ki n tẹle yin,incorrect,strip_all,tone,menyo20k
+tone_0271,Ṣé kí n tẹ̀lé yìn,incorrect,single_flip,tone,menyo20k
+tone_0271,Ṣé kí n tẹ̀lé yin,incorrect,single_delete,tone,menyo20k
+tone_0272,Àwọn nǹkan méjì yìí ti wà nílẹ̀ fún Èṣùníyì.,correct,none,tone,menyo20k
+tone_0272,Awọn nnkan meji yii ti wa nilẹ fun Eṣuniyi.,incorrect,strip_all,tone,menyo20k
+tone_0272,Àwọn nǹkan méjì yìì ti wà nílẹ̀ fún Èṣùníyì.,incorrect,single_flip,tone,menyo20k
+tone_0272,Àwọn nnkan méjì yìí ti wà nílẹ̀ fún Èṣùníyì.,incorrect,single_delete,tone,menyo20k
+tone_0273,Mò ń ṣe eré ìdárayá lókè ni,correct,none,tone,menyo20k
+tone_0273,Mo n ṣe ere idaraya loke ni,incorrect,strip_all,tone,menyo20k
+tone_0273,Mò ń ṣe eré ídárayá lókè ni,incorrect,single_flip,tone,menyo20k
+tone_0273,Mò ń ṣe eré ìdarayá lókè ni,incorrect,single_delete,tone,menyo20k
+tone_0274,"Fi ìjà fún Ọlọ́run jà, fọwọ́ lérán.",correct,none,tone,menyo20k
+tone_0274,"Fi ija fun Ọlọrun ja, fọwọ leran.",incorrect,strip_all,tone,menyo20k
+tone_0274,"Fi ìjà fún Ọlọ̀run jà, fọwọ́ lérán.",incorrect,single_flip,tone,menyo20k
+tone_0274,"Fi ìjà fún Ọlọrun jà, fọwọ́ lérán.",incorrect,single_delete,tone,menyo20k
+tone_0275,Ẹ̀rù ti ń bà mí láti lọ sílé,correct,none,tone,menyo20k
+tone_0275,Ẹru ti n ba mi lati lọ sile,incorrect,strip_all,tone,menyo20k
+tone_0275,Ẹ̀rù ti ǹ bà mí láti lọ sílé,incorrect,single_flip,tone,menyo20k
+tone_0275,Ẹrù ti ń bà mí láti lọ sílé,incorrect,single_delete,tone,menyo20k
+tone_0276,Iṣẹ́ ìtúmọ̀ èdè kì í ṣe iṣẹ́ tí ẹnì kan lè dá ṣe.,correct,none,tone,menyo20k
+tone_0276,Iṣẹ itumọ ede ki i ṣe iṣẹ ti ẹni kan le da ṣe.,incorrect,strip_all,tone,menyo20k
+tone_0276,Iṣẹ̀ ìtúmọ̀ èdè kì í ṣe iṣẹ́ tí ẹnì kan lè dá ṣe.,incorrect,single_flip,tone,menyo20k
+tone_0276,Iṣẹ́ ìtúmọ èdè kì í ṣe iṣẹ́ tí ẹnì kan lè dá ṣe.,incorrect,single_delete,tone,menyo20k
+tone_0277,Òhun ni kò jẹ́ kí n sun ìta mọ́.,correct,none,tone,menyo20k
+tone_0277,Ohun ni ko jẹ ki n sun ita mọ.,incorrect,strip_all,tone,menyo20k
+tone_0277,Òhun ni kò jẹ́ kì n sun ìta mọ́.,incorrect,single_flip,tone,menyo20k
+tone_0277,Òhun ni kò jẹ́ kí n sun ita mọ́.,incorrect,single_delete,tone,menyo20k
+tone_0278,"pípamọ́, pẹ̀lú òǹlò tó ní àlékún ìmọ̀ ẹ̀rọ.",correct,none,tone,menyo20k
+tone_0278,"pipamọ, pẹlu onlo to ni alekun imọ ẹrọ.",incorrect,strip_all,tone,menyo20k
+tone_0278,"pípamọ́, pẹ̀lú òǹlò tó ní àlékún ìmọ́ ẹ̀rọ.",incorrect,single_flip,tone,menyo20k
+tone_0278,"pípamọ́, pẹ̀lú òǹlò tó ní àlékún imọ̀ ẹ̀rọ.",incorrect,single_delete,tone,menyo20k
+tone_0279,Já ewé ọ̀pọ̀tọ́ kí o ríjà eèrùn; jáwé bọ ẹnu kóo ríjà odi.,correct,none,tone,menyo20k
+tone_0279,Ja ewe ọpọtọ ki o rija eerun; jawe bọ ẹnu koo rija odi.,incorrect,strip_all,tone,menyo20k
+tone_0279,Já ewè ọ̀pọ̀tọ́ kí o ríjà eèrùn; jáwé bọ ẹnu kóo ríjà odi.,incorrect,single_flip,tone,menyo20k
+tone_0279,Já ewé ọ̀pọ̀tọ́ kí o ríja eèrùn; jáwé bọ ẹnu kóo ríjà odi.,incorrect,single_delete,tone,menyo20k
+tone_0280,“Èrò tètè jí;” “Èrò jẹ́ ilẹ̀ ó mọ́”; tèrò là ń srò.,correct,none,tone,menyo20k
+tone_0280,“Ero tete ji;” “Ero jẹ ilẹ o mọ”; tero la n sro.,incorrect,strip_all,tone,menyo20k
+tone_0280,“Èrò tètè jí;” “Èrò jẹ́ ilẹ̀ ó mọ́”; tèrò lá ń srò.,incorrect,single_flip,tone,menyo20k
+tone_0280,“Èrò tètè jí;” “Èro jẹ́ ilẹ̀ ó mọ́”; tèrò là ń srò.,incorrect,single_delete,tone,menyo20k
+tone_0281,"""Láti gbé ìrò المراقبة (""""ìṣọ́nikiri"""" tàbí """"ìdásílẹ̀-lẹ́wọ̀n-kọ́jọ́-ìdásílẹ̀-tó-pé"""") sínú làákàyè àwọn ènìyàn gbogbo.""",correct,none,tone,menyo20k
+tone_0281,"""Lati gbe iro المراقبة (""""iṣọnikiri"""" tabi """"idasilẹ-lẹwọn-kọjọ-idasilẹ-to-pe"""") sinu laakaye awọn eniyan gbogbo.""",incorrect,strip_all,tone,menyo20k
+tone_0281,"""Láti gbé ìrò المراقبة (""""ìṣọ́nikiri"""" tàbí """"ìdásílẹ̀-lẹ́wọ̀n-kọ́jọ́-ìdásílẹ̀-tó-pé"""") sínú láákàyè àwọn ènìyàn gbogbo.""",incorrect,single_flip,tone,menyo20k
+tone_0281,"""Láti gbé ìrò المراقبة (""""ìṣọ́nikiri"""" tàbí """"ìdásílẹ̀-lẹ́wọ̀n-kọ́jọ́-ìdásílẹ̀-tó-pé"""") sínú làákàyè àwọn ènìyan gbogbo.""",incorrect,single_delete,tone,menyo20k
+tone_0282,Ní ọ̀pọ̀ ìgbà wọ́n ti sọ fún un pé wọ́n jáde.,correct,none,tone,menyo20k
+tone_0282,Ni ọpọ igba wọn ti sọ fun un pe wọn jade.,incorrect,strip_all,tone,menyo20k
+tone_0282,Ní ọ̀pọ̀ ìgbà wọ́n ti sọ fùn un pé wọ́n jáde.,incorrect,single_flip,tone,menyo20k
+tone_0282,Ní ọ̀pọ̀ igbà wọ́n ti sọ fún un pé wọ́n jáde.,incorrect,single_delete,tone,menyo20k
+tone_0283,A kì í fi ogun dán ẹ̀ṣọ́ wò.,correct,none,tone,menyo20k
+tone_0283,A ki i fi ogun dan ẹṣọ wo.,incorrect,strip_all,tone,menyo20k
+tone_0283,A kì ì fi ogun dán ẹ̀ṣọ́ wò.,incorrect,single_flip,tone,menyo20k
+tone_0283,A kì í fi ogun dán ẹ̀ṣọ́ wo.,incorrect,single_delete,tone,menyo20k
+tone_0284,"Iṣẹ́ ni wà ní àwọn ilé-ọnà káàkiri àgbáyé, bíi MoMA.",correct,none,tone,menyo20k
+tone_0284,"Iṣẹ ni wa ni awọn ile-ọna kaakiri agbaye, bii MoMA.",incorrect,strip_all,tone,menyo20k
+tone_0284,"Iṣẹ́ ni wà ní àwọn ilé-ọnà káàkiri àgbáyé, bìi MoMA.",incorrect,single_flip,tone,menyo20k
+tone_0284,"Iṣẹ ni wà ní àwọn ilé-ọnà káàkiri àgbáyé, bíi MoMA.",incorrect,single_delete,tone,menyo20k
+tone_0285,Ẹyẹ ò lè rí omi inú àgbọn bù mu.,correct,none,tone,menyo20k
+tone_0285,Ẹyẹ o le ri omi inu agbọn bu mu.,incorrect,strip_all,tone,menyo20k
+tone_0285,Ẹyẹ ó lè rí omi inú àgbọn bù mu.,incorrect,single_flip,tone,menyo20k
+tone_0285,Ẹyẹ ò lè rí omi inu àgbọn bù mu.,incorrect,single_delete,tone,menyo20k
+tone_0286,Ṣe àwọn èèyàn lè ṣàwáríì rẹ bí wọ́n bá lo ímaalì tàbí ilà ẹ̀rọ-ìbánisọ̀rọ̀ọ rẹ?,correct,none,tone,menyo20k
+tone_0286,Ṣe awọn eeyan le ṣawarii rẹ bi wọn ba lo imaali tabi ila ẹrọ-ibanisọrọọ rẹ?,incorrect,strip_all,tone,menyo20k
+tone_0286,Ṣe àwọn èèyàn lè ṣàwárìì rẹ bí wọ́n bá lo ímaalì tàbí ilà ẹ̀rọ-ìbánisọ̀rọ̀ọ rẹ?,incorrect,single_flip,tone,menyo20k
+tone_0286,Ṣe àwọn èèyàn lè ṣawáríì rẹ bí wọ́n bá lo ímaalì tàbí ilà ẹ̀rọ-ìbánisọ̀rọ̀ọ rẹ?,incorrect,single_delete,tone,menyo20k
+tone_0287,"""""""Ṣé o fẹ́ mọ̀.........mọ̀ mí? Èmi..........èmi? Àlàmú...............Èmi ni Àlàmú Ọláoyè. Bẹ́ẹ̀ ni. Ìwọ.....ta.......ta....... ni ọ́?""",correct,none,tone,menyo20k
+tone_0287,"""""""Ṣe o fẹ mọ.........mọ mi? Emi..........emi? Alamu...............Emi ni Alamu Ọlaoye. Bẹẹ ni. Iwọ.....ta.......ta....... ni ọ?""",incorrect,strip_all,tone,menyo20k
+tone_0287,"""""""Ṣé o fẹ́ mọ̀.........mọ̀ mí? Èmi..........èmi? Àlàmú...............Èmi ni Àlàmú Ọláoyè. Bẹ̀ẹ̀ ni. Ìwọ.....ta.......ta....... ni ọ́?""",incorrect,single_flip,tone,menyo20k
+tone_0287,"""""""Ṣé o fẹ́ mọ̀.........mọ̀ mí? Èmi..........èmi? Àlàmú...............Èmi ni Àlàmú Ọlaoyè. Bẹ́ẹ̀ ni. Ìwọ.....ta.......ta....... ni ọ́?""",incorrect,single_delete,tone,menyo20k
+tone_0288,Onísùúrù ní ń ṣe ọkọ ọmọ Aláwúsá.,correct,none,tone,menyo20k
+tone_0288,Onisuuru ni n ṣe ọkọ ọmọ Alawusa.,incorrect,strip_all,tone,menyo20k
+tone_0288,Onìsùúrù ní ń ṣe ọkọ ọmọ Aláwúsá.,incorrect,single_flip,tone,menyo20k
+tone_0288,Onísùúrù ní ń ṣe ọkọ ọmọ Aláwúsa.,incorrect,single_delete,tone,menyo20k
+tone_0289,Àwọn kan ti yan ìṣàjọyọ̀ àjọ̀dún náà ní ìkọ̀kọ̀. Òǹlo Weibo kan sọ:,correct,none,tone,menyo20k
+tone_0289,Awọn kan ti yan iṣajọyọ ajọdun naa ni ikọkọ. Onlo Weibo kan sọ:,incorrect,strip_all,tone,menyo20k
+tone_0289,Àwọn kan ti yan ìṣàjọyọ́ àjọ̀dún náà ní ìkọ̀kọ̀. Òǹlo Weibo kan sọ:,incorrect,single_flip,tone,menyo20k
+tone_0289,Àwọn kan ti yan ìṣàjọyọ̀ àjọ̀dún náà ní ìkọ̀kọ̀. Ònlo Weibo kan sọ:,incorrect,single_delete,tone,menyo20k
+tone_0290,Ìṣàyèwò 'alífábẹ́ẹ̀tì tó ń sọ̀rọ̀ ',correct,none,tone,menyo20k
+tone_0290,Iṣayewo 'alifabẹẹti to n sọrọ ',incorrect,strip_all,tone,menyo20k
+tone_0290,Ìṣáyèwò 'alífábẹ́ẹ̀tì tó ń sọ̀rọ̀ ',incorrect,single_flip,tone,menyo20k
+tone_0290,Ìṣàyèwò 'alífábẹ́ẹtì tó ń sọ̀rọ̀ ',incorrect,single_delete,tone,menyo20k
+tone_0291,"Ṣùgbọ́n lẹ́yìn tí àpilẹ̀kọ náà jáde, obìnrin yìí kàn sí mi.",correct,none,tone,menyo20k
+tone_0291,"Ṣugbọn lẹyin ti apilẹkọ naa jade, obinrin yii kan si mi.",incorrect,strip_all,tone,menyo20k
+tone_0291,"Ṣùgbọ́n lẹ̀yìn tí àpilẹ̀kọ náà jáde, obìnrin yìí kàn sí mi.",incorrect,single_flip,tone,menyo20k
+tone_0291,"Ṣùgbọ́n lẹ́yìn tí àpilẹ̀kọ náà jáde, obìnrin yìi kàn sí mi.",incorrect,single_delete,tone,menyo20k
+tone_0292,Kíni ìdá àwọn ènìyàn tó kó o tí ó páwọ́n?,correct,none,tone,menyo20k
+tone_0292,Kini ida awọn eniyan to ko o ti o pawọn?,incorrect,strip_all,tone,menyo20k
+tone_0292,Kíni ìdá àwọn ènìyàn tò kó o tí ó páwọ́n?,incorrect,single_flip,tone,menyo20k
+tone_0292,Kíni ìdá àwọn ènìyàn tó kó o tí o páwọ́n?,incorrect,single_delete,tone,menyo20k
+tone_0293,Ìrònú ìkokò ní yó pa ajá.,correct,none,tone,menyo20k
+tone_0293,Ironu ikoko ni yo pa aja.,incorrect,strip_all,tone,menyo20k
+tone_0293,Ìrònú ìkokò nì yó pa ajá.,incorrect,single_flip,tone,menyo20k
+tone_0293,Ìrònú ìkokò ní yó pa aja.,incorrect,single_delete,tone,menyo20k
+tone_0294,Ẹ jẹ́ kí n sáré lọ gbé omi wa fún yín,correct,none,tone,menyo20k
+tone_0294,Ẹ jẹ ki n sare lọ gbe omi wa fun yin,incorrect,strip_all,tone,menyo20k
+tone_0294,Ẹ jẹ́ kí n sáré lọ gbè omi wa fún yín,incorrect,single_flip,tone,menyo20k
+tone_0294,Ẹ jẹ́ kí n sáré lọ gbé omi wa fún yin,incorrect,single_delete,tone,menyo20k
+tone_0295,Ẹni tí ẹ̀gún gún lẹ́sẹ̀ ní ń ṣe lákáǹláká tẹ̀lé alábẹ́rẹ́.,correct,none,tone,menyo20k
+tone_0295,Ẹni ti ẹgun gun lẹsẹ ni n ṣe lakanlaka tẹle alabẹrẹ.,incorrect,strip_all,tone,menyo20k
+tone_0295,Ẹni tí ẹ̀gún gún lẹ́sẹ̀ ní ń ṣe lákáǹláká tẹ̀lé alábẹ̀rẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0295,Ẹni tí ẹ̀gún gún lẹ́sẹ̀ ní ń ṣe lákáǹláká tẹlé alábẹ́rẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0296,Jẹ́ kí àwọn òkú ó sọ ìtàn nípa Hong Kong,correct,none,tone,menyo20k
+tone_0296,Jẹ ki awọn oku o sọ itan nipa Hong Kong,incorrect,strip_all,tone,menyo20k
+tone_0296,Jẹ́ kí àwọn òkú ó sọ ìtàn nìpa Hong Kong,incorrect,single_flip,tone,menyo20k
+tone_0296,Jẹ́ kí àwọn òkú ó sọ ìtan nípa Hong Kong,incorrect,single_delete,tone,menyo20k
+tone_0297,"Ṣùgbọ́n oríire mi, mi ò ní láti ṣe èyí fún ìgbà pípẹ́.",correct,none,tone,menyo20k
+tone_0297,"Ṣugbọn oriire mi, mi o ni lati ṣe eyi fun igba pipẹ.",incorrect,strip_all,tone,menyo20k
+tone_0297,"Ṣùgbọ́n orìire mi, mi ò ní láti ṣe èyí fún ìgbà pípẹ́.",incorrect,single_flip,tone,menyo20k
+tone_0297,"Ṣùgbọ́n oríire mi, mi ò ní láti ṣe èyí fún ìgbà pipẹ́.",incorrect,single_delete,tone,menyo20k
+tone_0298,Kí a gbé ìbéèrè yìí yẹ̀ wò fínnífínní.,correct,none,tone,menyo20k
+tone_0298,Ki a gbe ibeere yii yẹ wo finnifinni.,incorrect,strip_all,tone,menyo20k
+tone_0298,Kí a gbé ìbéèrè yìí yẹ̀ wò fínnífínnì.,incorrect,single_flip,tone,menyo20k
+tone_0298,Kí a gbé ìbéèrè yìi yẹ̀ wò fínnífínní.,incorrect,single_delete,tone,menyo20k
+tone_0299,Ìmìtìtì Ilẹ̀ Tó Lágbára ní Alaska,correct,none,tone,menyo20k
+tone_0299,Imititi Ilẹ To Lagbara ni Alaska,incorrect,strip_all,tone,menyo20k
+tone_0299,Ìmìtìtì Ilẹ̀ Tó Lágbàra ní Alaska,incorrect,single_flip,tone,menyo20k
+tone_0299,Ìmìtìtì Ilẹ Tó Lágbára ní Alaska,incorrect,single_delete,tone,menyo20k
+tone_0300,Àwọn ènìyàn ń lo ìkànì náà láti ṣe oríṣiríṣi ǹkan.,correct,none,tone,menyo20k
+tone_0300,Awọn eniyan n lo ikani naa lati ṣe oriṣiriṣi nkan.,incorrect,strip_all,tone,menyo20k
+tone_0300,Àwọn ènìyàn ń lo ìkànì náà láti ṣe oríṣirìṣi ǹkan.,incorrect,single_flip,tone,menyo20k
+tone_0300,Àwọn ènìyan ń lo ìkànì náà láti ṣe oríṣiríṣi ǹkan.,incorrect,single_delete,tone,menyo20k
+tone_0301,Àrọ̀ọ̀rọ̀dá Òjò Mú Kí Omi Ya Wọ Ìwọ̀ Oòrùn Íńdíà,correct,none,tone,menyo20k
+tone_0301,Arọọrọda Ojo Mu Ki Omi Ya Wọ Iwọ Oorun India,incorrect,strip_all,tone,menyo20k
+tone_0301,Àrọ̀ọ̀rọ̀dá Òjò Mú Kì Omi Ya Wọ Ìwọ̀ Oòrùn Íńdíà,incorrect,single_flip,tone,menyo20k
+tone_0301,Àrọ̀ọ̀rọ̀dá Òjò Mú Kí Omi Ya Wọ Ìwọ̀ Oòrùn Íńdía,incorrect,single_delete,tone,menyo20k
+tone_0302,Ọ̀nà ọ̀fun ò gba egungun ẹja.,correct,none,tone,menyo20k
+tone_0302,Ọna ọfun o gba egungun ẹja.,incorrect,strip_all,tone,menyo20k
+tone_0302,Ọ̀nà ọ̀fun ó gba egungun ẹja.,incorrect,single_flip,tone,menyo20k
+tone_0302,Ọ̀na ọ̀fun ò gba egungun ẹja.,incorrect,single_delete,tone,menyo20k
+tone_0303,Ìṣòro kan wà ní bíbẹ̀rẹ̀ ìdánwò kúkurú náà. Ìdánwò kúkurú náà kò bẹ̀rẹ̀.,correct,none,tone,menyo20k
+tone_0303,Iṣoro kan wa ni bibẹrẹ idanwo kukuru naa. Idanwo kukuru naa ko bẹrẹ.,incorrect,strip_all,tone,menyo20k
+tone_0303,Ìṣòro kan wà ní bíbẹ̀rẹ̀ ìdànwò kúkurú náà. Ìdánwò kúkurú náà kò bẹ̀rẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0303,Ìṣòro kan wà ní bíbẹ̀rẹ̀ ìdánwò kúkurú náà. Idánwò kúkurú náà kò bẹ̀rẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0304,A kì í rí ẹṣin ní ìso.,correct,none,tone,menyo20k
+tone_0304,A ki i ri ẹṣin ni iso.,incorrect,strip_all,tone,menyo20k
+tone_0304,A kí í rí ẹṣin ní ìso.,incorrect,single_flip,tone,menyo20k
+tone_0304,A kì í ri ẹṣin ní ìso.,incorrect,single_delete,tone,menyo20k
+tone_0305,"Fún òsẹ̀ kan nínu oṣù Agẹmọ, ìkàni Twitter di ilé-ọtí ilẹ̀ Adúláwọ̀ lóòtọ́.",correct,none,tone,menyo20k
+tone_0305,"Fun osẹ kan ninu oṣu Agẹmọ, ikani Twitter di ile-ọti ilẹ Adulawọ lootọ.",incorrect,strip_all,tone,menyo20k
+tone_0305,"Fún òsẹ̀ kan nínu oṣù Agẹmọ, ìkàni Twitter di ilè-ọtí ilẹ̀ Adúláwọ̀ lóòtọ́.",incorrect,single_flip,tone,menyo20k
+tone_0305,"Fún òsẹ̀ kan nínu oṣù Agẹmọ, ìkàni Twitter di ilé-ọti ilẹ̀ Adúláwọ̀ lóòtọ́.",incorrect,single_delete,tone,menyo20k
+tone_0306,"A ṣe ìbúra fún Buhari fún sáà kejì ọlọ́dún mẹ́rin lọ́jọ́ 29, oṣù karùn-ún, 2019.",correct,none,tone,menyo20k
+tone_0306,"A ṣe ibura fun Buhari fun saa keji ọlọdun mẹrin lọjọ 29, oṣu karun-un, 2019.",incorrect,strip_all,tone,menyo20k
+tone_0306,"A ṣe ìbúra fún Buhari fún sáá kejì ọlọ́dún mẹ́rin lọ́jọ́ 29, oṣù karùn-ún, 2019.",incorrect,single_flip,tone,menyo20k
+tone_0306,"A ṣe ìbúra fún Buhari fún sáa kejì ọlọ́dún mẹ́rin lọ́jọ́ 29, oṣù karùn-ún, 2019.",incorrect,single_delete,tone,menyo20k
+tone_0307,O gbọ́dọ̀ forúkọsílẹ̀-wọlé bí alábòójútó láti wo ojú-ewé yìí,correct,none,tone,menyo20k
+tone_0307,O gbọdọ forukọsilẹ-wọle bi alaboojuto lati wo oju-ewe yii,incorrect,strip_all,tone,menyo20k
+tone_0307,O gbọ́dọ̀ forùkọsílẹ̀-wọlé bí alábòójútó láti wo ojú-ewé yìí,incorrect,single_flip,tone,menyo20k
+tone_0307,O gbọ́dọ̀ forúkọsílẹ-wọlé bí alábòójútó láti wo ojú-ewé yìí,incorrect,single_delete,tone,menyo20k
+tone_0308,"Àkísàá mọ ìwọ̀n araa rẹ̀, ó gbé párá jẹ́.",correct,none,tone,menyo20k
+tone_0308,"Akisaa mọ iwọn araa rẹ, o gbe para jẹ.",incorrect,strip_all,tone,menyo20k
+tone_0308,"Àkísáá mọ ìwọ̀n araa rẹ̀, ó gbé párá jẹ́.",incorrect,single_flip,tone,menyo20k
+tone_0308,"Àkísàa mọ ìwọ̀n araa rẹ̀, ó gbé párá jẹ́.",incorrect,single_delete,tone,menyo20k
+tone_0309,Ilé-iṣẹ́ wa ń ran àwọn obìnrin lọ́wọ́ láti gun afárá yẹn.,correct,none,tone,menyo20k
+tone_0309,Ile-iṣẹ wa n ran awọn obinrin lọwọ lati gun afara yẹn.,incorrect,strip_all,tone,menyo20k
+tone_0309,Ilé-iṣẹ́ wa ń ran àwọn obìnrin lọ́wọ̀ láti gun afárá yẹn.,incorrect,single_flip,tone,menyo20k
+tone_0309,Ilé-iṣẹ́ wa n ran àwọn obìnrin lọ́wọ́ láti gun afárá yẹn.,incorrect,single_delete,tone,menyo20k
+tone_0310,Hannan Gazi náà se àgbéjáde tirẹ̀:,correct,none,tone,menyo20k
+tone_0310,Hannan Gazi naa se agbejade tirẹ:,incorrect,strip_all,tone,menyo20k
+tone_0310,Hannan Gazi náà se àgbéjáde tirẹ́:,incorrect,single_flip,tone,menyo20k
+tone_0310,Hannan Gazi náa se àgbéjáde tirẹ̀:,incorrect,single_delete,tone,menyo20k
+tone_0311,"October 9, ní Kirov, Àgbègbè Kirov​—Ó kéré tán, ilé mọ́kàndínlógún (19) ni wọ́n ya wọ̀.",correct,none,tone,menyo20k
+tone_0311,"October 9, ni Kirov, Agbegbe Kirov​—O kere tan, ile mọkandinlogun (19) ni wọn ya wọ.",incorrect,strip_all,tone,menyo20k
+tone_0311,"October 9, ní Kirov, Àgbégbè Kirov​—Ó kéré tán, ilé mọ́kàndínlógún (19) ni wọ́n ya wọ̀.",incorrect,single_flip,tone,menyo20k
+tone_0311,"October 9, ní Kirov, Àgbègbè Kirov​—Ó kéré tán, ilé mọ́kàndínlógun (19) ni wọ́n ya wọ̀.",incorrect,single_delete,tone,menyo20k
+tone_0312,Ẹ̀rí túbọ̀ ń tẹnu àwọn ẹni-orí-kó-yọ jáde lẹ́yìn ọgbọ̀n ọdún.,correct,none,tone,menyo20k
+tone_0312,Ẹri tubọ n tẹnu awọn ẹni-ori-ko-yọ jade lẹyin ọgbọn ọdun.,incorrect,strip_all,tone,menyo20k
+tone_0312,Ẹ̀rí túbọ̀ ń tẹnu àwọn ẹni-orì-kó-yọ jáde lẹ́yìn ọgbọ̀n ọdún.,incorrect,single_flip,tone,menyo20k
+tone_0312,Ẹ̀rí túbọ̀ ń tẹnu awọn ẹni-orí-kó-yọ jáde lẹ́yìn ọgbọ̀n ọdún.,incorrect,single_delete,tone,menyo20k
+tone_0313,Èyí jẹ́ àṣeyege ìwádìí ìjìnlẹ̀ẹ wa.,correct,none,tone,menyo20k
+tone_0313,Eyi jẹ aṣeyege iwadii ijinlẹẹ wa.,incorrect,strip_all,tone,menyo20k
+tone_0313,Èyí jẹ́ àṣeyege ìwádìí íjìnlẹ̀ẹ wa.,incorrect,single_flip,tone,menyo20k
+tone_0313,Èyí jẹ́ àṣeyege ìwádìi ìjìnlẹ̀ẹ wa.,incorrect,single_delete,tone,menyo20k
+tone_0314,--- Real Madrid pegedé sínú àṣekágbá ìdíje UEFA champions league.,correct,none,tone,menyo20k
+tone_0314,--- Real Madrid pegede sinu aṣekagba idije UEFA champions league.,incorrect,strip_all,tone,menyo20k
+tone_0314,--- Real Madrid pegedé sínú àṣekágbá ídíje UEFA champions league.,incorrect,single_flip,tone,menyo20k
+tone_0314,--- Real Madrid pegede sínú àṣekágbá ìdíje UEFA champions league.,incorrect,single_delete,tone,menyo20k
+tone_0315,"O jẹbẹ, o mubẹ, o babẹ jẹ́.",correct,none,tone,menyo20k
+tone_0315,"O jẹbẹ, o mubẹ, o babẹ jẹ.",incorrect,strip_all,tone,menyo20k
+tone_0315,"O jẹbẹ, o mubẹ, o babẹ jẹ̀.",incorrect,single_flip,tone,menyo20k
+tone_0315,"O jẹbẹ, o mubẹ, o babẹ jẹ.",incorrect,single_delete,tone,menyo20k
+tone_0316,Ẹlẹ́kún sunkún ó bá tirẹ̀ lọ; aláròpa ìbá sunkún kò dákẹ́.,correct,none,tone,menyo20k
+tone_0316,Ẹlẹkun sunkun o ba tirẹ lọ; alaropa iba sunkun ko dakẹ.,incorrect,strip_all,tone,menyo20k
+tone_0316,Ẹlẹ́kún sunkún ó bá tirẹ̀ lọ; alàròpa ìbá sunkún kò dákẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0316,Ẹlẹ́kún sunkún ó bá tirẹ̀ lọ; aláròpa ìbá sunkún kò dakẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0317,Olúmọ Ẹ̀gbá ò ṣéé gbé.,correct,none,tone,menyo20k
+tone_0317,Olumọ Ẹgba o ṣee gbe.,incorrect,strip_all,tone,menyo20k
+tone_0317,Olúmọ Ẹ̀gbá ò ṣèé gbé.,incorrect,single_flip,tone,menyo20k
+tone_0317,Olúmọ Ẹ̀gbá ò ṣée gbé.,incorrect,single_delete,tone,menyo20k
+tone_0318,Ìmìtìtì Ilẹ̀ Ṣọsẹ́ Ní Orílẹ̀-Èdè Philippines,correct,none,tone,menyo20k
+tone_0318,Imititi Ilẹ Ṣọsẹ Ni Orilẹ-Ede Philippines,incorrect,strip_all,tone,menyo20k
+tone_0318,Ímìtìtì Ilẹ̀ Ṣọsẹ́ Ní Orílẹ̀-Èdè Philippines,incorrect,single_flip,tone,menyo20k
+tone_0318,Ìmìtìtì Ilẹ̀ Ṣọsẹ́ Ní Orílẹ̀-Edè Philippines,incorrect,single_delete,tone,menyo20k
+tone_0319,"Ajìnfìn, má ta ojú ilé; ọ̀pọ̀lọ́ jìnfìn má ta ojú àtijáde.",correct,none,tone,menyo20k
+tone_0319,"Ajinfin, ma ta oju ile; ọpọlọ jinfin ma ta oju atijade.",incorrect,strip_all,tone,menyo20k
+tone_0319,"Ajìnfìn, má ta ojú ilé; ọ̀pọ́lọ́ jìnfìn má ta ojú àtijáde.",incorrect,single_flip,tone,menyo20k
+tone_0319,"Ajìnfìn, má ta ojú ilé; ọ̀pọ̀lọ jìnfìn má ta ojú àtijáde.",incorrect,single_delete,tone,menyo20k
+tone_0320,Ọ̀gá sọ pé Tinú ò gbọdọ̀ ké. Ọgá tún sọ pé...,correct,none,tone,menyo20k
+tone_0320,Ọga sọ pe Tinu o gbọdọ ke. Ọga tun sọ pe...,incorrect,strip_all,tone,menyo20k
+tone_0320,Ọ́gá sọ pé Tinú ò gbọdọ̀ ké. Ọgá tún sọ pé...,incorrect,single_flip,tone,menyo20k
+tone_0320,Ọ̀gá sọ pé Tinú ò gbọdọ ké. Ọgá tún sọ pé...,incorrect,single_delete,tone,menyo20k
+tone_0321,Daríkiri sí ọ̀tún síta òǹkà ìsàlẹ̀ ti ìdá,correct,none,tone,menyo20k
+tone_0321,Darikiri si ọtun sita onka isalẹ ti ida,incorrect,strip_all,tone,menyo20k
+tone_0321,Daríkiri sí ọ̀tún sìta òǹkà ìsàlẹ̀ ti ìdá,incorrect,single_flip,tone,menyo20k
+tone_0321,Daríkiri sí ọ̀tún síta òǹkà ìsàlẹ̀ ti ìda,incorrect,single_delete,tone,menyo20k
+tone_0322,A lo afárá oyin méjílà àti ẹ̀da afárá oyin méjílà láti dáààbòbo saare ilẹ̀-oko kan.,correct,none,tone,menyo20k
+tone_0322,A lo afara oyin mejila ati ẹda afara oyin mejila lati daaabobo saare ilẹ-oko kan.,incorrect,strip_all,tone,menyo20k
+tone_0322,A lo afárá oyin méjílà àti ẹ̀da afárá oyin méjílà làti dáààbòbo saare ilẹ̀-oko kan.,incorrect,single_flip,tone,menyo20k
+tone_0322,A lo afárá oyin méjílà àti ẹ̀da afárá oyin méjílà láti daààbòbo saare ilẹ̀-oko kan.,incorrect,single_delete,tone,menyo20k
+tone_0323,MB: Àwọn ọ̀nà àbáyọ tó rọrùn sí àwọn ìṣòro àmúdijú.,correct,none,tone,menyo20k
+tone_0323,MB: Awọn ọna abayọ to rọrun si awọn iṣoro amudiju.,incorrect,strip_all,tone,menyo20k
+tone_0323,MB: Àwọn ọ̀nà àbáyọ tó rọrùn sí áwọn ìṣòro àmúdijú.,incorrect,single_flip,tone,menyo20k
+tone_0323,MB: Àwọn ọ̀nà àbáyọ tó rọrùn sí àwọn ìṣòro amúdijú.,incorrect,single_delete,tone,menyo20k
+tone_0324,"""""""Àlàmú gbaradì,"""" á pàpà sọ fún un """"A jọ ń lọ rí Èṣùníyì nísìnyí.""""""",correct,none,tone,menyo20k
+tone_0324,"""""""Alamu gbaradi,"""" a papa sọ fun un """"A jọ n lọ ri Eṣuniyi nisinyi.""""""",incorrect,strip_all,tone,menyo20k
+tone_0324,"""""""Àlàmú gbaradì,"""" á pàpà sọ fùn un """"A jọ ń lọ rí Èṣùníyì nísìnyí.""""""",incorrect,single_flip,tone,menyo20k
+tone_0324,"""""""Àlàmú gbaradì,"""" á pàpà sọ fún un """"A jọ ń lọ rí Èṣùníyì nísinyí.""""""",incorrect,single_delete,tone,menyo20k
+tone_0325,"Ní báyìí, ọ̀wọ́n yìí jẹ́ kí ìwà-ìbàjẹ́ tàn kálẹ̀ ní ẹ̀ka náà.",correct,none,tone,menyo20k
+tone_0325,"Ni bayii, ọwọn yii jẹ ki iwa-ibajẹ tan kalẹ ni ẹka naa.",incorrect,strip_all,tone,menyo20k
+tone_0325,"Ní báyìí, ọ̀wọ́n yìì jẹ́ kí ìwà-ìbàjẹ́ tàn kálẹ̀ ní ẹ̀ka náà.",incorrect,single_flip,tone,menyo20k
+tone_0325,"Ní báyìí, ọ̀wọ́n yìí jẹ kí ìwà-ìbàjẹ́ tàn kálẹ̀ ní ẹ̀ka náà.",incorrect,single_delete,tone,menyo20k
+tone_0326,Fún àwọn eré ìdárayá mìíràn ní èdè Gẹ̀ẹ́sì kan síi.,correct,none,tone,menyo20k
+tone_0326,Fun awọn ere idaraya miiran ni ede Gẹẹsi kan sii.,incorrect,strip_all,tone,menyo20k
+tone_0326,Fún àwọn eré ìdárayá mìíràn ní èdè Gẹ̀ẹ̀sì kan síi.,incorrect,single_flip,tone,menyo20k
+tone_0326,Fún àwọn eré ìdárayá mìíràn ní èdè Gẹ̀ẹ́sì kan sii.,incorrect,single_delete,tone,menyo20k
+tone_0327,Ẹní mọ owóó lò lowó ń bá gbé.,correct,none,tone,menyo20k
+tone_0327,Ẹni mọ owoo lo lowo n ba gbe.,incorrect,strip_all,tone,menyo20k
+tone_0327,Ẹnì mọ owóó lò lowó ń bá gbé.,incorrect,single_flip,tone,menyo20k
+tone_0327,Ẹní mọ owóó lò lowó ń ba gbé.,incorrect,single_delete,tone,menyo20k
+tone_0328,Lékèélékèé ò yé ẹyin dúdú; funfun ni wọ́n ńy é ẹyin wọn.,correct,none,tone,menyo20k
+tone_0328,Lekeelekee o ye ẹyin dudu; funfun ni wọn ny e ẹyin wọn.,incorrect,strip_all,tone,menyo20k
+tone_0328,Lékèélékèè ò yé ẹyin dúdú; funfun ni wọ́n ńy é ẹyin wọn.,incorrect,single_flip,tone,menyo20k
+tone_0328,Lékèélékèé ò yé ẹyin dúdú; funfun ni wọn ńy é ẹyin wọn.,incorrect,single_delete,tone,menyo20k
+tone_0329,--- Wọn yóò ṣàmúlò ẹ̀rọ ìgbàlódé VAR nílẹ̀ Áfíríkà.,correct,none,tone,menyo20k
+tone_0329,--- Wọn yoo ṣamulo ẹrọ igbalode VAR nilẹ Afirika.,incorrect,strip_all,tone,menyo20k
+tone_0329,--- Wọn yóò ṣàmúlò ẹ̀rọ ìgbàlódé VAR nílẹ̀ Àfíríkà.,incorrect,single_flip,tone,menyo20k
+tone_0329,--- Wọn yóò ṣàmúlò ẹrọ ìgbàlódé VAR nílẹ̀ Áfíríkà.,incorrect,single_delete,tone,menyo20k
+tone_0330,Ìbọ́n dídá olówó ló ní kíwọ̀fà rín rín rín kó sọ àdá nù.,correct,none,tone,menyo20k
+tone_0330,Ibọn dida olowo lo ni kiwọfa rin rin rin ko sọ ada nu.,incorrect,strip_all,tone,menyo20k
+tone_0330,Ìbọ́n dídá olówó ló ní kíwọ̀fà rín rín rín kò sọ àdá nù.,incorrect,single_flip,tone,menyo20k
+tone_0330,Ìbọ́n dídá olowó ló ní kíwọ̀fà rín rín rín kó sọ àdá nù.,incorrect,single_delete,tone,menyo20k
+tone_0331,Kà sí i: Nàìjíríà: Gbígbógun ti àpọ̀jù ìkórìíra ẹ̀yà tẹ̀gbintẹ̀gbin - lójúkorojú àti lórí ayélujára,correct,none,tone,menyo20k
+tone_0331,Ka si i: Naijiria: Gbigbogun ti apọju ikoriira ẹya tẹgbintẹgbin - lojukoroju ati lori ayelujara,incorrect,strip_all,tone,menyo20k
+tone_0331,Kà sí i: Nàìjíríà: Gbígbógun ti àpọ̀jù ìkórìíra ẹ̀yà tẹ̀gbintẹ́gbin - lójúkorojú àti lórí ayélujára,incorrect,single_flip,tone,menyo20k
+tone_0331,Kà sí i: Nàìjíríà: Gbígbógun ti àpọ̀jù ìkórìíra ẹ̀ya tẹ̀gbintẹ̀gbin - lójúkorojú àti lórí ayélujára,incorrect,single_delete,tone,menyo20k
+tone_0332,Àwọn àsọtẹ́lẹ̀ wọ̀nyí bàmi bí onígbèraga.,correct,none,tone,menyo20k
+tone_0332,Awọn asọtẹlẹ wọnyi bami bi onigberaga.,incorrect,strip_all,tone,menyo20k
+tone_0332,Áwọn àsọtẹ́lẹ̀ wọ̀nyí bàmi bí onígbèraga.,incorrect,single_flip,tone,menyo20k
+tone_0332,Àwọn àsọtẹ́lẹ̀ wọ̀nyí bami bí onígbèraga.,incorrect,single_delete,tone,menyo20k
+tone_0333,"Ẹni tó mọ ẹtu ní ń kì í ní “òbèjé, ẹlẹ́sẹ̀ ọwọ̀.”",correct,none,tone,menyo20k
+tone_0333,"Ẹni to mọ ẹtu ni n ki i ni “obeje, ẹlẹsẹ ọwọ.”",incorrect,strip_all,tone,menyo20k
+tone_0333,"Ẹni tó mọ ẹtu ní ń kì í ní “òbèjé, ẹlẹ̀sẹ̀ ọwọ̀.”",incorrect,single_flip,tone,menyo20k
+tone_0333,"Ẹni tó mọ ẹtu ní ń kì í ní “òbèjé, ẹlẹsẹ̀ ọwọ̀.”",incorrect,single_delete,tone,menyo20k
+tone_0334,"Àwọn ọmọ ilẹ̀ Adúláwọ̀ ní láti ṣe é, pẹ̀lú àjọṣepọ̀ gbogbo àwọn ènìyàn tókù.",correct,none,tone,menyo20k
+tone_0334,"Awọn ọmọ ilẹ Adulawọ ni lati ṣe e, pẹlu ajọṣepọ gbogbo awọn eniyan toku.",incorrect,strip_all,tone,menyo20k
+tone_0334,"Áwọn ọmọ ilẹ̀ Adúláwọ̀ ní láti ṣe é, pẹ̀lú àjọṣepọ̀ gbogbo àwọn ènìyàn tókù.",incorrect,single_flip,tone,menyo20k
+tone_0334,"Àwọn ọmọ ilẹ̀ Aduláwọ̀ ní láti ṣe é, pẹ̀lú àjọṣepọ̀ gbogbo àwọn ènìyàn tókù.",incorrect,single_delete,tone,menyo20k
+tone_0335,Ojú kan tí gbogbo ènìyàn dúró sí ti kún.,correct,none,tone,menyo20k
+tone_0335,Oju kan ti gbogbo eniyan duro si ti kun.,incorrect,strip_all,tone,menyo20k
+tone_0335,Ojú kan tí gbogbo ènìyàn dúrò sí ti kún.,incorrect,single_flip,tone,menyo20k
+tone_0335,Ojú kan tí gbogbo enìyàn dúró sí ti kún.,incorrect,single_delete,tone,menyo20k
+tone_0336,Ẹrù ọjà pẹ̀lú àkórí nípa Jamaica di títà lórí ayélujára,correct,none,tone,menyo20k
+tone_0336,Ẹru ọja pẹlu akori nipa Jamaica di tita lori ayelujara,incorrect,strip_all,tone,menyo20k
+tone_0336,Ẹrù ọjà pẹ̀lú àkórí nípa Jamaica di títà lórí ayélujàra,incorrect,single_flip,tone,menyo20k
+tone_0336,Ẹrù ọjà pẹ̀lú àkórí nipa Jamaica di títà lórí ayélujára,incorrect,single_delete,tone,menyo20k
+tone_0337,Pala-pálà kì í ṣe ẹran àjẹgbé; ẹ ṣáà máa mu àgúnmu.,correct,none,tone,menyo20k
+tone_0337,Pala-pala ki i ṣe ẹran ajẹgbe; ẹ ṣaa maa mu agunmu.,incorrect,strip_all,tone,menyo20k
+tone_0337,Pala-pálà kí í ṣe ẹran àjẹgbé; ẹ ṣáà máa mu àgúnmu.,incorrect,single_flip,tone,menyo20k
+tone_0337,Pala-palà kì í ṣe ẹran àjẹgbé; ẹ ṣáà máa mu àgúnmu.,incorrect,single_delete,tone,menyo20k
+tone_0338,"Lónìí, a ní ju ẹgbẹ̀rún-lọ́nà-ẹgbẹ̀rún 60 lọ.",correct,none,tone,menyo20k
+tone_0338,"Lonii, a ni ju ẹgbẹrun-lọna-ẹgbẹrun 60 lọ.",incorrect,strip_all,tone,menyo20k
+tone_0338,"Lónìí, a ní ju ẹgbẹ́rún-lọ́nà-ẹgbẹ̀rún 60 lọ.",incorrect,single_flip,tone,menyo20k
+tone_0338,"Lónìí, a ní ju ẹgbẹ̀rún-lọnà-ẹgbẹ̀rún 60 lọ.",incorrect,single_delete,tone,menyo20k
+tone_0339,Bóyá nǹkan mìíràn ló máa kán báyẹn.,correct,none,tone,menyo20k
+tone_0339,Boya nnkan miiran lo maa kan bayẹn.,incorrect,strip_all,tone,menyo20k
+tone_0339,Bóyá nǹkan mìírán ló máa kán báyẹn.,incorrect,single_flip,tone,menyo20k
+tone_0339,Bóyá nǹkan miíràn ló máa kán báyẹn.,incorrect,single_delete,tone,menyo20k
+tone_0340,"Àmọ́ adájọ́ kò tíì dájọ́, àbálọ-bábọ̀ ọ̀rọ̀ di lẹ́yìn oṣù kan.",correct,none,tone,menyo20k
+tone_0340,"Amọ adajọ ko tii dajọ, abalọ-babọ ọrọ di lẹyin oṣu kan.",incorrect,strip_all,tone,menyo20k
+tone_0340,"Àmọ́ adájọ́ kò tíì dájọ́, àbálọ-bábọ̀ ọ̀rọ́ di lẹ́yìn oṣù kan.",incorrect,single_flip,tone,menyo20k
+tone_0340,"Àmọ́ adájọ́ kò tíì dájọ́, àbalọ-bábọ̀ ọ̀rọ̀ di lẹ́yìn oṣù kan.",incorrect,single_delete,tone,menyo20k
+tone_0341,--- Wón tẹ́ Olóògbé Augustina Okechukwu sáfẹ́fẹ́ rere nílùú Enugu.,correct,none,tone,menyo20k
+tone_0341,--- Won tẹ Oloogbe Augustina Okechukwu safẹfẹ rere niluu Enugu.,incorrect,strip_all,tone,menyo20k
+tone_0341,--- Wón tẹ́ Olóògbé Augustina Okechukwu sàfẹ́fẹ́ rere nílùú Enugu.,incorrect,single_flip,tone,menyo20k
+tone_0341,--- Wón tẹ́ Olóògbé Augustina Okechukwu sáfẹfẹ́ rere nílùú Enugu.,incorrect,single_delete,tone,menyo20k
+tone_0342,Àwọn ìmọ̀-ẹ̀rọ tó yanilẹ́nu wà níta níbẹ̀ yẹn.,correct,none,tone,menyo20k
+tone_0342,Awọn imọ-ẹrọ to yanilẹnu wa nita nibẹ yẹn.,incorrect,strip_all,tone,menyo20k
+tone_0342,Àwọn ìmọ̀-ẹ̀rọ tò yanilẹ́nu wà níta níbẹ̀ yẹn.,incorrect,single_flip,tone,menyo20k
+tone_0342,Àwọn ìmọ̀-ẹ̀rọ tó yanilẹ́nu wa níta níbẹ̀ yẹn.,incorrect,single_delete,tone,menyo20k
+tone_0343,"Látìgbà tí mo ti ń bá yín ṣiṣẹ́, mo ní ìfọ̀kànbalẹ̀ tó kojá àfẹnusọ.",correct,none,tone,menyo20k
+tone_0343,"Latigba ti mo ti n ba yin ṣiṣẹ, mo ni ifọkanbalẹ to koja afẹnusọ.",incorrect,strip_all,tone,menyo20k
+tone_0343,"Látìgbà tí mo ti ń bá yín ṣiṣẹ́, mo nì ìfọ̀kànbalẹ̀ tó kojá àfẹnusọ.",incorrect,single_flip,tone,menyo20k
+tone_0343,"Látìgba tí mo ti ń bá yín ṣiṣẹ́, mo ní ìfọ̀kànbalẹ̀ tó kojá àfẹnusọ.",incorrect,single_delete,tone,menyo20k
+tone_0344,"Ẹni tí ó fẹ́ kúure, kó hùwà rere.",correct,none,tone,menyo20k
+tone_0344,"Ẹni ti o fẹ kuure, ko huwa rere.",incorrect,strip_all,tone,menyo20k
+tone_0344,"Ẹni tí ó fẹ́ kùure, kó hùwà rere.",incorrect,single_flip,tone,menyo20k
+tone_0344,"Ẹni ti ó fẹ́ kúure, kó hùwà rere.",incorrect,single_delete,tone,menyo20k
+tone_0345,Fi sílẹ̀ ní òfìfo láti ṣẹ̀dá òǹṣàmúlò tuntun,correct,none,tone,menyo20k
+tone_0345,Fi silẹ ni ofifo lati ṣẹda onṣamulo tuntun,incorrect,strip_all,tone,menyo20k
+tone_0345,Fi sílẹ̀ ní òfìfo láti ṣẹ̀dá òǹṣàmùlò tuntun,incorrect,single_flip,tone,menyo20k
+tone_0345,Fi sílẹ̀ ní òfìfo láti ṣẹ̀dá oǹṣàmúlò tuntun,incorrect,single_delete,tone,menyo20k
+tone_0346,"Àkàsílẹ̀ẹ rẹ lè ní ẹnìkọ̀ọ̀kan, àjọ ìjọba, tàbí àjọ-ìlú.",correct,none,tone,menyo20k
+tone_0346,"Akasilẹẹ rẹ le ni ẹnikọọkan, ajọ ijọba, tabi ajọ-ilu.",incorrect,strip_all,tone,menyo20k
+tone_0346,"Àkásílẹ̀ẹ rẹ lè ní ẹnìkọ̀ọ̀kan, àjọ ìjọba, tàbí àjọ-ìlú.",incorrect,single_flip,tone,menyo20k
+tone_0346,"Àkàsílẹ̀ẹ rẹ lè ní ẹnìkọ̀ọ̀kan, àjọ ìjọba, tabí àjọ-ìlú.",incorrect,single_delete,tone,menyo20k
+tone_0347,"""Àlàmú, la etí rẹ dáadáa kí o gbọ́ mi...""""""",correct,none,tone,menyo20k
+tone_0347,"""Alamu, la eti rẹ daadaa ki o gbọ mi...""""""",incorrect,strip_all,tone,menyo20k
+tone_0347,"""Àlàmú, la etì rẹ dáadáa kí o gbọ́ mi...""""""",incorrect,single_flip,tone,menyo20k
+tone_0347,"""Àlamú, la etí rẹ dáadáa kí o gbọ́ mi...""""""",incorrect,single_delete,tone,menyo20k
+tone_0348,Kò sì sí lákọsílẹ̀ pé ọ̀kan nínú wọn fẹ̀yìn tọ àgbá.,correct,none,tone,menyo20k
+tone_0348,Ko si si lakọsilẹ pe ọkan ninu wọn fẹyin tọ agba.,incorrect,strip_all,tone,menyo20k
+tone_0348,Kò sì sí lákọsílẹ̀ pé ọ̀kan nínú wọn fẹ̀yìn tọ ágbá.,incorrect,single_flip,tone,menyo20k
+tone_0348,Kò sì sí lákọsílẹ̀ pé ọ̀kan nínú wọn fẹyìn tọ àgbá.,incorrect,single_delete,tone,menyo20k
+tone_0349,"Àpéjọ Àgbáyé “Ìfẹ́ Kì Í Yẹ̀ Láé”! Tá A Ṣe ní 2019—Utrecht, Netherlands",correct,none,tone,menyo20k
+tone_0349,"Apejọ Agbaye “Ifẹ Ki I Yẹ Lae”! Ta A Ṣe ni 2019—Utrecht, Netherlands",incorrect,strip_all,tone,menyo20k
+tone_0349,"Ápéjọ Àgbáyé “Ìfẹ́ Kì Í Yẹ̀ Láé”! Tá A Ṣe ní 2019—Utrecht, Netherlands",incorrect,single_flip,tone,menyo20k
+tone_0349,"Àpéjọ Àgbáyé “Ìfẹ́ Kì Í Yẹ̀ Láé”! Ta A Ṣe ní 2019—Utrecht, Netherlands",incorrect,single_delete,tone,menyo20k
+tone_0350,Ìkànnì tí kò sí lákàálẹ̀,correct,none,tone,menyo20k
+tone_0350,Ikanni ti ko si lakaalẹ,incorrect,strip_all,tone,menyo20k
+tone_0350,Íkànnì tí kò sí lákàálẹ̀,incorrect,single_flip,tone,menyo20k
+tone_0350,Ìkànnì ti kò sí lákàálẹ̀,incorrect,single_delete,tone,menyo20k
+tone_0351,Ẹní bá yẹ ọ̀nà Ìjẹ̀bú tì ni yó yẹ̀ ẹ́ tán.,correct,none,tone,menyo20k
+tone_0351,Ẹni ba yẹ ọna Ijẹbu ti ni yo yẹ ẹ tan.,incorrect,strip_all,tone,menyo20k
+tone_0351,Ẹní bá yẹ ọ̀ná Ìjẹ̀bú tì ni yó yẹ̀ ẹ́ tán.,incorrect,single_flip,tone,menyo20k
+tone_0351,Ẹni bá yẹ ọ̀nà Ìjẹ̀bú tì ni yó yẹ̀ ẹ́ tán.,incorrect,single_delete,tone,menyo20k
+tone_0352,"Torí náà, iye irin wúwo tí àwọn ẹranko wọ̀nyí ń jẹ",correct,none,tone,menyo20k
+tone_0352,"Tori naa, iye irin wuwo ti awọn ẹranko wọnyi n jẹ",incorrect,strip_all,tone,menyo20k
+tone_0352,"Torí náá, iye irin wúwo tí àwọn ẹranko wọ̀nyí ń jẹ",incorrect,single_flip,tone,menyo20k
+tone_0352,"Torí náà, iye irin wuwo tí àwọn ẹranko wọ̀nyí ń jẹ",incorrect,single_delete,tone,menyo20k
+tone_0353,Ẹ̀ẹ̀marùn-ún ni a ó ṣe é,correct,none,tone,menyo20k
+tone_0353,Ẹẹmarun-un ni a o ṣe e,incorrect,strip_all,tone,menyo20k
+tone_0353,Ẹ̀ẹ́marùn-ún ni a ó ṣe é,incorrect,single_flip,tone,menyo20k
+tone_0353,Ẹ̀ẹ̀marùn-un ni a ó ṣe é,incorrect,single_delete,tone,menyo20k
+tone_0354,Ẹgbẹ̀rún mẹ́rin ní orílẹ̀-ède Portugal ò túmọ̀ sí nǹkankan.,correct,none,tone,menyo20k
+tone_0354,Ẹgbẹrun mẹrin ni orilẹ-ede Portugal o tumọ si nnkankan.,incorrect,strip_all,tone,menyo20k
+tone_0354,Ẹgbẹ̀rún mẹ́rin ní orílẹ̀-ède Portugal ò túmọ̀ sì nǹkankan.,incorrect,single_flip,tone,menyo20k
+tone_0354,Ẹgbẹ̀run mẹ́rin ní orílẹ̀-ède Portugal ò túmọ̀ sí nǹkankan.,incorrect,single_delete,tone,menyo20k
+tone_0355,Kìí pẹ́ tí wọn ó fi ń wó ọ̀kan nínú àwọn òpó wọ̀nyí lulẹ̀.,correct,none,tone,menyo20k
+tone_0355,Kii pẹ ti wọn o fi n wo ọkan ninu awọn opo wọnyi lulẹ.,incorrect,strip_all,tone,menyo20k
+tone_0355,Kìí pẹ́ tí wọn ó fi ń wò ọ̀kan nínú àwọn òpó wọ̀nyí lulẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0355,Kìí pẹ́ tí wọn ó fi ń wó ọ̀kan nínú àwọn òpó wọ̀nyi lulẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0356,"Bí bẹ́ẹ̀kọ́, àwọn wèrè fúnrawọn náà ágbàjọba ilé náà.",correct,none,tone,menyo20k
+tone_0356,"Bi bẹẹkọ, awọn were funrawọn naa agbajọba ile naa.",incorrect,strip_all,tone,menyo20k
+tone_0356,"Bí bẹ́ẹ̀kọ́, àwọn wèrè fúnrawọn náà ágbájọba ilé náà.",incorrect,single_flip,tone,menyo20k
+tone_0356,"Bí bẹ́ẹ̀kọ́, awọn wèrè fúnrawọn náà ágbàjọba ilé náà.",incorrect,single_delete,tone,menyo20k
+tone_0357,"Dàda ò leè jà, ṣùgbọ́n ó lábùúrò tó gbójú.",correct,none,tone,menyo20k
+tone_0357,"Dada o lee ja, ṣugbọn o labuuro to gboju.",incorrect,strip_all,tone,menyo20k
+tone_0357,"Dàda ò leè jà, ṣùgbọ́n ó lábùúrò tó gbòjú.",incorrect,single_flip,tone,menyo20k
+tone_0357,"Dàda ò leè jà, ṣùgbọn ó lábùúrò tó gbójú.",incorrect,single_delete,tone,menyo20k
+tone_0358,Apẹ́ẹ́jẹ kì í jẹ ìbàjẹ́.,correct,none,tone,menyo20k
+tone_0358,Apẹẹjẹ ki i jẹ ibajẹ.,incorrect,strip_all,tone,menyo20k
+tone_0358,Apẹ́ẹ̀jẹ kì í jẹ ìbàjẹ́.,incorrect,single_flip,tone,menyo20k
+tone_0358,Apẹ́ẹ́jẹ kì í jẹ ibàjẹ́.,incorrect,single_delete,tone,menyo20k
+tone_0359,"Bí a bá fi dídùn họ ifò̩n, a ó họra dé eegun.",correct,none,tone,menyo20k
+tone_0359,"Bi a ba fi didun họ ifo̩n, a o họra de eegun.",incorrect,strip_all,tone,menyo20k
+tone_0359,"Bí a bá fi dídùn họ ifó̩n, a ó họra dé eegun.",incorrect,single_flip,tone,menyo20k
+tone_0359,"Bí a bá fi dídùn họ ifò̩n, a o họra dé eegun.",incorrect,single_delete,tone,menyo20k
+tone_0360,Ó dá ẹ lójú pé kò sí ẹnì kankan nínú ilé yìí,correct,none,tone,menyo20k
+tone_0360,O da ẹ loju pe ko si ẹni kankan ninu ile yii,incorrect,strip_all,tone,menyo20k
+tone_0360,Ó dá ẹ lójú pé kò sí ẹnì kankan nínú ilé yíí,incorrect,single_flip,tone,menyo20k
+tone_0360,Ó da ẹ lójú pé kò sí ẹnì kankan nínú ilé yìí,incorrect,single_delete,tone,menyo20k
+tone_0361,"Kàkà kí ọmọdé pàgbà láyò, àgbà a fi ọgbọ́n àgbà gbé e.",correct,none,tone,menyo20k
+tone_0361,"Kaka ki ọmọde pagba layo, agba a fi ọgbọn agba gbe e.",incorrect,strip_all,tone,menyo20k
+tone_0361,"Kàkà kí ọmọdé pàgbà láyò, àgbà a fi ọgbọ́n àgbá gbé e.",incorrect,single_flip,tone,menyo20k
+tone_0361,"Kàkà kí ọmọdé pàgbà láyò, àgbà a fi ọgbọ́n àgbà gbe e.",incorrect,single_delete,tone,menyo20k
+tone_0362,Àwọn gáàsì yìí jọ ìjìinú òkun lójú rẹ̀! Ìjìinú ife!,correct,none,tone,menyo20k
+tone_0362,Awọn gaasi yii jọ ijiinu okun loju rẹ! Ijiinu ife!,incorrect,strip_all,tone,menyo20k
+tone_0362,Àwọn gáàsì yìì jọ ìjìinú òkun lójú rẹ̀! Ìjìinú ife!,incorrect,single_flip,tone,menyo20k
+tone_0362,Àwọn gáàsì yìí jọ ìjìinú okun lójú rẹ̀! Ìjìinú ife!,incorrect,single_delete,tone,menyo20k
+tone_0363,San là ń rìn; ajé ní ń múni pá kọ̀rọ̀.,correct,none,tone,menyo20k
+tone_0363,San la n rin; aje ni n muni pa kọrọ.,incorrect,strip_all,tone,menyo20k
+tone_0363,San là ǹ rìn; ajé ní ń múni pá kọ̀rọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0363,San là ń rìn; ajé ní ń múni pá kọ̀rọ.,incorrect,single_delete,tone,menyo20k
+tone_0364,Ó hùn mí láti mọ IBI tí wọ́n ti ṣe ìwádìí-àyẹ̀wò yìí ní Nàìjíríà.,correct,none,tone,menyo20k
+tone_0364,O hun mi lati mọ IBI ti wọn ti ṣe iwadii-ayẹwo yii ni Naijiria.,incorrect,strip_all,tone,menyo20k
+tone_0364,Ò hùn mí láti mọ IBI tí wọ́n ti ṣe ìwádìí-àyẹ̀wò yìí ní Nàìjíríà.,incorrect,single_flip,tone,menyo20k
+tone_0364,Ó hùn mí láti mọ IBI tí wọ́n ti ṣe ìwádìi-àyẹ̀wò yìí ní Nàìjíríà.,incorrect,single_delete,tone,menyo20k
+tone_0365,Kò sí kò sí; bẹ́ẹ̀ni ọmọ wọn ń yó.,correct,none,tone,menyo20k
+tone_0365,Ko si ko si; bẹẹni ọmọ wọn n yo.,incorrect,strip_all,tone,menyo20k
+tone_0365,Kò sí kò sí; bẹ́ẹ̀ni ọmọ wọn ǹ yó.,incorrect,single_flip,tone,menyo20k
+tone_0365,Kò sí kò sí; bẹ́ẹ̀ni ọmọ wọn n yó.,incorrect,single_delete,tone,menyo20k
+tone_0366,Torí náà ẹ jẹ́ ká pè é ní Hadiza,correct,none,tone,menyo20k
+tone_0366,Tori naa ẹ jẹ ka pe e ni Hadiza,incorrect,strip_all,tone,menyo20k
+tone_0366,Torí náà ẹ jẹ̀ ká pè é ní Hadiza,incorrect,single_flip,tone,menyo20k
+tone_0366,Torí naà ẹ jẹ́ ká pè é ní Hadiza,incorrect,single_delete,tone,menyo20k
+tone_0367,Ó wà nínu gbogbo wa.,correct,none,tone,menyo20k
+tone_0367,O wa ninu gbogbo wa.,incorrect,strip_all,tone,menyo20k
+tone_0367,Ó wà nìnu gbogbo wa.,incorrect,single_flip,tone,menyo20k
+tone_0367,Ó wà ninu gbogbo wa.,incorrect,single_delete,tone,menyo20k
+tone_0368,"À-gbàbọ̀-ọ ṣòkòtò, bí kò fúnni lẹ́sẹ̀ a ṣoni; rẹ́múrẹ́mú ni ohun ẹni ń bani mu.",correct,none,tone,menyo20k
+tone_0368,"A-gbabọ-ọ ṣokoto, bi ko funni lẹsẹ a ṣoni; rẹmurẹmu ni ohun ẹni n bani mu.",incorrect,strip_all,tone,menyo20k
+tone_0368,"À-gbàbọ̀-ọ ṣòkòtò, bí kó fúnni lẹ́sẹ̀ a ṣoni; rẹ́múrẹ́mú ni ohun ẹni ń bani mu.",incorrect,single_flip,tone,menyo20k
+tone_0368,"À-gbàbọ̀-ọ ṣokòtò, bí kò fúnni lẹ́sẹ̀ a ṣoni; rẹ́múrẹ́mú ni ohun ẹni ń bani mu.",incorrect,single_delete,tone,menyo20k
+tone_0369,A ní dátà ogún ọdún láti fi ṣẹ̀rí pé èyí ń ṣiṣé.,correct,none,tone,menyo20k
+tone_0369,A ni data ogun ọdun lati fi ṣẹri pe eyi n ṣiṣe.,incorrect,strip_all,tone,menyo20k
+tone_0369,A ní dátà ogún ọdún láti fi ṣẹ̀rí pé èyí ǹ ṣiṣé.,incorrect,single_flip,tone,menyo20k
+tone_0369,A ní dátà ogún ọdún láti fi ṣẹ̀rí pé èyí ń ṣiṣe.,incorrect,single_delete,tone,menyo20k
+tone_0370,"Tí a bá wá wo àwọn èto PMTCT wọ̀nyí, kí ló túmọ̀ sí?",correct,none,tone,menyo20k
+tone_0370,"Ti a ba wa wo awọn eto PMTCT wọnyi, ki lo tumọ si?",incorrect,strip_all,tone,menyo20k
+tone_0370,"Tí a bá wá wo àwọn éto PMTCT wọ̀nyí, kí ló túmọ̀ sí?",incorrect,single_flip,tone,menyo20k
+tone_0370,"Tí a bá wá wo àwọn èto PMTCT wọ̀nyí, kí ló túmọ sí?",incorrect,single_delete,tone,menyo20k
+tone_0371,Ìdí nìyí tí mo fi jọ̀wọ́ ayé mi fún ètò-ẹ̀kọ́.,correct,none,tone,menyo20k
+tone_0371,Idi niyi ti mo fi jọwọ aye mi fun eto-ẹkọ.,incorrect,strip_all,tone,menyo20k
+tone_0371,Ìdí nìyí tí mo fi jọ̀wọ́ ayé mi fún étò-ẹ̀kọ́.,incorrect,single_flip,tone,menyo20k
+tone_0371,Ìdí nìyí tí mo fi jọ̀wọ́ ayé mi fún ètò-ẹ̀kọ.,incorrect,single_delete,tone,menyo20k
+tone_0372,Ẹ̀ya ara yẹn náà ni ó lè ṣe ìdíwọ́ fún ìgbàgbọ wa nípa òótọ́.,correct,none,tone,menyo20k
+tone_0372,Ẹya ara yẹn naa ni o le ṣe idiwọ fun igbagbọ wa nipa ootọ.,incorrect,strip_all,tone,menyo20k
+tone_0372,Ẹ̀ya ara yẹn nàà ni ó lè ṣe ìdíwọ́ fún ìgbàgbọ wa nípa òótọ́.,incorrect,single_flip,tone,menyo20k
+tone_0372,Ẹ̀ya ara yẹn náà ni ó lè ṣe ìdíwọ́ fún ìgbàgbọ wa nípa oótọ́.,incorrect,single_delete,tone,menyo20k
+tone_0373,"Àwọn adarí owó ní oríṣiríṣi ìpeníjà láti kojú, lásíkò yìí.",correct,none,tone,menyo20k
+tone_0373,"Awọn adari owo ni oriṣiriṣi ipenija lati koju, lasiko yii.",incorrect,strip_all,tone,menyo20k
+tone_0373,"Àwọn adarì owó ní oríṣiríṣi ìpeníjà láti kojú, lásíkò yìí.",incorrect,single_flip,tone,menyo20k
+tone_0373,"Àwọn adarí owó ní oríṣiríṣi ìpeníjà láti kojú, lasíkò yìí.",incorrect,single_delete,tone,menyo20k
+tone_0374,Ó mọ̀ pé obìnrin tún lè mú ìparun wábí i paramọ́lẹ̀.,correct,none,tone,menyo20k
+tone_0374,O mọ pe obinrin tun le mu iparun wabi i paramọlẹ.,incorrect,strip_all,tone,menyo20k
+tone_0374,Ó mọ̀ pé obìnrin tún lè mú ìparun wàbí i paramọ́lẹ̀.,incorrect,single_flip,tone,menyo20k
+tone_0374,Ó mọ̀ pé obìnrin tún lè mu ìparun wábí i paramọ́lẹ̀.,incorrect,single_delete,tone,menyo20k
+tone_0375,“Àńjùwọ́n” ò ṣéé wí lẹ́jọ́; ìjà ìlara ò tán bọ̀rọ̀.,correct,none,tone,menyo20k
+tone_0375,“Anjuwọn” o ṣee wi lẹjọ; ija ilara o tan bọrọ.,incorrect,strip_all,tone,menyo20k
+tone_0375,“Àńjùwọ́n” ò ṣéé wí lẹ́jọ́; ìjá ìlara ò tán bọ̀rọ̀.,incorrect,single_flip,tone,menyo20k
+tone_0375,“Àńjuwọ́n” ò ṣéé wí lẹ́jọ́; ìjà ìlara ò tán bọ̀rọ̀.,incorrect,single_delete,tone,menyo20k
+tone_0376,"Egungun rẹ̀ á nà, á fẹ́rẹ̀ ẹ́ lè kán.",correct,none,tone,menyo20k
+tone_0376,"Egungun rẹ a na, a fẹrẹ ẹ le kan.",incorrect,strip_all,tone,menyo20k
+tone_0376,"Egungun rẹ̀ á nà, á fẹ́rẹ̀ ẹ́ lè kàn.",incorrect,single_flip,tone,menyo20k
+tone_0376,"Egungun rẹ̀ á nà, á fẹ́rẹ ẹ́ lè kán.",incorrect,single_delete,tone,menyo20k
+tone_0377,"Bẹ́ẹ̀ ní, wọn máa parí ẹ̀ láìpẹ́",correct,none,tone,menyo20k
+tone_0377,"Bẹẹ ni, wọn maa pari ẹ laipẹ",incorrect,strip_all,tone,menyo20k
+tone_0377,"Bẹ̀ẹ̀ ní, wọn máa parí ẹ̀ láìpẹ́",incorrect,single_flip,tone,menyo20k
+tone_0377,"Bẹ́ẹ̀ ní, wọn máa parí ẹ̀ laìpẹ́",incorrect,single_delete,tone,menyo20k
+tone_0378,"Ohun tí a ṣe nílé àna ẹni, “Ojú ń tì mí” kúrò níbẹ̀.",correct,none,tone,menyo20k
+tone_0378,"Ohun ti a ṣe nile ana ẹni, “Oju n ti mi” kuro nibẹ.",incorrect,strip_all,tone,menyo20k
+tone_0378,"Ohun tí a ṣe nílé àna ẹni, “Ojú ń tì mì” kúrò níbẹ̀.",incorrect,single_flip,tone,menyo20k
+tone_0378,"Ohun tí a ṣe nilé àna ẹni, “Ojú ń tì mí” kúrò níbẹ̀.",incorrect,single_delete,tone,menyo20k
+tone_0379,Ìran mẹ́ta péré ló gbà.,correct,none,tone,menyo20k
+tone_0379,Iran mẹta pere lo gba.,incorrect,strip_all,tone,menyo20k
+tone_0379,Ìran mẹ́ta pérè ló gbà.,incorrect,single_flip,tone,menyo20k
+tone_0379,Ìran mẹ́ta peré ló gbà.,incorrect,single_delete,tone,menyo20k
+tone_0380,Ẹjọ́ yẹn wà ní ilé-ẹjọ́ kò tẹ́milọ́rùn.,correct,none,tone,menyo20k
+tone_0380,Ẹjọ yẹn wa ni ile-ẹjọ ko tẹmilọrun.,incorrect,strip_all,tone,menyo20k
+tone_0380,Ẹjọ́ yẹn wà ní ilé-ẹjọ́ kò tẹ́milọ̀rùn.,incorrect,single_flip,tone,menyo20k
+tone_0380,Ẹjọ́ yẹn wà ni ilé-ẹjọ́ kò tẹ́milọ́rùn.,incorrect,single_delete,tone,menyo20k
+tone_0381,A kò ní alẹ́ àìláriwo.,correct,none,tone,menyo20k
+tone_0381,A ko ni alẹ ailariwo.,incorrect,strip_all,tone,menyo20k
+tone_0381,A kò ní alẹ́ áìláriwo.,incorrect,single_flip,tone,menyo20k
+tone_0381,A kò ni alẹ́ àìláriwo.,incorrect,single_delete,tone,menyo20k
+tone_0382,"Bí o bá já n ó so ọ́, kókó yó wà láàárín-in rẹ̀.",correct,none,tone,menyo20k
+tone_0382,"Bi o ba ja n o so ọ, koko yo wa laaarin-in rẹ.",incorrect,strip_all,tone,menyo20k
+tone_0382,"Bí o bá já n ó so ọ́, kókó yó wà láààrín-in rẹ̀.",incorrect,single_flip,tone,menyo20k
+tone_0382,"Bí o bá já n ó so ọ́, kókó yó wa láàárín-in rẹ̀.",incorrect,single_delete,tone,menyo20k
+tone_0383,Mo ti sọ nígbà pípẹ́ pé nǹkan tí a nílò ni ìdámọ̀ àìsàn kánkán.,correct,none,tone,menyo20k
+tone_0383,Mo ti sọ nigba pipẹ pe nnkan ti a nilo ni idamọ aisan kankan.,incorrect,strip_all,tone,menyo20k
+tone_0383,Mo ti sọ nígbà pípẹ́ pé nǹkan tí a níló ni ìdámọ̀ àìsàn kánkán.,incorrect,single_flip,tone,menyo20k
+tone_0383,Mo ti sọ nígbà pípẹ́ pé nǹkan tí a nílò ni ìdámọ̀ àìsàn kankán.,incorrect,single_delete,tone,menyo20k
+tone_0384,COVID-19 wà lára àjálù tí ó ń kujú ọmọnìyàn,correct,none,tone,menyo20k
+tone_0384,COVID-19 wa lara ajalu ti o n kuju ọmọniyan,incorrect,strip_all,tone,menyo20k
+tone_0384,COVID-19 wà lára àjálù tí ó ǹ kujú ọmọnìyàn,incorrect,single_flip,tone,menyo20k
+tone_0384,COVID-19 wà lára àjálù tí o ń kujú ọmọnìyàn,incorrect,single_delete,tone,menyo20k
+tone_0385,Gbogbo ètò àjẹsára àìfaragbàìsàn-láàyè ti lúwẹ̀ wọnú ẹ̀dọ̀fóóró.,correct,none,tone,menyo20k
+tone_0385,Gbogbo eto ajẹsara aifaragbaisan-laaye ti luwẹ wọnu ẹdọfooro.,incorrect,strip_all,tone,menyo20k
+tone_0385,Gbogbo ètò àjẹsára àìfaragbàìsàn-láàyè ti lúwẹ̀ wọnú ẹ̀dọ̀fóòró.,incorrect,single_flip,tone,menyo20k
+tone_0385,Gbogbo ètò àjẹsára àìfaragbàìsan-láàyè ti lúwẹ̀ wọnú ẹ̀dọ̀fóóró.,incorrect,single_delete,tone,menyo20k
+tone_0386,"Ṣùgbọ́n láìní yípada, ní àsìkò kànkan, a máa ń padà sọ nípa Twitter.",correct,none,tone,menyo20k
+tone_0386,"Ṣugbọn laini yipada, ni asiko kankan, a maa n pada sọ nipa Twitter.",incorrect,strip_all,tone,menyo20k
+tone_0386,"Ṣùgbọ́n láìní yìpada, ní àsìkò kànkan, a máa ń padà sọ nípa Twitter.",incorrect,single_flip,tone,menyo20k
+tone_0386,"Ṣùgbọ́n láìní yípada, ní àsìkò kànkan, a máa ń pada sọ nípa Twitter.",incorrect,single_delete,tone,menyo20k
+tone_0387,"Níparí, a ṣe ìlànà ètò tí orílẹ̀ - èdè lè lò fún ìdàgbàsókè",correct,none,tone,menyo20k
+tone_0387,"Nipari, a ṣe ilana eto ti orilẹ - ede le lo fun idagbasoke",incorrect,strip_all,tone,menyo20k
+tone_0387,"Níparí, a ṣe ìlànà ètò tì orílẹ̀ - èdè lè lò fún ìdàgbàsókè",incorrect,single_flip,tone,menyo20k
+tone_0387,"Níparí, a ṣe ilànà ètò tí orílẹ̀ - èdè lè lò fún ìdàgbàsókè",incorrect,single_delete,tone,menyo20k
+tone_0388,"""Kíyèsára fún """"ìbéèrè ààbò"""" tí ibùdó-ìtàkùn-àgbáyé ń lò fi ṣe ìfẹsẹ̀múlẹ̀ ìdánimọ̀ọ rẹ.""",correct,none,tone,menyo20k
+tone_0388,"""Kiyesara fun """"ibeere aabo"""" ti ibudo-itakun-agbaye n lo fi ṣe ifẹsẹmulẹ idanimọọ rẹ.""",incorrect,strip_all,tone,menyo20k
+tone_0388,"""Kíyèsára fún """"ìbéèrè áàbò"""" tí ibùdó-ìtàkùn-àgbáyé ń lò fi ṣe ìfẹsẹ̀múlẹ̀ ìdánimọ̀ọ rẹ.""",incorrect,single_flip,tone,menyo20k
+tone_0388,"""Kíyèsára fún """"ìbéèrè ààbò"""" tí ibùdó-ìtàkùn-àgbáyé ń lò fi ṣe ìfẹsẹ̀múlẹ̀ ìdánimọọ rẹ.""",incorrect,single_delete,tone,menyo20k
+tone_0389,Òdo nìkan ni iye àìléwu sìgá fún ọmọ ènìyàn.,correct,none,tone,menyo20k
+tone_0389,Odo nikan ni iye ailewu siga fun ọmọ eniyan.,incorrect,strip_all,tone,menyo20k
+tone_0389,Òdo nìkan ni iye àìléwu sìgá fùn ọmọ ènìyàn.,incorrect,single_flip,tone,menyo20k
+tone_0389,Òdo nìkan ni iye àiléwu sìgá fún ọmọ ènìyàn.,incorrect,single_delete,tone,menyo20k
+tone_0390,"Òyìnbó Òkè Eléérú, ó ṣubú sóde Alọ́ba; kùmọ̀ ni yó gbe dìde.",correct,none,tone,menyo20k
+tone_0390,"Oyinbo Oke Eleeru, o ṣubu sode Alọba; kumọ ni yo gbe dide.",incorrect,strip_all,tone,menyo20k
+tone_0390,"Òyìnbó Òkè Eléérú, ó ṣubú sóde Alọ́ba; kùmọ̀ ni yò gbe dìde.",incorrect,single_flip,tone,menyo20k
+tone_0390,"Òyìnbó Òkè Eléérú, ó ṣubú sóde Alọ́ba; kumọ̀ ni yó gbe dìde.",incorrect,single_delete,tone,menyo20k
+tone_0391,"--- COVID-19: Ààrẹ Buhari dúpẹ́ lọ́wọ́ àwọn ènìyàn, ilé-iṣẹ́ fún àtìlẹ́yìn",correct,none,tone,menyo20k
+tone_0391,"--- COVID-19: Aarẹ Buhari dupẹ lọwọ awọn eniyan, ile-iṣẹ fun atilẹyin",incorrect,strip_all,tone,menyo20k
+tone_0391,"--- COVID-19: Ààrẹ Buhari dúpẹ́ lọ́wọ́ àwọn ènìyàn, ilè-iṣẹ́ fún àtìlẹ́yìn",incorrect,single_flip,tone,menyo20k
+tone_0391,"--- COVID-19: Aàrẹ Buhari dúpẹ́ lọ́wọ́ àwọn ènìyàn, ilé-iṣẹ́ fún àtìlẹ́yìn",incorrect,single_delete,tone,menyo20k
+tone_0392,"Níbí, a nílò àwọn ìtàn-ìpìlẹ̀, tó jẹ́ ibi tí ìdánilẹ́kọ̀ ìtàn mi yóò ti wọlé.",correct,none,tone,menyo20k
+tone_0392,"Nibi, a nilo awọn itan-ipilẹ, to jẹ ibi ti idanilẹkọ itan mi yoo ti wọle.",incorrect,strip_all,tone,menyo20k
+tone_0392,"Níbí, a nílò àwọn ìtàn-ìpìlẹ̀, tó jẹ́ ibi tí ìdánilẹ̀kọ̀ ìtàn mi yóò ti wọlé.",incorrect,single_flip,tone,menyo20k
+tone_0392,"Níbí, a nílò àwọn ìtàn-ìpìlẹ̀, to jẹ́ ibi tí ìdánilẹ́kọ̀ ìtàn mi yóò ti wọlé.",incorrect,single_delete,tone,menyo20k
+tone_0393,“Ṣe mí níṣu” ní ń ṣíwájú “ẹ kúuṣẹ́” bí?,correct,none,tone,menyo20k
+tone_0393,“Ṣe mi niṣu” ni n ṣiwaju “ẹ kuuṣẹ” bi?,incorrect,strip_all,tone,menyo20k
+tone_0393,“Ṣe mí níṣu” nì ń ṣíwájú “ẹ kúuṣẹ́” bí?,incorrect,single_flip,tone,menyo20k
+tone_0393,“Ṣe mí níṣu” ní ń ṣíwájú “ẹ kuuṣẹ́” bí?,incorrect,single_delete,tone,menyo20k
+tone_0394,Ń ṣàfihàn àwọn akẹ́kọ̀ọ́ tí ó forúkọsílẹ̀ ní yàrá ìkẹ́kọ̀ọ́ yìí nìkan,correct,none,tone,menyo20k
+tone_0394,N ṣafihan awọn akẹkọọ ti o forukọsilẹ ni yara ikẹkọọ yii nikan,incorrect,strip_all,tone,menyo20k
+tone_0394,Ń ṣàfihàn àwọn akẹ́kọ̀ọ̀ tí ó forúkọsílẹ̀ ní yàrá ìkẹ́kọ̀ọ́ yìí nìkan,incorrect,single_flip,tone,menyo20k
+tone_0394,Ń ṣàfihàn àwọn akẹ́kọ̀ọ́ tí ó forúkọsílẹ ní yàrá ìkẹ́kọ̀ọ́ yìí nìkan,incorrect,single_delete,tone,menyo20k
+tone_0395,"Omí wọ́ yanrìn gbẹrẹrẹ, bẹ́ẹ̀ni omi ò lọ́wọ́, omi ò lẹ́sẹ̀.",correct,none,tone,menyo20k
+tone_0395,"Omi wọ yanrin gbẹrẹrẹ, bẹẹni omi o lọwọ, omi o lẹsẹ.",incorrect,strip_all,tone,menyo20k
+tone_0395,"Omí wọ́ yanrìn gbẹrẹrẹ, bẹ́ẹ́ni omi ò lọ́wọ́, omi ò lẹ́sẹ̀.",incorrect,single_flip,tone,menyo20k
+tone_0395,"Omí wọ́ yanrìn gbẹrẹrẹ, bẹ́ẹ̀ni omi o lọ́wọ́, omi ò lẹ́sẹ̀.",incorrect,single_delete,tone,menyo20k
+tone_0396,Ikọ̀ Nàìjííríà sepò kejì nínú ìdíje CHAN tí ó wáyé lórílẹ̀-èdè Morocco.,correct,none,tone,menyo20k
+tone_0396,Ikọ Naijiiria sepo keji ninu idije CHAN ti o waye lorilẹ-ede Morocco.,incorrect,strip_all,tone,menyo20k
+tone_0396,Ikọ̀ Nàìjííríà sepò kejí nínú ìdíje CHAN tí ó wáyé lórílẹ̀-èdè Morocco.,incorrect,single_flip,tone,menyo20k
+tone_0396,Ikọ̀ Nàìjííríà sepò kejì nínú ìdíje CHAN tí ó wáyé lórílẹ-èdè Morocco.,incorrect,single_delete,tone,menyo20k
+tone_0397,Ìmìtìtì Ilẹ̀ Wáyé ní Mẹ́síkò,correct,none,tone,menyo20k
+tone_0397,Imititi Ilẹ Waye ni Mẹsiko,incorrect,strip_all,tone,menyo20k
+tone_0397,Ìmìtìtì Ilẹ́ Wáyé ní Mẹ́síkò,incorrect,single_flip,tone,menyo20k
+tone_0397,Ìmìtìtì Ilẹ̀ Wáyé ní Mẹsíkò,incorrect,single_delete,tone,menyo20k
+tone_0398,Wọn rọ àwọn aláṣẹ ilé-ìwé ọ̀hún láti yọ ọ́ kúrò l'órí òye náà.,correct,none,tone,menyo20k
+tone_0398,Wọn rọ awọn alaṣẹ ile-iwe ọhun lati yọ ọ kuro l'ori oye naa.,incorrect,strip_all,tone,menyo20k
+tone_0398,Wọn rọ áwọn aláṣẹ ilé-ìwé ọ̀hún láti yọ ọ́ kúrò l'órí òye náà.,incorrect,single_flip,tone,menyo20k
+tone_0398,Wọn rọ àwọn aláṣẹ ilé-ìwé ọ̀hun láti yọ ọ́ kúrò l'órí òye náà.,incorrect,single_delete,tone,menyo20k
+tone_0399,Oníbànà ní ń tọ́jú òroǹbó; onídẹ ní ń tọ́jú awẹdẹ.,correct,none,tone,menyo20k
+tone_0399,Onibana ni n tọju oronbo; onidẹ ni n tọju awẹdẹ.,incorrect,strip_all,tone,menyo20k
+tone_0399,Oníbánà ní ń tọ́jú òroǹbó; onídẹ ní ń tọ́jú awẹdẹ.,incorrect,single_flip,tone,menyo20k
+tone_0399,Oníbànà ni ń tọ́jú òroǹbó; onídẹ ní ń tọ́jú awẹdẹ.,incorrect,single_delete,tone,menyo20k
